@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Aaron J. Molstad"
+title                    : # "Aaron J. Molstad"
 title_separator          : "-"
 name                     : "Aaron J. Molstad"
-description              : "Postdoctoral Research Fellow, Fred Hutchinson Cancer Research Center"
+description              : "Postdoctoral Research Fellow @ Fred Hutchinson Cancer Research Center"
 url                      :  "https://ajmolstad.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ajmolstad/ajmolstad.github.io"
