@@ -13,7 +13,7 @@ name                     : # "Aaron J. Molstad"
 description              : # "Postdoctoral Research Fellow @ Fred Hutchinson Cancer Research Center"
 url                      :  "https://ajmolstad.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "ajmolstad/ajmolstad.github.io"
+repository               : # "ajmolstad/ajmolstad.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "ajmolstad"
   google_plus      :
   keybase          :
   instagram        :
