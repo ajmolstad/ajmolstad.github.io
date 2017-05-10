@@ -9,8 +9,8 @@
 locale                   : "en"
 title                    : # "Aaron J. Molstad"
 title_separator          : "-"
-name                     : "Aaron J. Molstad"
-description              : "Postdoctoral Research Fellow @ Fred Hutchinson Cancer Research Center"
+name                     : # "Aaron J. Molstad"
+description              : # "Postdoctoral Research Fellow @ Fred Hutchinson Cancer Research Center"
 url                      :  "https://ajmolstad.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ajmolstad/ajmolstad.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Aaron J. Molstad"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Postdoctoral Research Fellow, Fred Hutchinson Cancer Research Center."
+  bio              : "Postdoctoral Research Fellow @ Fred Hutchinson Cancer Research Center."
   location         : "Seattle, WA"
   email            : "amolstad@fredhutch.org"
   uri              :
