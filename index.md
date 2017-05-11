@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About
+### About
 
 In April 2017, I received my Ph.D. from the [School of Statistics](http://stat.umn.edu) at the University of Minnesota under the supervision of [Prof. Adam J. Rothman](http://users.stat.umn.edu/~arothman). Before that, I graduated *cum laude* from St. Olaf College in Northfield, MN with a BA in Mathematics and concentration in Statistics. In May 2017, I moved to the Biostatistics Program at the[Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en.html) in Seattle, WA. 
 
