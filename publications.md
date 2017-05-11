@@ -1,6 +1,5 @@
 ---
 layout: page
-description: Manuscripts by Aaron J. Molstad 
 ---
 ##### Publications
 
