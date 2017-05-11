@@ -242,5 +242,5 @@ defaults:
       author_profile: true
       read_time: 
       comments: # true
-      share: true
-      related: true
+      share: 
+      related: 
