@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-##### Software
+### Software
 
 **Molstad, A. J.** (2016). MatrixLDA: Penalized matrix-normal linear discriminant analysis. R package, [http://cran.r-project.org/package=MatrixLDA.](https://cran.r-project.org/web/packages/MatrixLDA/)
 
