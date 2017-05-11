@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : # "Aaron J. Molstad"
+title                    : "Site Title"
 title_separator          : "-"
-name                     : # "Aaron J. Molstad"
-description              : # "Postdoctoral Research Fellow, Fred Hutchinson Cancer Research Center"
-url                      :  "https://ajmolstad.github.io"
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # "ajmolstad/ajmolstad.github.io"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : aaron_molstad
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -70,18 +70,18 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Aaron J. Molstad"
-  avatar           : /assets/images/bio-photo.jpg
-  bio              : "Postdoctoral Research Fellow, Fred Hutchinson Cancer Research Center"
-  location         : "Seattle, WA"
-  email            : "amolstad@fredhutch.org"
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ajmolstad"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -172,7 +172,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 0 # amount of posts to show
+paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -230,7 +230,7 @@ compress_html:
   ignore:
     envs: development
 
-include: ["_pages"]
+
 # Defaults
 defaults:
   # _posts
@@ -240,7 +240,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: 
+      read_time: true
       comments: # true
-      share: 
-      related: 
+      share: true
+      related: true
