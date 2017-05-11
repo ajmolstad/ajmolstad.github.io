@@ -2,27 +2,122 @@
 layout: default
 ---
 
-### About
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-In April 2017, I received my Ph.D. from the [School of Statistics](http://stat.umn.edu) at the University of Minnesota under the supervision of [Prof. Adam J. Rothman](http://users.stat.umn.edu/~arothman). Before that, I graduated *cum laude* from St. Olaf College in Northfield, MN with a BA in Mathematics and concentration in Statistics. In May 2017, I moved to the Biostatistics Program at the[Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en.html) in Seattle, WA. 
+[Link to another page](another-page).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+# [](#header-1)Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## [](#header-2)Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### [](#header-3)Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### [](#header-4)Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### [](#header-5)Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### [](#header-6)Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![](https://guides.github.com/activities/hello-world/branching.png)
 
 
-My research interests are in multivariate analysis, optimization, and machine learning. In particular, I'm interested in developing computationally efficient and model-based methods for classification, regression, model-based clustering, and dimension reduction. More generally, I'm interested in reproducible research, statistical applications in genomics, and computing. During the 2016-2017 academic year, my research was supported by the [Doctoral Dissertation Fellowship](https://www.grad.umn.edu/funding-tuition/ddf) from the University of Minnesota. 
+### Definition lists can be used with HTML syntax.
 
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
 
-### Publications
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
 
-**Molstad, Aaron J.** and Rothman, Adam J. (2016). [Indirect multivariate response linear regression](https://academic.oup.com/biomet/article-abstract/103/3/595/1744444/Indirect-multivariate-response-linear-regression?redirectedFrom=fulltext). *Biometrika* **103** (3), 595-607. [Supplementary Material](publications/IMRLR.pdf)
-
-**Molstad, Aaron J.**  and Rothman, Adam J. (2017+). [A penalized likelihood method for classification with matrix-valued predictors](publications/MatLDA.pdf). *Revision invited.*
-
-**Molstad, Aaron J.** and Rothman, Adam J. (2017+). [Shrinking characteristics of precision matrix estimators.](publications/CharShrink.pdf) *Submitted.* 
-
-
-### Software
-
-**Molstad, A.\ J.**(2016). MatrixLDA: Penalized matrix-normal linear discriminant analysis. R package, http://cran.r-project.org/package=MatrixLDA.
-
-**Molstad, A.\ J.** (2015). FastBandChol: Fast estimation of a covariance matrix by banding the Cholesky factor.\ R package, http://cran.r-project.org/package=FastBandChol.
-
-
+```
+The final element.
+```
