@@ -2,7 +2,7 @@
 layout: default
 ---
 
-In April 2017, I received my Ph.D. from the [School of Statistics](http://stat.umn.edu) at the University of Minnesota under the supervision of [Adam J. Rothman](http://users.stat.umn.edu/~arothman). </a> Before that, I graduated *cum laude* from St. Olaf College in Northfield, MN with a BA in mathematics and a distinction in statistics. I have moved to the [Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en.html) in Seattle, WA. 
+In April 2017, I received my Ph.D. from the [School of Statistics](http://stat.umn.edu) at the University of Minnesota under the supervision of [Adam J. Rothman](http://users.stat.umn.edu/~arothman). Before that, I graduated *cum laude* from St. Olaf College in Northfield, MN with a BA in mathematics and a distinction in statistics. I have moved to the [Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en.html) in Seattle, WA. 
 
 My research interests are in multivariate analysis, optimization, and machine learning. In particular, I'm interested in developing  computationally efficient and model-based methods for classification, regression, model-based clustering, and dimension reduction. More generally, I'm interested in reproducible research, statistical applications in genomics, and computing. 
 
