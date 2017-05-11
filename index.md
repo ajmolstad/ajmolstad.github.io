@@ -12,7 +12,7 @@ My research interests are in multivariate analysis, optimization, and machine le
 
 ### Publications
 
-**Molstad, Aaron J.** and Rothman, Adam J. (2016). [Indirect multivariate response linear regression]{https://academic.oup.com/biomet/article-abstract/103/3/595/1744444/Indirect-multivariate-response-linear-regression?redirectedFrom=fulltext}. *Biometrika* **103** (3), 595-607. [Supplementary Material](publications/IMRLR.pdf)
+**Molstad, Aaron J.** and Rothman, Adam J. (2016). [Indirect multivariate response linear regression](https://academic.oup.com/biomet/article-abstract/103/3/595/1744444/Indirect-multivariate-response-linear-regression?redirectedFrom=fulltext). *Biometrika* **103** (3), 595-607. [Supplementary Material](publications/IMRLR.pdf)
 
 **Molstad, Aaron J.**  and Rothman, Adam J. (2017+). [A penalized likelihood method for classification with matrix-valued predictors](publications/MatLDA.pdf). *Revision invited.*
 
@@ -21,8 +21,8 @@ My research interests are in multivariate analysis, optimization, and machine le
 
 ### Software
 
-**Molstad, A.\ J.**(2016). MatrixLDA: Penalized matrix-normal linear discriminant analysis. R package, [https://cran.r-project.org/web/packages/MatrixLDA/]{http://cran.r-project.org/package=MatrixLDA.}
+**Molstad, A.\ J.**(2016). MatrixLDA: Penalized matrix-normal linear discriminant analysis. R package, http://cran.r-project.org/package=MatrixLDA.
 
-**Molstad, A.\ J.** (2015). FastBandChol: Fast estimation of a covariance matrix by banding the Cholesky factor.\ R package, [\href{https://cran.r-project.org/web/packages/FastBandChol/]{http://cran.r-project.org/package=FastBandChol.}
+**Molstad, A.\ J.** (2015). FastBandChol: Fast estimation of a covariance matrix by banding the Cholesky factor.\ R package, http://cran.r-project.org/package=FastBandChol.
 
 
