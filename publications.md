@@ -7,4 +7,4 @@ layout: default
 
 **Molstad, Aaron J.** and Rothman, Adam J. (2018). Shrinking characteristics of precision matrix estimators. *Biometrika*, to appear. 
 
-**Molstad, Aaron J.**  and Rothman, Adam J. (2017+). A penalized likelihood method for classification with matrix-valued predictors. [*Submitted*](pages/MatrixLDA.pdf). [R Package: MatrixLDA](https://cran.r-project.org/web/packages/MatrixLDA/.)
+**Molstad, Aaron J.**  and Rothman, Adam J. (2017+). A penalized likelihood method for classification with matrix-valued predictors. [*Journal of Computational and Graphical Statistics*](pages/MatrixLDA.pdf), to appear. [R Package: MatrixLDA](https://cran.r-project.org/web/packages/MatrixLDA/.)
