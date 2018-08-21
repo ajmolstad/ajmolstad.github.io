@@ -10,7 +10,7 @@ Indirect multivariate response linear regression. <br>
 
 **Molstad, Aaron J.** and Rothman, Adam J. (2018) <br>
 Shrinking characteristics of precision matrix estimators. <br>
-[[pdf](https://academic.oup.com/biomet/article/105/3/563/4994725?guestAccessKey=34dcd085-e992-4398-a8f9-a56cb3ac9207)][[software](https://cran.r-project.org/web/packages/SCPME/index.html) by [M. Galloway](https://mgallow.github.io)][[supplementary material](https://academic.oup.com/biomet/article/105/3/563/4994725?guestAccessKey=34dcd085-e992-4398-a8f9-a56cb3ac9207#supplementary-data)]<br>
+[[pdf](https://academic.oup.com/biomet/article/105/3/563/4994725?guestAccessKey=34dcd085-e992-4398-a8f9-a56cb3ac9207)][[supplementary material](https://academic.oup.com/biomet/article/105/3/563/4994725?guestAccessKey=34dcd085-e992-4398-a8f9-a56cb3ac9207#supplementary-data)]<br>
 *Biometrika*. **105** (3), 563-574. <br>
 
 
