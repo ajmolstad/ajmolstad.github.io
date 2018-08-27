@@ -17,7 +17,3 @@ A penalized likelihood method for classification with matrix-valued predictors. 
 Shrinking characteristics of precision matrix estimators. <br>
 [[pdf](https://academic.oup.com/biomet/article/105/3/563/4994725?guestAccessKey=34dcd085-e992-4398-a8f9-a56cb3ac9207)][[supplementary material](https://academic.oup.com/biomet/article/105/3/563/4994725?guestAccessKey=34dcd085-e992-4398-a8f9-a56cb3ac9207#supplementary-data)]<br>
 *Biometrika*. **105** (3), 563-574. <br>
-
-**Molstad, Aaron J.**, Hsu, Li, and Sun, Wei. (2018+) <br>
-Gaussian process regression for survival time prediction with genome-wide gene expression. <br>
-*Submitted*.
