@@ -4,11 +4,11 @@ layout: default
 ### Preprints
 **Molstad, A. J.**, Hsu, L., and Sun, W. (2018+) <br>
 Gaussian process regression for survival time prediction with genome-wide gene expression. <br>
-[[pdf](https://www.dropbox.com/s/67kboumboq7vs7o/SurvGPR_arXiv.pdf?dl=0)][[software](https://github.com/ajmolstad/SurvGPR)]<br> *Submitted*. 
+[[pdf](https://arxiv.org/abs/1808.10541)][[software](https://github.com/ajmolstad/SurvGPR)]<br> *Submitted*. 
 
 **Molstad, A. J.**, Weng, G., Doss, C. R., and Rothman, A. J. (2018+)<br>
 An explicit mean-covariance parameterization for multivariate response linear regression. <br>
-[[pdf](https://www.dropbox.com/s/9urr3jh751lzt74/MCMVR_arXiv.pdf?dl=0)][[software](https://github.com/ajmolstad/MCMVR)]<br>
+[[pdf](https://arxiv.org/pdf/1808.10558.pdf)][[software](https://github.com/ajmolstad/MCMVR)]<br>
 *Submitted*. <br>
 
 
