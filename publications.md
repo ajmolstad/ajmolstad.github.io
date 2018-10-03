@@ -21,7 +21,7 @@ Indirect multivariate response linear regression. <br>
 
 **Molstad, A. J.**  and Rothman, A. J. (2018+)<br>
 A penalized likelihood method for classification with matrix-valued predictors. <br>
-[[pdf](https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1476249)][[software](https://github.com/ajmolstad/MatrixLDA.)][[supplementary material](https://www.tandfonline.com/doi/suppl/10.1080/10618600.2018.1476249?scroll=top)] <br>
+[[pdf](https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1476249)][[software](https://github.com/ajmolstad/MatrixLDA)][[supplementary material](https://www.tandfonline.com/doi/suppl/10.1080/10618600.2018.1476249?scroll=top)] <br>
 *Journal of Computational and Graphical Statistics*, to appear. <br>
 
 
