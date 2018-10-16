@@ -20,11 +20,12 @@
         {{ site.location | default: site.github.project_tagline }}<br>
         <a href="mailto:amolstad@fredhutch.org" target="_top"> <i class="fa fa-envelope-square fa-lg"> </i> amolstad@fredhutch.org</a>
         </p>
-           <p class="view"><a href="home">Home</a></p>
         
-          <p class="view"><a href="pubs">Publications</a></p>
+           <p class="view"><a href="{{ site.url }}/index.html"> Home </a></p>
+        
+          <p class="view"><a href="{{ site.url }}/publications.html"> Publications </a></p>
           
-          <p class="view"><a href="software">Software</a></p>
+          <p class="view"><a href="{{ site.url }}/software.html"> Software </a></p>
           
           
 
@@ -60,10 +61,8 @@
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
   ga('create', 'UA-55515506-1', 'auto');
   ga('send', 'pageview');
-
 </script>
   </body>
 </html>
