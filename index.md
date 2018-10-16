@@ -9,4 +9,4 @@ My research interests are in multivariate analysis and numerical optimization. I
 Please feel free to contact me by email with any questions or comments about any of my work. 
 
 ### Upcoming talks: 
-- I will be speaking at CMStatistics on December 14th in Pisa, Italy. 
+- Dec 15, 2018, 11th International Conference of the ERIC WG on CMStatistics, Pisa, Italy.
