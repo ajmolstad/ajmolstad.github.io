@@ -20,7 +20,7 @@ p, ul, ol, table, pre, dl {
 }
 
 h1, h2, h3 {
-  line-height:1.0;
+  line-height:0.0;
 }
 
 h1 {
@@ -69,7 +69,7 @@ blockquote {
 }
 
 code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  font-family:"Times New Roman", Times, serif;
   color:#333;
   font-size:12px;
 }
