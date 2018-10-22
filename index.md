@@ -10,5 +10,5 @@ Please feel free to contact me with any questions or comments about any of my wo
 
 
 ### Upcoming talks: 
-- Dec 14th, 2018, 11th International Conference of the ERIC WG (CMStatistics), Pisa, Italy.
-- May 30th, 2019, Symposium on Data Science and Statistics (SDSS), Seattle, Washington.
+- Dec 14th, 2018, [CMStatistics](http://www.cmstatistics.org/CMStatistics2018/), Pisa, Italy.
+- May 30th, 2019, [SDSS](http://ww2.amstat.org/meetings/sdss/2019/), Seattle, Washington.
