@@ -10,5 +10,5 @@ Please feel free to contact me with any questions or comments about any of my wo
 
 
 ### Upcoming talks: 
-- Dec 14th, 2018: [CMStatistics 2018](http://www.cmstatistics.org/CMStatistics2018/), ERCIM WG, in Pisa, Italy.
-- May 30th, 2019: [Symposium on Data Science and Stat. 2019](http://ww2.amstat.org/meetings/sdss/2019/), ASA, in Bellevue, Washington.
+- Dec 14th, 2018: [CMStatistics](http://www.cmstatistics.org/CMStatistics2018/), ERCIM WG, in Pisa, Italy.
+- May 30th, 2019: [Symposium on Data Science and Statistics](http://ww2.amstat.org/meetings/sdss/2019/), ASA, in Bellevue, Washington.
