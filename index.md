@@ -6,7 +6,7 @@ I received my Ph.D. from the [School of Statistics](http://stat.umn.edu) at the 
 
 My research interests are in multivariate analysis and numerical optimization. In particular, I'm interested in developing  computationally efficient and model-based methods for classification, regression, clustering, and dimension reduction, with an emphasis on methods that are applicable to statistical genetics and genomics. 
 
-Please feel free to contact me with any questions or comments about any of my work. 
+Please feel free to contact me with any questions or comments about any of my work. Here is a copy of [CV](cv.pdf).
 
 
 ### Upcoming talks: 
