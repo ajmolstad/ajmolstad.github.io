@@ -6,9 +6,8 @@ I received my Ph.D. from the [School of Statistics](http://stat.umn.edu) at the 
 
 My research interests are in multivariate analysis and numerical optimization. In particular, I'm interested in developing  computationally efficient and model-based methods for classification, regression, clustering, and dimension reduction, with an emphasis on methods that are applicable to statistical genetics and genomics. 
 
-Please feel free to contact me with any questions or comments about any of my work. Here is a copy of [CV](CV_Public.pdf).
+Please feel free to contact me with any questions or comments about any of my work. 
 
 
 ### Upcoming talks: 
-- Dec 14th, 2018: [CMStatistics 2018](http://www.cmstatistics.org/CMStatistics2018/), in Pisa, Italy.
 - May 30th, 2019: [Symposium on Data Science and Statistics](http://ww2.amstat.org/meetings/sdss/2019/), in Bellevue, Washington.
