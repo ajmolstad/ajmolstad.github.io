@@ -11,3 +11,5 @@ Please feel free to contact me with any questions or comments about any of my wo
 
 ### Upcoming talks: 
 - May 30th, 2019: [Symposium on Data Science and Statistics](http://ww2.amstat.org/meetings/sdss/2019/), in Bellevue, Washington.
+- June 6th, 2019: [Department of Biostatistics, University of washington](https://www.biostat.washington.edu/node/9933), in Seattle, Washington. 
+- December, 2019: [Conference on Computational and Methodological Statistics](http://cmstatistics.org/CMStatistics2019/), in London, UK. 
