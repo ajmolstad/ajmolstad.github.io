@@ -6,7 +6,7 @@ I received my Ph.D. from the [School of Statistics](http://stat.umn.edu) at the 
 
 In Fall 2019, I will join the [Department of Statistics](http://stat.ufl.edu/) at the [University of Florida](http://www.ufl.edu/) as an Assistant Professsor. 
 
-My research interests are in multivariate analysis and numerical optimization. In particular, I'm interested in developing  computationally efficient and model-based methods for classification, regression, clustering, and dimension reduction, with an emphasis on methods that are applicable to statistical genetics and genomics. 
+My research interests are in multivariate analysis, numerical optimization, and more broadly, statistical and machine learning. In particular, I'm interested in developing  computationally efficient and model-based methods for classification, regression, clustering, and dimension reduction, with an emphasis on methods that are applicable to statistical genetics and genomics. 
 
 Please feel free to contact me with any questions or comments about any of my work. 
 
