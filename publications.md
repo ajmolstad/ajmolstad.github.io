@@ -15,10 +15,10 @@ Shrinking characteristics of precision matrix estimators. <br>
 [[pdf](https://academic.oup.com/biomet/article/105/3/563/4994725?guestAccessKey=34dcd085-e992-4398-a8f9-a56cb3ac9207)][[supplementary material](https://academic.oup.com/biomet/article/105/3/563/4994725?guestAccessKey=34dcd085-e992-4398-a8f9-a56cb3ac9207#supplementary-data)]<br>
 *Biometrika*. **105** (3), 563-574. <br>
 
-**Molstad, A. J.**  and Rothman, A. J. (2018+)<br>
+**Molstad, A. J.**  and Rothman, A. J. (2019)<br>
 A penalized likelihood method for classification with matrix-valued predictors. <br>
 [[pdf](https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1476249)][[software](https://github.com/ajmolstad/MatrixLDA)][[supplementary material](https://www.tandfonline.com/doi/suppl/10.1080/10618600.2018.1476249?scroll=top)] <br>
-*Journal of Computational and Graphical Statistics*, to appear. <br>
+*Journal of Computational and Graphical Statistics*, **28** (1), 11-22. <br?
 
 **Molstad, A. J.** and Rothman, A. J. (2016) <br>
 Indirect multivariate response linear regression. <br>
