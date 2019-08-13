@@ -1,0 +1,14 @@
+- title: "About"
+  href: "/about/"
+
+- title: "Research"
+  href: "/research/"
+
+# - title: "Software"
+#   href: "/software/"
+
+- title: "Teaching"
+  href: "/teaching/"
+
+- title: "Github"
+  href: "https://github.com/ajmolstad"
