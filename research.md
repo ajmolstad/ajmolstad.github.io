@@ -27,7 +27,7 @@ Estimating multiple precision matrices with cluster fusion regularization. <br>
 *Submitted*.  <br>
 
 **Molstad, A. J.** (2019+)<br>
-Computational and theoretical developments for the multivariate square-root lasso. <br>
+The multivariate square-root lasso. <br>
 *Submitted*.  <br>
 
 Sherwood, B., **Molstad, A. J.**, and Singha, S. (2019+)<br>
