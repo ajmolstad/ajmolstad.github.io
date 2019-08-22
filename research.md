@@ -13,14 +13,14 @@ permalink: /research/
 A latent variable model for mixed-type multivariate response regression. <br>
 *Submitted*.  <br> -->
 
-<!-- **Molstad, A. J.**, and Rothman A. J. (2020+)<br>
+**Molstad, A. J.**, and Rothman A. J. (2020+)<br>
 Variable selection for multivariate multinomial logistic regression. <br>
 *Submitted*.  <br>
 
 **Molstad, A. J.**, Sun, W., and Hsu, L. (2019+)<br>
 A covariance-enhanced approach for multi-tissue joint eQTL mapping with application to transcriptome wide association studies. <br>
 [[pdf](https://arxiv.org/pdf/1808.10558.pdf)][[access results](https://github.com/ajmolstad/MCMVR)]<br>
-*In preparation*.  <br> -->
+*In preparation*.  <br>
 
 Price, B. S., **Molstad, A. J.**, and Sherwood, B. (2019+)<br>
 Estimating multiple precision matrices with cluster fusion regularization. <br>
