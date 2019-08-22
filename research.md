@@ -15,7 +15,7 @@ A latent variable model for mixed-type multivariate response regression. <br>
 
 **Molstad, A. J.**, and Rothman A. J. (2020+)<br>
 Variable selection for multivariate multinomial logistic regression. <br>
-*Submitted*.  <br>
+*In preparation*.  <br>
 
 **Molstad, A. J.**, Sun, W., and Hsu, L. (2019+)<br>
 A covariance-enhanced approach for multi-tissue joint eQTL mapping with application to transcriptome wide association studies. <br>
