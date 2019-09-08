@@ -41,7 +41,7 @@ An explicit mean-covariance parameterization for multivariate response linear re
 
 **Molstad, A. J.**, Hsu, L., and Sun, W. (2019) <br>
 Gaussian process regression for survival time prediction with genome-wide gene expression. <br>
-[[pdf](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxz023/5530981)][[software](https://github.com/ajmolstad/SurvGPR)]<br> 
+[[pdf](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxz023/5530981)][[software](https://github.com/ajmolstad/SurvGPR)][[example](/docs/SurvGPR_Example.html)]<br> 
 *To appear in Biostatistics*.<br>
 
 **Molstad, A. J.** and Rothman, A. J. (2018) <br>
