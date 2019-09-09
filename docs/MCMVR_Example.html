@@ -370,11 +370,12 @@ summary {
 </div>
 
 
-<p>In this document, we provide a short tutorial on how to use the <span class="math inline">\(\texttt{MCMVR}\)</span> R package. <strong>If you encounter any errors or strange behavior, please report the issue at <a href="http://github.com/ajmolstad/MCMVR" class="uri">http://github.com/ajmolstad/MCMVR</a>.</strong> We download this package from GitHub.</p>
+<p>In this document, we provide a short tutorial on how to use the <span class="math inline">\(\texttt{MCMVR}\)</span> R package. <strong>If you encounter any errors or strange behavior, please report the issue at <a href="https://github.com/ajmolstad/MCMVR" class="uri">https://github.com/ajmolstad/MCMVR</a>.</strong> We start by downloading this package from GitHub.</p>
 <pre class="r"><code>install.packages(&quot;devtools&quot;)
 library(devtools)
 devtools::install_github(&quot;ajmolstad/MCMVR&quot;)
-library(MCMVR)</code></pre>
+library(MCMVR)
+sessionInfo()</code></pre>
 <p>First, we generate data from the “errors-in-variables” data generating model described in Section 3.1 of the article.</p>
 <pre class="r"><code>set.seed(1)
 p &lt;- 50
