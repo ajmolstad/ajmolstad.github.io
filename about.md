@@ -10,4 +10,4 @@ I received my Ph.D. from the [School of Statistics at the University of Minnesot
 
 My research interests are in multivariate analysis, numerical optimization, statistical computing, tensor-valued data analysis, and more broadly, machine learning. My goal is to in develop computationally efficient and model-based methods for classification, regression, clustering, and dimension reduction, with an emphasis on methods that are applicable in statistical genetics and genomics. 
 
-Please feel free to contact me with any questions or comments about any of my work. 
+Please feel free to contact me with any questions or comments about my work. 
