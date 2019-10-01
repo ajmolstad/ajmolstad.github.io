@@ -31,8 +31,9 @@ Insights and algorithms for the multivariate square-root lasso. <br>
 [[pdf](https://arxiv.org/pdf/1909.05041)][[software](https://github.com/ajmolstad/MSRL)][[example](/docs/MSRL_Example.html)] <br>
 *Submitted*.  <br>
 
-Sherwood, B., **Molstad, A. J.**, and Singha, S. (2019+)<br>
+Sherwood, B., **Molstad, A. J.**, and Singha, S. (2020)<br>
 Asymptotic properties of concave L1-norm group penalties.  <br>
+[[pdf](https://www.sciencedirect.com/science/article/pii/S0167715219302779)][[supplementary material](https://www.sciencedirect.com/science/article/pii/S0167715219302779#appSB)] <br>
 *To appear in Statistics and Probability Letters*.  <br>
 
 **Molstad, A. J.**, Weng, G., Doss, C. R., and Rothman, A. J. (2019+)<br>
