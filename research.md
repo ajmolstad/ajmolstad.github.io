@@ -9,9 +9,9 @@ permalink: /research/
 *Submitted preprints available by email.*
 
 
-<!-- Ekvall, K. O., and **Molstad, A. J.** (2020+)<br>
+Ekvall, K. O., and **Molstad, A. J.** (2020+)<br>
 A latent variable model for mixed-type multivariate response regression. <br>
-*Submitted*.  <br> -->
+*Submitted*.  <br>
 
 <!-- **Molstad, A. J.**, and Rothman A. J. (2020+)<br>
 Variable selection for multivariate multinomial logistic regression. <br>
