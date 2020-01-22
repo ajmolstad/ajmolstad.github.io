@@ -19,7 +19,7 @@ Variable selection for multivariate multinomial logistic regression. <br>
 
 **Molstad, A. J.**, Sun, W., and Hsu, L. (2020+)<br>
 A covariance-enhanced approach for multi-tissue joint eQTL mapping with application to transcriptome wide association studies. <br>
-[[pdf](/docs/MTeQTL_R0).pdf][[results](https://github.com/ajmolstad/MTeQTLResults)] <br>
+[[pdf](/docs/MTeQTL_R0.pdf)][[results](https://github.com/ajmolstad/MTeQTLResults)] <br>
 *Submitted*.  <br>
 
 Price, B. S., **Molstad, A. J.**, and Sherwood, B. (2019+)<br>
