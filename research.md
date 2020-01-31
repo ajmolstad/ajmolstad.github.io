@@ -34,7 +34,7 @@ Insights and algorithms for the multivariate square-root lasso. <br>
 Sherwood, B., **Molstad, A. J.**, and Singha, S. (2020)<br>
 Asymptotic properties of concave L1-norm group penalties.  <br>
 [[pdf](https://www.sciencedirect.com/science/article/pii/S0167715219302779)][[supplementary material](https://www.sciencedirect.com/science/article/pii/S0167715219302779#appSB)] <br>
-*Statistics and Probability Letters*. ***157*** <br>
+*Statistics and Probability Letters*. **157** <br>
 
 **Molstad, A. J.**, Weng, G., Doss, C. R., and Rothman, A. J. (2019+)<br>
 An explicit mean-covariance parameterization for multivariate response linear regression. <br>
