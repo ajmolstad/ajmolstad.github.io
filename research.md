@@ -9,7 +9,7 @@ permalink: /research/
 *Submitted preprints available by email.*
 
 **Molstad, A. J.** (2020+)<br>
-Dimension reduction in pan-cancer survival analysis<br>
+Dimension reduction in pan-cancer survival analysis.<br>
 *Submitted*. <br>
 
 Ekvall, K. O., and **Molstad, A. J.** (2020+)<br>
