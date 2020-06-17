@@ -27,6 +27,7 @@ A covariance-enhanced approach for multi-tissue joint eQTL mapping with applicat
 
 Price, B. S., **Molstad, A. J.**, and Sherwood, B. (2019+)<br>
 Estimating multiple precision matrices with cluster fusion regularization. <br>
+[[pdf](https://arxiv.org/pdf/2003.00371)]
 *Submitted*.  <br>
 
 **Molstad, A. J.** (2019+)<br>
