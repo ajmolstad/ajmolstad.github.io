@@ -8,7 +8,7 @@ permalink: /research/
 
 *Submitted preprints available by email.*
 
-Suder, P. and **Molstad, A. J.** (2020+)<br>
+<!-- Suder, P. and **Molstad, A. J.** (2020+)<br>
 ADMM for high-dimensional rank-based accelerated failure time models.<br>
 *Submitted*. <br>
 
@@ -22,7 +22,7 @@ A latent variable model for mixed-type multivariate response regression. <br>
 
 **Molstad, A. J.**, and Rothman A. J. (2020+)<br>
 A likelihood-based model selection framework for multivariate categorical response regression. <br>
-*Submitted*.  <br>
+*Submitted*.  <br> -->
 
 **Molstad, A. J.**, Sun, W., and Hsu, L. (2020+)<br>
 A covariance-enhanced approach for multi-tissue joint eQTL mapping with application to transcriptome wide association studies. <br>
