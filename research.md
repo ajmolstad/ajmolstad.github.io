@@ -10,20 +10,20 @@ permalink: /research/
 
 <!-- Suder, P. and **Molstad, A. J.** (2020+)<br>
 ADMM for high-dimensional rank-based accelerated failure time models.<br>
+*Submitted*. <br> -->
+
+**Molstad, A. J.** and Patra, R. (2020+)<br>
+Dimension reduction in high-dimensional pan-cancer survival analysis.<br>
 *Submitted*. <br>
 
-**Molstad, A. J.** (2020+)<br>
-Factor estimation in pan-cancer survival analysis.<br>
-*Submitted*. <br>
-
-Ekvall, K. O., and **Molstad, A. J.** (2020+)<br>
+<!-- Ekvall, K. O., and **Molstad, A. J.** (2020+)<br>
 A latent variable model for mixed-type multivariate response regression. <br>
 *Submitted*.  <br> -->
 
-<!-- **Molstad, A. J.**, and Rothman A. J. (2020+)<br>
+**Molstad, A. J.**, and Rothman A. J. (2020+)<br>
 A likelihood-based approach for multivariate categorical response regression in high dimensions. <br>
 [[pdf](https://arxiv.org/pdf/1909.05041)][[software](https://github.com/ajmolstad/BvCategorical)][[example](/docs/BvCategorical_Example.html)] <br>
-*Submitted*.  <br> -->
+*Submitted*.  <br>
 
 **Molstad, A. J.**, Sun, W., and Hsu, L. (2020+)<br>
 A covariance-enhanced approach for multi-tissue joint eQTL mapping with application to transcriptome wide association studies. <br>
