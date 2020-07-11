@@ -16,9 +16,9 @@ ADMM for high-dimensional rank-based accelerated failure time models.<br>
 Dimension reduction in high-dimensional pan-cancer survival analysis.<br>
 *Submitted*. <br>
 
-<!-- Ekvall, K. O., and **Molstad, A. J.** (2020+)<br>
-A latent variable model for mixed-type multivariate response regression. <br>
-*Submitted*.  <br> -->
+Ekvall, K. O., and **Molstad, A. J.** (2020+)<br>
+Mixed-type multivariate response regression. <br>
+*Submitted*.  <br>
 
 **Molstad, A. J.**, and Rothman A. J. (2020+)<br>
 A likelihood-based approach for multivariate categorical response regression in high dimensions. <br>
