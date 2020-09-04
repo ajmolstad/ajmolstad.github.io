@@ -13,7 +13,7 @@ ADMM for high-dimensional rank-based accelerated failure time models.<br>
 *Submitted*. <br> -->
 
 <!-- **Molstad, A. J.** and Patra, R. (2020+)<br>
-Dimension reduction in high-dimensional pan-cancer survival analysis.<br>
+Dimension reduction in high-dimensional pan-cancer survival analysis under proportional hazards. <br>
 *Submitted*. <br> -->
 
 <!-- Ekvall, K. O., and **Molstad, A. J.** (2020+)<br>
