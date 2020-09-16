@@ -20,7 +20,7 @@ ridge.cv.func <- function(X, y, lambda.vec, cv.index) {
         DU.y <- du.y/d.2.lam
         dim(DU.y) <- c(q, length(lambda.vec))
         b <- tcrossprod(rsvd$v,t(DU.y))
-        pred.err <- (y.test - tcrossprod(x.test,b))^2
+        pred.err <- (y.test - tcrossprod(x.test,t(b)))^2
         return(pred.err)
     }
                  
