@@ -25,9 +25,9 @@ ridge.cv.func <- function(X, y, lambda.vec, cv.index) {
     }
                  
     result <- lapply(cv.index, cv.func)
-    MSE <- colSums(do.call(rbind, result))
-    cvErrs <- lapply(result, colSums)
-    lambda.min <- lambda.vec[which(MSE==min(MSE))]
-    return(list("lambda.min" = lambda.min, "MSE"= MSE, "cvErrs" = cvErrs))
+    CV.total <- colSums(do.call(rbind, result))
+    CV.folds <- lapply(result, colSums)
+    lambda.min <- lambda.vec[which(CV.total==min(CV.total))]
+    return(list("lambda.min" = lambda.min, "CV.total"= CV.total, "CV.folds" = CV.folds))
 
 }
