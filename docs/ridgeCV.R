@@ -27,7 +27,7 @@ ridge.cv.func <- function(X, y, lambda.vec, cv.index) {
     result <- lapply(cv.index, cv.func)
     MSE <- colSums(do.call(rbind, result))
     cvErrs <- lapply(result, colMeans)
-    best.lam <- lambda.vec[which(MSE==min(MSE))]
+    lambda.min <- lambda.vec[which(MSE==min(MSE))]
     out <- ridge.func(X,y,best.lam)
-    return(list("lam"=best.lam, "MSE"= MSE, "cvErrs" = cvErrs)  
+    return(list("lambda.min" = lambda.min, "MSE"= MSE, "cvErrs" = cvErrs))
 }
