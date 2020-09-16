@@ -9,7 +9,7 @@ ridge.cv.func <- function(X, y, lambda.vec, cv.index) {
         y.test <- y[cv.index] - mean(y[-cv.index])
 
         x.bar.train <- apply(X[-cv.index,],2,mean)
-        x.t.train <- X[-cv.index,] - tcrossprod(rep(1,n-length(cv.index)),x.bar.train)
+        x.t.train <- X[-cv.index,] - tcrossprod(rep(1,n - length(cv.index)),x.bar.train)
         x.test <- X[cv.index,] - tcrossprod(rep(1,length(cv.index)),x.bar.train)
 
         q <- min(dim(x.t.train)[1] - 1, p - 1)
@@ -19,8 +19,8 @@ ridge.cv.func <- function(X, y, lambda.vec, cv.index) {
         du.y <- as.vector(d*(crossprod(rsvd$u,y.t.train)))
         DU.y <- du.y/d.2.lam
         dim(DU.y) <- c(q, length(lambda.vec))
-        b <- rsvd$v%*%DU.y
-        pred.err <- (y.test - x.test%*%b)^2
+        b <- tcrossprod(rsvd$v,t(DU.y))
+        pred.err <- (y.test - tcrossprod(x.test,b))^2
         return(pred.err)
     }
                  
@@ -28,6 +28,6 @@ ridge.cv.func <- function(X, y, lambda.vec, cv.index) {
     MSE <- colSums(do.call(rbind, result))
     cvErrs <- lapply(result, colMeans)
     lambda.min <- lambda.vec[which(MSE==min(MSE))]
-    out <- ridge.func(X,y,best.lam)
     return(list("lambda.min" = lambda.min, "MSE"= MSE, "cvErrs" = cvErrs))
+
 }
