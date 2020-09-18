@@ -1,0 +1,3 @@
+load("/Users/aaron/Documents/GitHub/ajmolstad.github.io/docs/GBM_xRNA_ymiRNA.RDS")
+temp <- readRDS("/Users/aaron/Documents/GitHub/ajmolstad.github.io/docs/GBM_xRNA_ymiRNA.RDS")
+str(temp)
