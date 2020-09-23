@@ -8,17 +8,17 @@ permalink: /research/
 
 *Submitted preprints available by email.*
 
-<!-- Suder, P. and **Molstad, A. J.** (2020+)<br>
+Suder, P. and **Molstad, A. J.** (2020+)<br>
 ADMM for high-dimensional rank-based accelerated failure time models.<br>
-*Submitted*. <br> -->
+*Submitted*. <br>
 
-<!-- **Molstad, A. J.** and Patra, R. (2020+)<br>
-Dimension reduction in high-dimensional pan-cancer survival analysis under proportional hazards. <br>
-*Submitted*. <br> -->
+**Molstad, A. J.** and Patra, R. (2020+)<br>
+Dimension reduction in multi-source survival analysis. <br>
+*Submitted*. <br>
 
-<!-- Ekvall, K. O., and **Molstad, A. J.** (2020+)<br>
+Ekvall, K. O., and **Molstad, A. J.** (2020+)<br>
 Mixed-type multivariate response regression. <br>
-*Submitted*.  <br> -->
+*Submitted*.  <br>
 
 **Molstad, A. J.**, and Rothman A. J. (2020+)<br>
 A likelihood-based approach for multivariate categorical response regression in high dimensions. <br>
