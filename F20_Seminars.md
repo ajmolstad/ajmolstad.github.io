@@ -1,7 +1,7 @@
 ---
 layout: defaultCourse
 title: STA7934
-permalink: /F20_StatisticsSeminars/
+permalink: /F20_Seminars/
 ---
 # Fall 2020: Department of Statistics seminar calender 
 
