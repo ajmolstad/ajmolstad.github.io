@@ -48,7 +48,7 @@ Asymptotic properties of concave L1-norm group penalties.  <br>
 **Molstad, A. J.**, Weng, G., Doss, C. R., and Rothman, A. J. (2019+)<br>
 An explicit mean-covariance parameterization for multivariate response linear regression. <br>
 [[pdf](https://arxiv.org/pdf/1808.10558.pdf)][[software](https://github.com/ajmolstad/MCMVR)][[example](/docs/MCMVR_Example.html)]<br>
-*Submitted*.  <br>
+*To appear in Journal of Computational and Graphical Statistics*.  <br>
 
 **Molstad, A. J.**, Hsu, L., and Sun, W. (2019) <br>
 Gaussian process regression for survival time prediction with genome-wide gene expression. <br>
