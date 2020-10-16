@@ -8,7 +8,7 @@ permalink: /research/
 
 *Submitted preprints available by email.*
 
-**Molstad, A. J.** and Suder, P. M. (2020+)<br>
+<!-- **Molstad, A. J.** and Suder, P. M. (2020+)<br>
 A scalable algorithm for high-dimensional rank-based accelerated failure time models.<br>
 *Submitted*. <br>
 
@@ -18,7 +18,7 @@ Dimension reduction for integrative survival analysis. <br>
 
 Ekvall, K. O., and **Molstad, A. J.** (2020+)<br>
 Mixed-type multivariate response regression. <br>
-*Submitted*.  <br>
+*Submitted*.  <br> -->
 
 **Molstad, A. J.**, and Rothman A. J. (2020+)<br>
 A likelihood-based approach for multivariate categorical response regression in high dimensions. <br>
@@ -28,12 +28,12 @@ A likelihood-based approach for multivariate categorical response regression in 
 **Molstad, A. J.**, Sun, W., and Hsu, L. (2020+)<br>
 A covariance-enhanced approach for multi-tissue joint eQTL mapping with application to transcriptome wide association studies. <br>
 [[pdf](/docs/MTeQTL_R0.pdf)][[results](https://github.com/ajmolstad/MTeQTLResults)] <br>
-*To appear in Annals of Applied Statistics*.  <br>
+*Submitted*.  <br>
 
 Price, B. S., **Molstad, A. J.**, and Sherwood, B. (2019+)<br>
 Estimating multiple precision matrices with cluster fusion regularization. <br>
 [[pdf](https://arxiv.org/pdf/2003.00371)]<br>
-*To appear in Journal of Computational and Graphical Statistics*.  <br>
+*Submitted*.  <br>
 
 **Molstad, A. J.** (2019+)<br>
 Insights and algorithms for the multivariate square-root lasso. <br>
