@@ -17,7 +17,7 @@ Dimension reduction for integrative survival analysis. <br>
 *Submitted*. <br>
 
 Ekvall, K. O., and **Molstad, A. J.** (2020+)<br>
-Mixed-type multivariate response regression. <br>
+A unified method for multivariate mixed-type response regression. <br>
 *Submitted*.  <br> -->
 
 **Molstad, A. J.**, and Rothman A. J. (2020+)<br>
