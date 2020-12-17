@@ -26,9 +26,9 @@ A likelihood-based approach for multivariate categorical response regression in 
 *Submitted*.  <br>
 
 **Molstad, A. J.**, Sun, W., and Hsu, L. (2020+)<br>
-A covariance-enhanced approach for multi-tissue joint eQTL mapping with application to transcriptome wide association studies. <br>
+A covariance-enhanced approach to multi-tissue joint eQTL mapping with application to transcriptome-wide association studies  <br>
 [[pdf](/docs/MTeQTL_R0.pdf)][[results](https://github.com/ajmolstad/MTeQTLResults)] <br>
-*Submitted*.  <br>
+*To appear in Annals of Applied Statistics*.  <br>
 
 Price, B. S., **Molstad, A. J.**, and Sherwood, B. (2019+)<br>
 Estimating multiple precision matrices with cluster fusion regularization. <br>
