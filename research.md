@@ -18,7 +18,7 @@ Dimension reduction for integrative survival analysis. <br>
 
 Ekvall, K. O., and **Molstad, A. J.** (2021+)<br>
 A unified method for multivariate mixed-type response regression. <br>
-[[pdf](https://koekvall.github.io/files/mixed_type.pdf)][[software](https://github.com/koekvall/lvmmr)]
+[[pdf](https://koekvall.github.io/files/mixed_type.pdf)][[software](https://github.com/koekvall/lvmmr)]  
 *Submitted*.  <br>
 
 **Molstad, A. J.**, and Rothman A. J. (2020+)<br>
