@@ -16,12 +16,12 @@ A scalable algorithm for rank-based accelerated failure time models in high dime
 Dimension reduction for integrative survival analysis. <br>
 *Submitted*. <br> -->
 
-Ekvall, K. O., and **Molstad, A. J.** (2021+)<br>
+Ekvall, K. O. and **Molstad, A. J.** (2021+)<br>
 A unified method for multivariate mixed-type response regression. <br>
 [[pdf](https://koekvall.github.io/files/mixed_type.pdf)][[software](https://github.com/koekvall/lvmmr)]  
 *Submitted*.  <br>
 
-**Molstad, A. J.**, and Rothman A. J. (2020+)<br>
+**Molstad, A. J.** and Rothman A. J. (2020+)<br>
 A likelihood-based approach for multivariate categorical response regression in high dimensions. <br>
 [[pdf](https://arxiv.org/abs/2007.07953)][[software](https://github.com/ajmolstad/BvCategorical)][[example](/docs/BvCategorical_Example.html)] <br>
 *Submitted*.  <br>
@@ -51,10 +51,10 @@ An explicit mean-covariance parameterization for multivariate response linear re
 [[pdf](https://arxiv.org/pdf/1808.10558.pdf)][[software](https://github.com/ajmolstad/MCMVR)][[example](/docs/MCMVR_Example.html)]<br>
 *To appear in Journal of Computational and Graphical Statistics*.  <br>
 
-**Molstad, A. J.**, Hsu, L., and Sun, W. (2019) <br>
+**Molstad, A. J.**, Hsu, L., and Sun, W. (2021) <br>
 Gaussian process regression for survival time prediction with genome-wide gene expression. <br>
 [[pdf](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxz023/5530981)][[software](https://github.com/ajmolstad/SurvGPR)][[example](/docs/SurvGPR_Example.html)]<br> 
-*To appear in Biostatistics*.<br>
+*Biostatistics*.  **22** (1), 164-180. <br>
 
 **Molstad, A. J.** and Rothman, A. J. (2018) <br>
 Shrinking characteristics of precision matrix estimators. <br>
