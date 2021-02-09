@@ -10,11 +10,11 @@ permalink: /research/
 
 <!-- **Molstad, A. J.** and Suder, P. M. (2020+)<br>
 A scalable algorithm for rank-based accelerated failure time models in high dimensions.<br>
-*Submitted*. <br>
-
-**Molstad, A. J.** and Patra, R. (2020+)<br>
-Dimension reduction for integrative survival analysis. <br>
 *Submitted*. <br> -->
+
+**Molstad, A. J.** and Patra, R. (2021+)<br>
+Dimension reduction for integrative survival analysis. <br>
+*Submitted*. <br>
 
 Ekvall, K. O. and **Molstad, A. J.** (2021+)<br>
 A unified method for multivariate mixed-type response regression. <br>
