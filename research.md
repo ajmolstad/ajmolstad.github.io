@@ -10,7 +10,7 @@ permalink: /research/
 
 Suder, P. M. and **Molstad, A. J.** (2021+) <br>
 Scalable algorithms for semiparametric accelerated failure time models in high dimensions.<br>
-[[software](https://github.com/ajmolstad/penAFT)][[example](/docs/penAFT_Example.html)]
+[[software](https://github.com/ajmolstad/penAFT)][[example](/docs/penAFT_Example.html)]<br>
 *Submitted*. <br>
 
  
