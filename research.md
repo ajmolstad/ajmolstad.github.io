@@ -8,10 +8,10 @@ permalink: /research/
 
 *Submitted preprints available by email.*
 
-<!-- **Molstad, A. J.** and Suder, P. M. (2021+)<br>
-Scalable ADMM for semiparametric AFT models in high dimensions.<br>
+Suder, P. M. and **Molstad, A. J.** (2021+) <br>
+Scalable algorithms for semiparametric accelerated failure time models in high dimensions.<br>
 *Submitted*. <br>
- -->
+
  
 <!-- **Molstad, A. J.** and Patra, R. (2021+)<br>
 Dimension reduction for integrative survival analysis. <br>
