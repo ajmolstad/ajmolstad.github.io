@@ -8,10 +8,9 @@ permalink: /research/
 
 *Submitted preprints available by email.*
 
- 
-**Molstad, A. J.** and Patra, R. K. (2021+)<br>
+<!-- **Molstad, A. J.** and Patra, R. K. (2021+)<br>
 Dimension reduction for integrative survival analysis. <br>
-*Submitted*. <br>
+*Submitted*. <br> -->
 
 Suder, P. M. and **Molstad, A. J.** (2021+) <br>
 Scalable algorithms for semiparametric accelerated failure time models in high dimensions.<br>
