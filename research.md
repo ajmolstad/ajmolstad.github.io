@@ -38,7 +38,7 @@ Estimating multiple precision matrices with cluster fusion regularization. <br>
 *To appear in Journal of Computational and Graphical Statistics*.  <br>
 
 **Molstad, A. J.** (2019+)<br>
-Insights and algorithms for the multivariate square-root lasso. <br>
+New insights for the multivariate square-root lasso. <br>
 [[pdf](https://arxiv.org/pdf/1909.05041)][[software](https://github.com/ajmolstad/MSRL)][[example](/docs/MSRL_Example.html)] <br>
 *Submitted*.  <br>
 
