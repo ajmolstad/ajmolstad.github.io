@@ -9,14 +9,14 @@ permalink: /research/
 *Submitted preprints available by email.*
 
 
-**Molstad, A. J.** and Xin, Z. (2021+)<br>
+<!-- **Molstad, A. J.** and Xin, Z. (2021+)<br>
 Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
 *Submitted*. <br>
-
-**Molstad, A. J.** and Patra, R. K. (2021+)<br>
+ -->
+<!-- **Molstad, A. J.** and Patra, R. K. (2021+)<br>
 Dimension reduction for integrative survival analysis. <br>
-*Submitted*. <br>
+*Submitted*. <br> -->
 
 Suder, P. M. and **Molstad, A. J.** (2021+) <br>
 Scalable algorithms for semiparametric accelerated failure time models in high dimensions.<br>
