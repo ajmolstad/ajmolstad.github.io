@@ -6,7 +6,7 @@ permalink: /research/
 {% include image.html url="/images/Norway1.jpg" width=800 align="center" %}
 
 
-*Submitted preprints available by email.*
+*Research supported in part by NIH R01HL152439.*
 
 
 <!-- **Molstad, A. J.** and Xin, Z. (2021+)<br>
