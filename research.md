@@ -24,7 +24,7 @@ Scalable algorithms for semiparametric accelerated failure time models in high d
 *Submitted*. <br>
 
 Ekvall, K. O. and **Molstad, A. J.** (2021+)<br>
-A unified method for multivariate mixed-type response regression. <br>
+Multivariate mixed-type response regression with covariance estimation. <br>
 [[pdf](https://koekvall.github.io/files/mixed_type.pdf)][[software](https://github.com/koekvall/lvmmr)]  
 *Submitted*.  <br>
 
