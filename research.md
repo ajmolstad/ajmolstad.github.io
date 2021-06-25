@@ -49,10 +49,6 @@ New insights for the multivariate square-root lasso. <br>
 [[pdf](https://arxiv.org/pdf/1909.05041)][[software](https://github.com/ajmolstad/MSRL)][[example](/docs/MSRL_Example.html)] <br>
 *Submitted*.  <br>
 
-Sherwood, B., **Molstad, A. J.**, and Singha, S. (2020)<br>
-Asymptotic properties of concave L1-norm group penalties.  <br>
-[[pdf](https://www.sciencedirect.com/science/article/pii/S0167715219302779)][[supplementary material](https://www.sciencedirect.com/science/article/pii/S0167715219302779#appSB)] <br>
-*Statistics and Probability Letters*. **157** <br>
 
 **Molstad, A. J.**, Weng, G., Doss, C. R., and Rothman, A. J. (2019+)<br>
 An explicit mean-covariance parameterization for multivariate response linear regression. <br>
@@ -63,6 +59,11 @@ An explicit mean-covariance parameterization for multivariate response linear re
 Gaussian process regression for survival time prediction with genome-wide gene expression. <br>
 [[pdf](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxz023/5530981)][[software](https://github.com/ajmolstad/SurvGPR)][[example](/docs/SurvGPR_Example.html)]<br> 
 *Biostatistics*.  **22** (1), 164-180. <br>
+
+Sherwood, B., **Molstad, A. J.**, and Singha, S. (2020)<br>
+Asymptotic properties of concave L1-norm group penalties.  <br>
+[[pdf](https://www.sciencedirect.com/science/article/pii/S0167715219302779)][[supplementary material](https://www.sciencedirect.com/science/article/pii/S0167715219302779#appSB)] <br>
+*Statistics and Probability Letters*. **157** <br>
 
 **Molstad, A. J.** and Rothman, A. J. (2018) <br>
 Shrinking characteristics of precision matrix estimators. <br>
