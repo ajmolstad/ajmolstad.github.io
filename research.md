@@ -6,7 +6,7 @@ permalink: /research/
 {% include image.html url="/images/Norway1.jpg" width=800 align="center" %}
 
 
-*Research supported in part by NIH R01HL152439.*
+*Research supported in part by NIH R01HL152439 and NSF-DMS 2113589.*
 
 
 <!-- **Molstad, A. J.** and Xin, Z. (2021+)<br>
@@ -36,8 +36,8 @@ A likelihood-based approach for multivariate categorical response regression in 
 
 **Molstad, A. J.**, Sun, W., and Hsu, L. (2020+)<br>
 A covariance-enhanced approach to multi-tissue joint eQTL mapping with application to transcriptome-wide association studies  <br>
-[[pdf](/docs/MTeQTL_R0.pdf)][[results](https://github.com/ajmolstad/MTeQTLResults)] <br>
-*To appear in Annals of Applied Statistics*.  <br>
+[[pdf](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/A-covariance-enhanced-approach-to-multitissue-joint-eQTL-mapping-with/10.1214/20-AOAS1432.short)][[results](https://github.com/ajmolstad/MTeQTLResults)] <br>
+*Annals of Applied Statistics*.  **15** (2), 998-1016.<br>
 
 Price, B. S., **Molstad, A. J.**, and Sherwood, B. (2019+)<br>
 Estimating multiple precision matrices with cluster fusion regularization. <br>
