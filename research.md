@@ -34,7 +34,7 @@ A likelihood-based approach for multivariate categorical response regression in 
 [[pdf](https://arxiv.org/abs/2007.07953)][[software](https://github.com/ajmolstad/BvCategorical)][[example](/docs/BvCategorical_Example.html)] <br>
 *Submitted*.  <br>
 
-**Molstad, A. J.**, Sun, W., and Hsu, L. (2020+)<br>
+**Molstad, A. J.**, Sun, W., and Hsu, L. (2021)<br>
 A covariance-enhanced approach to multi-tissue joint eQTL mapping with application to transcriptome-wide association studies  <br>
 [[pdf](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/A-covariance-enhanced-approach-to-multitissue-joint-eQTL-mapping-with/10.1214/20-AOAS1432.short)][[results](https://github.com/ajmolstad/MTeQTLResults)] <br>
 *Annals of Applied Statistics*.  **15** (2), 998-1016.<br>
