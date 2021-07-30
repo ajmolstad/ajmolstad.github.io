@@ -19,7 +19,9 @@ multivariate categorical response regression. <br>
 
 **Molstad, A. J.** and Patra, R. K. (2021+)<br>
 Dimension reduction for integrative survival analysis. <br>
+[[pdf]()][[software](https://github.com/ajmolstad/IntegrativeCox)]<br>
 *Submitted*. <br>
+
 
 Suder, P. M. and **Molstad, A. J.** (2021+) <br>
 Scalable algorithms for semiparametric accelerated failure time models in high dimensions.<br>
