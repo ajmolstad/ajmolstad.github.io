@@ -12,10 +12,10 @@ permalink: /research/
 Linear regression with group GMC penalization <br>
 *Submitted*. <br> -->
 
-<!-- **Molstad, A. J.** and Xin, Z. (2021+)<br>
+**Molstad, A. J.** and Xin, Z. (2021+)<br>
 Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
-*Submitted*. <br> -->
+*Submitted*. <br>
 
 **Molstad, A. J.** and Patra, R. K. (2021+)<br>
 Dimension reduction for integrative survival analysis. <br>
