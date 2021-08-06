@@ -17,10 +17,10 @@ Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
 *Submitted*. <br> -->
 
-<!-- **Molstad, A. J.** and Patra, R. K. (2021+)<br>
+**Molstad, A. J.** and Patra, R. K. (2021+)<br>
 Dimension reduction for integrative survival analysis. <br>
 [[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br>
-*Submitted*. <br> -->
+*Submitted*. <br>
 
 
 Suder, P. M. and **Molstad, A. J.** (2021+) <br>
