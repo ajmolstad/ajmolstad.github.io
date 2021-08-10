@@ -41,12 +41,12 @@ A likelihood-based approach for multivariate categorical response regression in 
 **Molstad, A. J.**, Sun, W., and Hsu, L. (2021)<br>
 A covariance-enhanced approach to multi-tissue joint eQTL mapping with application to transcriptome-wide association studies  <br>
 [[pdf](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/A-covariance-enhanced-approach-to-multitissue-joint-eQTL-mapping-with/10.1214/20-AOAS1432.short)][[results](https://github.com/ajmolstad/MTeQTLResults)] <br>
-*Annals of Applied Statistics*.  **15** (2), 998-1016.<br>
+*The Annals of Applied Statistics*.  **15** (2), 998-1016.<br>
 
 Price, B. S., **Molstad, A. J.**, and Sherwood, B. (2019+)<br>
 Estimating multiple precision matrices with cluster fusion regularization. <br>
 [[pdf](https://arxiv.org/pdf/2003.00371)]<br>
-*To appear in Journal of Computational and Graphical Statistics*.  <br>
+*Journal of Computational and Graphical Statistics*.  <br>
 
 **Molstad, A. J.** (2019+)<br>
 New insights for the multivariate square-root lasso. <br>
@@ -57,7 +57,7 @@ New insights for the multivariate square-root lasso. <br>
 **Molstad, A. J.**, Weng, G., Doss, C. R., and Rothman, A. J. (2019+)<br>
 An explicit mean-covariance parameterization for multivariate response linear regression. <br>
 [[pdf](https://arxiv.org/pdf/1808.10558.pdf)][[software](https://github.com/ajmolstad/MCMVR)][[example](/docs/MCMVR_Example.html)]<br>
-*To appear in Journal of Computational and Graphical Statistics*.  <br>
+*Journal of Computational and Graphical Statistics*.  <br>
 
 **Molstad, A. J.**, Hsu, L., and Sun, W. (2021) <br>
 Gaussian process regression for survival time prediction with genome-wide gene expression. <br>
