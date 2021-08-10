@@ -51,7 +51,7 @@ Estimating multiple precision matrices with cluster fusion regularization. <br>
 **Molstad, A. J.** (2019+)<br>
 New insights for the multivariate square-root lasso. <br>
 [[pdf](https://arxiv.org/pdf/1909.05041)][[software](https://github.com/ajmolstad/MSRL)][[example](/docs/MSRL_Example.html)] <br>
-*Submitted*.  <br>
+*Journal of Machine Learning Research*.  <br>
 
 
 **Molstad, A. J.**, Weng, G., Doss, C. R., and Rothman, A. J. (2019+)<br>
