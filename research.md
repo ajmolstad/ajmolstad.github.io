@@ -8,7 +8,7 @@ permalink: /research/
 
 *Research supported in part by NIH R01-HL152439 and NSF DMS-2113589.*
 
-Liu, X., **Molstad, A. J.**, and Chi. E. C. (2021+) <br>
+<!-- Liu, X., **Molstad, A. J.**, and Chi. E. C. (2021+) <br>
 Nearly unbiased group selection with convex GMC penalization <br>
 *Submitted*. <br>
 
@@ -16,7 +16,7 @@ Nearly unbiased group selection with convex GMC penalization <br>
 Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
 *Submitted*. <br>
-
+ -->
 **Molstad, A. J.** and Patra, R. K. (2021+)<br>
 Dimension reduction for integrative survival analysis. <br>
 [[pdf](https://arxiv.org/abs/2108.02143)][[reproduce simulations](https://github.com/ajmolstad/IntegrativeCox)]<br>
