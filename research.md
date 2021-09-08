@@ -51,7 +51,7 @@ A covariance-enhanced approach to multi-tissue joint eQTL mapping with applicati
 Price, B. S., **Molstad, A. J.**, and Sherwood, B. (2021+)<br>
 Estimating multiple precision matrices with cluster fusion regularization. <br>
 *Journal of Computational and Graphical Statistics*.  <br>
-[[pdf](https://arxiv.org/pdf/2003.00371)]<br>
+[[pdf](https://arxiv.org/pdf/2003.00371)][[supplementary material](https://ndownloader.figstatic.com/files/26117444)]<br>
 
 **Molstad, A. J.** (2021+)<br>
 New insights for the multivariate square-root lasso. <br>
