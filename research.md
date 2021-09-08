@@ -22,68 +22,69 @@ Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
 *Submitted*. <br> -->
 
-Molstad, A. J.  and Patra, R. K. (2021+), 
-Dimension reduction for integrative survival analysis. *Submitted*.
-[[pdf](https://arxiv.org/abs/2108.02143)][[reproduce simulations](https://github.com/ajmolstad/IntegrativeCox)]
-
+Molstad, A. J.** and Patra, R. K. (2021+)<br>
+Dimension reduction for integrative survival analysis. <br>
+*Submitted*. <br>
+[[pdf](https://arxiv.org/abs/2108.02143)][[reproduce simulations](https://github.com/ajmolstad/IntegrativeCox)]<br>
 
 Suder, P. M. and **Molstad, A. J.** (2021+) <br>
 Scalable algorithms for semiparametric accelerated failure time models in high dimensions.<br>
-[[pdf](https://arxiv.org/abs/2104.01707)][[software](https://github.com/ajmolstad/penAFT)][[example](/docs/penAFT_Example.html)]<br>
 *Submitted*. <br>
+[[pdf](https://arxiv.org/abs/2104.01707)][[software](https://github.com/ajmolstad/penAFT)][[example](/docs/penAFT_Example.html)]<br>
 
 Ekvall, K. O. and **Molstad, A. J.** (2021+)<br>
 Multivariate mixed-type response regression with covariance estimation. <br>
-[[pdf](https://koekvall.github.io/files/mixed_type.pdf)][[software](https://github.com/koekvall/lvmmr)]<br>
 *Submitted*.  <br>
+[[pdf](https://koekvall.github.io/files/mixed_type.pdf)][[software](https://github.com/koekvall/lvmmr)]<br>
 
 **Molstad, A. J.** and Rothman A. J. (2020+)<br>
 A likelihood-based approach for multivariate categorical response regression in high dimensions. <br>
-[[pdf](https://arxiv.org/abs/2007.07953)][[software](https://github.com/ajmolstad/BvCategorical)][[example](/docs/BvCategorical_Example.html)] <br>
 *Submitted*.  <br>
+[[pdf](https://arxiv.org/abs/2007.07953)][[software](https://github.com/ajmolstad/BvCategorical)][[example](/docs/BvCategorical_Example.html)] <br>
+
 
 **Molstad, A. J.**, Sun, W., and Hsu, L. (2021)<br>
-A covariance-enhanced approach to multi-tissue joint eQTL mapping with application to transcriptome-wide association studies  <br>
-[[pdf](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/A-covariance-enhanced-approach-to-multitissue-joint-eQTL-mapping-with/10.1214/20-AOAS1432.short)][[results](https://github.com/ajmolstad/MTeQTLResults)] <br>
+A covariance-enhanced approach to multi-tissue joint eQTL mapping with application to transcriptome-wide association studies.  <br>
 *Annals of Applied Statistics*.  **15** (2), 998-1016.<br>
+[[pdf](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/A-covariance-enhanced-approach-to-multitissue-joint-eQTL-mapping-with/10.1214/20-AOAS1432.short)][[results](https://github.com/ajmolstad/MTeQTLResults)] <br>
 
-Price, B. S., **Molstad, A. J.**, and Sherwood, B. (2019+)<br>
+Price, B. S., **Molstad, A. J.**, and Sherwood, B. (2021+)<br>
 Estimating multiple precision matrices with cluster fusion regularization. <br>
+*Journal of Computational and Graphical Statistics*.  <br>
 [[pdf](https://arxiv.org/pdf/2003.00371)]<br>
-*Journal of Computational and Graphical Statistics*.  <br>
 
-**Molstad, A. J.** (2019+)<br>
+**Molstad, A. J.** (2021+)<br>
 New insights for the multivariate square-root lasso. <br>
-[[pdf](https://arxiv.org/pdf/1909.05041)][[software](https://github.com/ajmolstad/MSRL)][[example](/docs/MSRL_Example.html)] <br>
 *Submitted*.  <br>
+[[pdf](https://arxiv.org/pdf/1909.05041)][[software](https://github.com/ajmolstad/MSRL)][[example](/docs/MSRL_Example.html)] <br>
 
 
-**Molstad, A. J.**, Weng, G., Doss, C. R., and Rothman, A. J. (2019+)<br>
+**Molstad, A. J.**, Weng, G., Doss, C. R., and Rothman, A. J. (2021+)<br>
 An explicit mean-covariance parameterization for multivariate response linear regression. <br>
-[[pdf](https://arxiv.org/pdf/1808.10558.pdf)][[software](https://github.com/ajmolstad/MCMVR)][[example](/docs/MCMVR_Example.html)]<br>
 *Journal of Computational and Graphical Statistics*.  <br>
+[[pdf](https://arxiv.org/pdf/1808.10558.pdf)][[software](https://github.com/ajmolstad/MCMVR)][[example](/docs/MCMVR_Example.html)]<br>
 
 **Molstad, A. J.**, Hsu, L., and Sun, W. (2021) <br>
 Gaussian process regression for survival time prediction with genome-wide gene expression. <br>
-[[pdf](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxz023/5530981)][[software](https://github.com/ajmolstad/SurvGPR)][[example](/docs/SurvGPR_Example.html)]<br> 
 *Biostatistics*.  **22** (1), 164-180. <br>
+[[pdf](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxz023/5530981)][[software](https://github.com/ajmolstad/SurvGPR)][[example](/docs/SurvGPR_Example.html)]<br> 
 
 Sherwood, B., **Molstad, A. J.**, and Singha, S. (2020)<br>
 Asymptotic properties of concave L1-norm group penalties.  <br>
-[[pdf](https://www.sciencedirect.com/science/article/pii/S0167715219302779)][[supplementary material](https://www.sciencedirect.com/science/article/pii/S0167715219302779#appSB)] <br>
 *Statistics and Probability Letters*. **157** <br>
+[[pdf](https://www.sciencedirect.com/science/article/pii/S0167715219302779)][[supplementary material](https://www.sciencedirect.com/science/article/pii/S0167715219302779#appSB)] <br>
 
 **Molstad, A. J.** and Rothman, A. J. (2018) <br>
 Shrinking characteristics of precision matrix estimators. <br>
-[[pdf](https://academic.oup.com/biomet/article/105/3/563/4994725?guestAccessKey=34dcd085-e992-4398-a8f9-a56cb3ac9207)][[supplementary material](https://academic.oup.com/biomet/article/105/3/563/4994725?guestAccessKey=34dcd085-e992-4398-a8f9-a56cb3ac9207#supplementary-data)]<br>
 *Biometrika*. **105** (3), 563-574. <br>
+[[pdf](https://academic.oup.com/biomet/article/105/3/563/4994725?guestAccessKey=34dcd085-e992-4398-a8f9-a56cb3ac9207)][[supplementary material](https://academic.oup.com/biomet/article/105/3/563/4994725?guestAccessKey=34dcd085-e992-4398-a8f9-a56cb3ac9207#supplementary-data)]<br>
 
 **Molstad, A. J.**  and Rothman, A. J. (2019)<br>
 A penalized likelihood method for classification with matrix-valued predictors. <br>
-[[pdf](https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1476249)][[software](https://github.com/ajmolstad/MatrixLDA)][[supplementary material](https://www.tandfonline.com/doi/suppl/10.1080/10618600.2018.1476249?scroll=top)] <br>
 *Journal of Computational and Graphical Statistics*. **28** (1), 11-22. <br>
+[[pdf](https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1476249)][[software](https://github.com/ajmolstad/MatrixLDA)][[supplementary material](https://www.tandfonline.com/doi/suppl/10.1080/10618600.2018.1476249?scroll=top)] <br>
 
 **Molstad, A. J.** and Rothman, A. J. (2016) <br>
 Indirect multivariate response linear regression. <br>
-[[pdf](https://academic.oup.com/biomet/article-abstract/103/3/595/1744444/Indirect-multivariate-response-linear-regression?redirectedFrom=fulltext)][[supplementary material](https://academic.oup.com/biomet/article/103/3/595/1744444#supplementary-data)]<br>
 *Biometrika*. **103** (3), 595-607.<br>
+[[pdf](https://academic.oup.com/biomet/article-abstract/103/3/595/1744444/Indirect-multivariate-response-linear-regression?redirectedFrom=fulltext)][[supplementary material](https://academic.oup.com/biomet/article/103/3/595/1744444#supplementary-data)]<br>
