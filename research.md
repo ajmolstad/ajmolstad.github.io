@@ -8,6 +8,11 @@ permalink: /research/
 
 *Research supported in part by NIH R01-HL152439 and NSF DMS-2113589.*
 
+Motwani, K., Bacher, R., and **Molstad, A. J.**, (2021+) <br>
+Binned multinomial regression for integrative classification with
+application to cell type annotation <br>
+*Submitted.* <br>  
+
 Liu, X., **Molstad, A. J.**, and Chi. E. C. (2021+) <br>
 Nearly unbiased group selection with convex GMC penalization <br>
 *Submitted*. <br>
