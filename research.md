@@ -8,7 +8,7 @@ permalink: /research/
 
 *Research supported in part by NIH R01-HL152439 and NSF DMS-2113589.*
 
-<!-- Liu, X., **Molstad, A. J.**, and Chi. E. C. (2021+) <br>
+Liu, X., **Molstad, A. J.**, and Chi. E. C. (2021+) <br>
 Nearly unbiased group selection with convex GMC penalization <br>
 *Submitted*. <br>
 
@@ -16,7 +16,7 @@ Nearly unbiased group selection with convex GMC penalization <br>
 Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
 *Submitted*. <br>
- -->
+
 **Molstad, A. J.** and Patra, R. K. (2021+)<br>
 Dimension reduction for integrative survival analysis. <br>
 [[pdf](https://arxiv.org/abs/2108.02143)][[reproduce simulations](https://github.com/ajmolstad/IntegrativeCox)]<br>
@@ -26,7 +26,7 @@ Dimension reduction for integrative survival analysis. <br>
 Suder, P. M. and **Molstad, A. J.** (2021+) <br>
 Scalable algorithms for semiparametric accelerated failure time models in high dimensions.<br>
 [[pdf](https://arxiv.org/abs/2104.01707)][[software](https://github.com/ajmolstad/penAFT)][[example](/docs/penAFT_Example.html)]<br>
-*Submitted*. <br>
+*Statistics in Medicine*. <br>
 
 Ekvall, K. O. and **Molstad, A. J.** (2021+)<br>
 Multivariate mixed-type response regression with covariance estimation. <br>
@@ -36,7 +36,7 @@ Multivariate mixed-type response regression with covariance estimation. <br>
 **Molstad, A. J.** and Rothman A. J. (2020+)<br>
 A likelihood-based approach for multivariate categorical response regression in high dimensions. <br>
 [[pdf](https://arxiv.org/abs/2007.07953)][[software](https://github.com/ajmolstad/BvCategorical)][[example](/docs/BvCategorical_Example.html)] <br>
-*Submitted*.  <br>
+*Journal of the American Statistical Association*.  <br>
 
 **Molstad, A. J.**, Sun, W., and Hsu, L. (2021)<br>
 A covariance-enhanced approach to multi-tissue joint eQTL mapping with application to transcriptome-wide association studies  <br>
@@ -51,7 +51,7 @@ Estimating multiple precision matrices with cluster fusion regularization. <br>
 **Molstad, A. J.** (2019+)<br>
 New insights for the multivariate square-root lasso. <br>
 [[pdf](https://arxiv.org/pdf/1909.05041)][[software](https://github.com/ajmolstad/MSRL)][[example](/docs/MSRL_Example.html)] <br>
-*Submitted*.  <br>
+*Journal of Machine Learning Research*.  <br>
 
 
 **Molstad, A. J.**, Weng, G., Doss, C. R., and Rothman, A. J. (2019+)<br>
