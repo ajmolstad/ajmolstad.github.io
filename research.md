@@ -51,7 +51,7 @@ A covariance-enhanced approach to multi-tissue joint eQTL mapping with applicati
 Estimating multiple precision matrices with cluster fusion regularization. <br>
 Price, B. S., **Molstad, A. J.**, and Sherwood, B. (2021+)<br>
 *Journal of Computational and Graphical Statistics*.  <br>
-[[pdf](https://arxiv.org/pdf/2003.00371)][[supplementary material](https://ndownloader.figstatic.com/files/26117444)]<br>
+[[pdf](https://www.tandfonline.com/doi/pdf/10.1080/10618600.2021.1874963?casa_token=stoGAjrlYbUAAAAA:YQArJJxGutWxREoX509u0yGiEgMrtk-fYaR-B2iPSCkG6o_E5vHay7QreuGHtjsCrqBHImDwKI7T)][[supplementary material](https://ndownloader.figstatic.com/files/26117444)]<br>
 
 
 New insights for the multivariate square-root lasso. <br>
@@ -63,7 +63,7 @@ New insights for the multivariate square-root lasso. <br>
 An explicit mean-covariance parameterization for multivariate response linear regression. <br>
 **Molstad, A. J.**, Weng, G., Doss, C. R., and Rothman, A. J. (2021+)<br>
 *Journal of Computational and Graphical Statistics*.  <br>
-[[pdf](https://arxiv.org/pdf/1808.10558.pdf)][[software](https://github.com/ajmolstad/MCMVR)][[example](/docs/MCMVR_Example.html)]<br>
+[[pdf](hhttps://www.tandfonline.com/doi/pdf/10.1080/10618600.2020.1853551?casa_token=dQzCJAFc1ZoAAAAA:Uaq0GRdBijyS7kavHT9njRKCFqCvnE-XBddXiI_w8BAEf0ZCllJVy_ALwrcXpGxSJSKcdS4i7P_q)][[software](https://github.com/ajmolstad/MCMVR)][[example](/docs/MCMVR_Example.html)]<br>
 
 
 Gaussian process regression for survival time prediction with genome-wide gene expression. <br>
