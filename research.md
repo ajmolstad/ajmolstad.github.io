@@ -62,7 +62,7 @@ New insights for the multivariate square-root lasso. <br>
 
 An explicit mean-covariance parameterization for multivariate response linear regression. <br>
 **Molstad, A. J.**, Weng, G., Doss, C. R., and Rothman, A. J. (2021+)<br>
-*Journal of Computational and Graphical Statistics*.  <br>
+*Journal of Computational and Graphical Statistics*. **30** (2), 612-621. <br>
 [[pdf](hhttps://www.tandfonline.com/doi/pdf/10.1080/10618600.2020.1853551?casa_token=dQzCJAFc1ZoAAAAA:Uaq0GRdBijyS7kavHT9njRKCFqCvnE-XBddXiI_w8BAEf0ZCllJVy_ALwrcXpGxSJSKcdS4i7P_q)][[software](https://github.com/ajmolstad/MCMVR)][[example](/docs/MCMVR_Example.html)]<br>
 
 
