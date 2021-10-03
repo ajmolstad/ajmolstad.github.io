@@ -8,7 +8,7 @@ permalink: /research/
 
 *Research supported in part by NIH R01-HL152439 and NSF DMS-2113589.*
 
- <!-- 
+<!-- 
 Binned multinomial regression for integrative classification with
 application to cell type annotation. <br>
 Motwani, K., Bacher, R., and **Molstad, A. J.**, (2021+) <br>
