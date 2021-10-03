@@ -8,7 +8,7 @@ permalink: /research/
 
 *Research supported in part by NIH R01-HL152439 and NSF DMS-2113589.*
 
- 
+ <!-- 
 Binned multinomial regression for integrative classification with
 application to cell type annotation. <br>
 Motwani, K., Bacher, R., and **Molstad, A. J.**, (2021+) <br>
@@ -25,7 +25,7 @@ Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
 **Molstad, A. J.** and Xin, Z. (2021+)<br>
 *Submitted*. <br>
-[[pdf](https://arxiv.org/abs/2108.02143)][[reproduce simulations](https://github.com/ajmolstad/IntegrativeCox)]<br>
+[[pdf](https://arxiv.org/abs/2108.02143)][[reproduce simulations](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
 
 Dimension reduction for integrative survival analysis. <br>
 **Molstad, A. J.** and Patra, R. K. (2021+)<br>
