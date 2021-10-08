@@ -17,7 +17,7 @@ Motwani, K., Bacher, R., and **Molstad, A. J.**, (2021+) <br>
 
 
 A convex-nonconvex strategy for grouped variable selection. <br>
-Liu, X., **Molstad, A. J.**, and Chi. E. C. (2021+) <br>
+Liu, X., **Molstad, A. J.**, and Chi, E. C. (2021+) <br>
 *Submitted*. <br>
 [[pdf](https://arxiv.org/abs/2108.02143)][[reproduce simulations](https://github.com/ajmolstad/IntegrativeCox)]<br>
 
