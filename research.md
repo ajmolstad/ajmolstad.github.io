@@ -21,10 +21,10 @@ multivariate categorical response regression. <br>
 *Submitted*. <br>
 [[pdf](https://arxiv.org/abs/2108.02143)][[reproduce simulations](https://github.com/ajmolstad/IntegrativeCox)]<br>  -->
 
-<!-- A convex-nonconvex strategy for grouped variable selection. <br>
+A convex-nonconvex strategy for grouped variable selection. <br>
 Liu, X., **Molstad, A. J.**, and Chi, E. C. (2021+) <br>
 *Submitted*. <br>
- -->
+
 
 Dimension reduction for integrative survival analysis. <br>
 **Molstad, A. J.** and Patra, R. K. (2021+)<br>
