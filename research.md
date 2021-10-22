@@ -8,7 +8,7 @@ permalink: /research/
 
 *Research supported in part by NIH R01-HL152439 and NSF DMS-2113589.*
 
-
+<!-- 
 Binned multinomial regression with
 application to integrative cell type annotation. <br>
 Motwani, K., Bacher, R., and **Molstad, A. J.**, (2021+) <br>
@@ -24,7 +24,7 @@ multivariate categorical response regression. <br>
 A convex-nonconvex strategy for grouped variable selection. <br>
 Liu, X., **Molstad, A. J.**, and Chi, E. C. (2021+) <br>
 *Submitted*. <br>
-
+ -->
 
 Dimension reduction for integrative survival analysis. <br>
 **Molstad, A. J.** and Patra, R. K. (2021+)<br>
