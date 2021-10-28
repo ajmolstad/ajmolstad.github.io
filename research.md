@@ -44,7 +44,7 @@ Ekvall, K. O. and **Molstad, A. J.** (2021+)<br>
 A likelihood-based approach for multivariate categorical response regression in high dimensions. <br>
 **Molstad, A. J.** and Rothman A. J. (2021+)<br>
 *Journal of the American Statistical Association*. <br>
-[[pdf](https://arxiv.org/abs/2007.07953)][[software](https://github.com/ajmolstad/BvCategorical)][[example](/docs/BvCategorical_Example.html)] <br>
+[[pdf](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1999819)][[software](https://github.com/ajmolstad/BvCategorical)][[example](/docs/BvCategorical_Example.html)] <br>
 
 
 A covariance-enhanced approach to multi-tissue joint eQTL mapping with application to transcriptome-wide association studies.  <br>
