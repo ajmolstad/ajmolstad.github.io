@@ -33,7 +33,7 @@ Dimension reduction for integrative survival analysis. <br>
 
 Scalable algorithms for semiparametric accelerated failure time models in high dimensions.<br>
 Suder, P. M. and **Molstad, A. J.** (2021+) <br>
-*Submitted*. <br>
+*Statistics in Medicine*. <br>
 [[pdf](https://arxiv.org/abs/2104.01707)][[software](https://github.com/ajmolstad/penAFT)][[example](/docs/penAFT_Example.html)]<br>
 
 Multivariate mixed-type response regression with covariance estimation. <br>
