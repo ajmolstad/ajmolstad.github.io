@@ -14,20 +14,18 @@ application to interpretable cell type annotation. <br>
 *Submitted.* <br> 
 [[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br>
  -->
-<!-- 
-Binned multinomial regression with
-application to integrative cell type annotation. <br>
+
+<!-- Binned multinomial logistic regression for integrative cell type annotation. <br>
 Motwani, K., Bacher, R., and **Molstad, A. J.** (2021+) <br>
 *Submitted.* <br> 
-[[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)][[data](https://github.com/ajmolstad/IntegrativeCox)]<br> 
- -->
+[[pdf](https://arxiv.org/abs/2111.12149)][[software](https://github.com/keshav-motwani/IBMR/)][[data](https://github.com/keshav-motwani/AnnotatedPBMC)]<br>  -->
+
 <!-- 
 Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
 **Molstad, A. J.** and Xin, Z. (2021+)<br>
-*Submitted*. <br>
-[[pdf](https://arxiv.org/abs/2108.02143)][[reproduce simulations](https://github.com/ajmolstad/CondTensorDecomp)]<br>  -->
-<!-- 
+*Submitted*. <br> 
+
 A convex-nonconvex strategy for grouped variable selection. <br>
 Liu, X., **Molstad, A. J.**, and Chi, E. C. (2021+) <br>
 *Submitted*. <br> -->
