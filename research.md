@@ -37,15 +37,24 @@ Dimension reduction for integrative survival analysis. <br>
 *Submitted*. <br>
 [[pdf](https://arxiv.org/abs/2108.02143)][[reproduce simulations](https://github.com/ajmolstad/IntegrativeCox)]<br>
 
+Multivariate mixed-type response regression with covariance estimation. <br>
+Ekvall, K. O. and **Molstad, A. J.** (2021+)<br>
+*Submitted*.  <br>
+[[pdf](https://koekvall.github.io/files/mixed_type.pdf)][[software](https://github.com/koekvall/lvmmr)]<br>
+
+New insights for the multivariate square-root lasso. <br>
+**Molstad, A. J.** (2021+)<br>
+*Submitted*.  <br>
+[[pdf](https://arxiv.org/pdf/1909.05041)][[software](https://github.com/ajmolstad/MSRL)][[example](/docs/MSRL_Example.html)] <br>
+
+
+
 Scalable algorithms for semiparametric accelerated failure time models in high dimensions.<br>
 Suder, P. M. and **Molstad, A. J.** (2021+) <br>
 *Statistics in Medicine*. <br>
 [[pdf](https://arxiv.org/abs/2104.01707)][[software](https://github.com/ajmolstad/penAFT)][[example](/docs/penAFT_Example.html)]<br>
 
-Multivariate mixed-type response regression with covariance estimation. <br>
-Ekvall, K. O. and **Molstad, A. J.** (2021+)<br>
-*Submitted*.  <br>
-[[pdf](https://koekvall.github.io/files/mixed_type.pdf)][[software](https://github.com/koekvall/lvmmr)]<br>
+
 
 A likelihood-based approach for multivariate categorical response regression in high dimensions. <br>
 **Molstad, A. J.** and Rothman A. J. (2021+)<br>
@@ -62,12 +71,6 @@ Estimating multiple precision matrices with cluster fusion regularization. <br>
 Price, B. S., **Molstad, A. J.**, and Sherwood, B. (2021+)<br>
 *Journal of Computational and Graphical Statistics*.  <br>
 [[pdf](https://www.tandfonline.com/doi/pdf/10.1080/10618600.2021.1874963?casa_token=stoGAjrlYbUAAAAA:YQArJJxGutWxREoX509u0yGiEgMrtk-fYaR-B2iPSCkG6o_E5vHay7QreuGHtjsCrqBHImDwKI7T)][[supplementary material](https://ndownloader.figstatic.com/files/26117444)]<br>
-
-
-New insights for the multivariate square-root lasso. <br>
-**Molstad, A. J.** (2021+)<br>
-*Submitted*.  <br>
-[[pdf](https://arxiv.org/pdf/1909.05041)][[software](https://github.com/ajmolstad/MSRL)][[example](/docs/MSRL_Example.html)] <br>
 
 
 An explicit mean-covariance parameterization for multivariate response linear regression. <br>
