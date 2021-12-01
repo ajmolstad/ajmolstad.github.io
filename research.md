@@ -26,7 +26,7 @@ multivariate categorical response regression. <br>
 **Molstad, A. J.** and Xin, Z. (2021+)<br>
 *Submitted*. <br>  -->
 
- A convex-nonconvex strategy for grouped variable selection. <br>
+A convex-nonconvex strategy for grouped variable selection. <br>
 Liu, X., **Molstad, A. J.**, and Chi, E. C. (2021+) <br>
 *Submitted*. <br> 
 [[pdf](https://arxiv.org/abs/2111.15075)] <br>
