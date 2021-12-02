@@ -40,7 +40,7 @@ Dimension reduction for integrative survival analysis. <br>
 Multivariate mixed-type response regression with covariance estimation. <br>
 Ekvall, K. O. and **Molstad, A. J.** (2021+)<br>
 *Submitted*.  <br>
-[[pdf](https://koekvall.github.io/files/mixed_type.pdf)][[software](https://github.com/koekvall/lvmmr)]<br>
+[[pdf](https://arxiv.org/abs/2101.08436)][[software](https://github.com/koekvall/mmrr)]<br>
 
 New insights for the multivariate square-root lasso. <br>
 **Molstad, A. J.** (2021+)<br>
