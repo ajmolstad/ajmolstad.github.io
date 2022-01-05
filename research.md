@@ -44,7 +44,7 @@ Ekvall, K. O. and **Molstad, A. J.** (2021+)<br>
 
 New insights for the multivariate square-root lasso. <br>
 **Molstad, A. J.** (2021+)<br>
-*Submitted*.  <br>
+*Journal of Machine Learning Research*.  <br>
 [[pdf](https://arxiv.org/pdf/1909.05041)][[software](https://github.com/ajmolstad/MSRL)][[example](/docs/MSRL_Example.html)] <br>
 
 
