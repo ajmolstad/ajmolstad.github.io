@@ -7,13 +7,13 @@ permalink: /research/
 
 
 *Research supported in part by NIH R01-HL152439 and NSF DMS-2113589.*
-<!--  
+ 
 Multiresolution categorical regression with
 application to interpretable cell type annotation. <br>
 **Molstad, A. J.** and Motwani, K. (2021+) <br>
 *Submitted.* <br> 
 [[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br>
- -->
+
 
 Binned multinomial logistic regression for integrative cell type annotation. <br>
 Motwani, K., Bacher, R., and **Molstad, A. J.** (2021+) <br>
