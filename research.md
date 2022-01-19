@@ -14,12 +14,10 @@ application to interpretable cell type annotation. <br>
 *Submitted.* <br> 
 [[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
 
-
 Binned multinomial logistic regression for integrative cell type annotation. <br>
 Motwani, K., Bacher, R., and **Molstad, A. J.** (2021+) <br>
 *Submitted.* <br> 
 [[pdf](https://arxiv.org/abs/2111.12149)][[software](https://github.com/keshav-motwani/IBMR/)][[data](https://github.com/keshav-motwani/AnnotatedPBMC)]<br> 
-
 
 Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
@@ -30,7 +28,6 @@ A convex-nonconvex strategy for grouped variable selection. <br>
 Liu, X., **Molstad, A. J.**, and Chi, E. C. (2021+) <br>
 *Submitted*. <br> 
 [[pdf](https://arxiv.org/abs/2111.15075)] <br>
-
 
 Dimension reduction for integrative survival analysis. <br>
 **Molstad, A. J.** and Patra, R. K. (2021+)<br>
@@ -48,19 +45,16 @@ New insights for the multivariate square-root lasso. <br>
 [[pdf](https://arxiv.org/pdf/1909.05041)][[software](https://github.com/ajmolstad/MSRL)][[example](/docs/MSRL_Example.html)] <br>
 
 
-
 Scalable algorithms for semiparametric accelerated failure time models in high dimensions.<br>
 Suder, P. M. and **Molstad, A. J.** (2021+) <br>
 *Statistics in Medicine*. <br>
 [[pdf](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.9264)][[software](https://github.com/ajmolstad/penAFT)][[example](/docs/penAFT_Example.html)]<br>
 
 
-
 A likelihood-based approach for multivariate categorical response regression in high dimensions. <br>
 **Molstad, A. J.** and Rothman A. J. (2021+)<br>
 *Journal of the American Statistical Association*. <br>
 [[pdf](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1999819)][[software](https://github.com/ajmolstad/BvCategorical)][[example](/docs/BvCategorical_Example.html)] <br>
-(Some minor clarifications are given in the latest arXiv version.) <br>
 
 
 A covariance-enhanced approach to multi-tissue joint eQTL mapping with application to transcriptome-wide association studies.  <br>
