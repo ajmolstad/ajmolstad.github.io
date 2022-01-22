@@ -15,44 +15,44 @@ application to interpretable cell type annotation. <br>
 [[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
 
 Binned multinomial logistic regression for integrative cell type annotation. <br>
-Motwani, K., Bacher, R., and **Molstad, A. J.** (2021+) <br>
+Motwani, K., Bacher, R., and **Molstad, A. J.** (2022+) <br>
 *Submitted.* <br> 
 [[pdf](https://arxiv.org/abs/2111.12149)][[software](https://github.com/keshav-motwani/IBMR/)][[data](https://github.com/keshav-motwani/AnnotatedPBMC)]<br> 
 
 Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
-**Molstad, A. J.** and Xin, Z. (2021+)<br>
+**Molstad, A. J.** and Xin, Z. (2022+)<br>
 *Submitted*. <br> 
 
 A convex-nonconvex strategy for grouped variable selection. <br>
-Liu, X., **Molstad, A. J.**, and Chi, E. C. (2021+) <br>
+Liu, X., **Molstad, A. J.**, and Chi, E. C. (2022+) <br>
 *Submitted*. <br> 
 [[pdf](https://arxiv.org/abs/2111.15075)] <br>
 
 Dimension reduction for integrative survival analysis. <br>
-**Molstad, A. J.** and Patra, R. K. (2021+)<br>
+**Molstad, A. J.** and Patra, R. K. (2022+)<br>
 *Submitted*. <br>
 [[pdf](https://arxiv.org/abs/2108.02143)][[reproduce simulations](https://github.com/ajmolstad/IntegrativeCox)]<br>
 
 Multivariate mixed-type response regression with covariance estimation. <br>
-Ekvall, K. O. and **Molstad, A. J.** (2021+)<br>
+Ekvall, K. O. and **Molstad, A. J.** (2022+)<br>
 *Submitted*.  <br>
 [[pdf](https://arxiv.org/abs/2101.08436)][[software](https://github.com/koekvall/mmrr)]<br>
 
 New insights for the multivariate square-root lasso. <br>
-**Molstad, A. J.** (2021+)<br>
+**Molstad, A. J.** (2022+)<br>
 *Journal of Machine Learning Research*.  <br>
 [[pdf](https://arxiv.org/pdf/1909.05041)][[software](https://github.com/ajmolstad/MSRL)][[example](/docs/MSRL_Example.html)] <br>
 
 
 Scalable algorithms for semiparametric accelerated failure time models in high dimensions.<br>
-Suder, P. M. and **Molstad, A. J.** (2021+) <br>
+Suder, P. M. and **Molstad, A. J.** (2022+) <br>
 *Statistics in Medicine*. <br>
 [[pdf](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.9264)][[software](https://github.com/ajmolstad/penAFT)][[example](/docs/penAFT_Example.html)]<br>
 
 
 A likelihood-based approach for multivariate categorical response regression in high dimensions. <br>
-**Molstad, A. J.** and Rothman A. J. (2021+)<br>
+**Molstad, A. J.** and Rothman A. J. (2022+)<br>
 *Journal of the American Statistical Association*. <br>
 [[pdf](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1999819)][[software](https://github.com/ajmolstad/BvCategorical)][[example](/docs/BvCategorical_Example.html)] <br>
 
@@ -63,13 +63,13 @@ A covariance-enhanced approach to multi-tissue joint eQTL mapping with applicati
 [[pdf](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/A-covariance-enhanced-approach-to-multitissue-joint-eQTL-mapping-with/10.1214/20-AOAS1432.short)][[results](https://github.com/ajmolstad/MTeQTLResults)] <br>
 
 Estimating multiple precision matrices with cluster fusion regularization. <br>
-Price, B. S., **Molstad, A. J.**, and Sherwood, B. (2021+)<br>
+Price, B. S., **Molstad, A. J.**, and Sherwood, B. (2021)<br>
 *Journal of Computational and Graphical Statistics*.  **30** (4), 823-834. <br>
 [[pdf](https://www.tandfonline.com/doi/pdf/10.1080/10618600.2021.1874963?casa_token=stoGAjrlYbUAAAAA:YQArJJxGutWxREoX509u0yGiEgMrtk-fYaR-B2iPSCkG6o_E5vHay7QreuGHtjsCrqBHImDwKI7T)][[supplementary material](https://ndownloader.figstatic.com/files/26117444)]<br>
 
 
 An explicit mean-covariance parameterization for multivariate response linear regression. <br>
-**Molstad, A. J.**, Weng, G., Doss, C. R., and Rothman, A. J. (2021+)<br>
+**Molstad, A. J.**, Weng, G., Doss, C. R., and Rothman, A. J. (2021)<br>
 *Journal of Computational and Graphical Statistics*. **30** (2), 612-621. <br>
 [[pdf](https://www.tandfonline.com/doi/pdf/10.1080/10618600.2020.1853551?casa_token=dQzCJAFc1ZoAAAAA:Uaq0GRdBijyS7kavHT9njRKCFqCvnE-XBddXiI_w8BAEf0ZCllJVy_ALwrcXpGxSJSKcdS4i7P_q)][[software](https://github.com/ajmolstad/MCMVR)][[example](/docs/MCMVR_Example.html)]<br>
 
