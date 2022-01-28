@@ -6,7 +6,7 @@ permalink: /research/
 {% include image.html url="/images/Norway1.jpg" width=800 align="center" %}
 
 
-*Research supported in part by NIH R01-HL152439 and NSF DMS-2113589.*
+*Research supported in part by NIH R01-HL152439 and NSF DMS-2113589.* 
  
 <!-- Multiresolution categorical regression with
 application to interpretable cell type annotation. <br>
