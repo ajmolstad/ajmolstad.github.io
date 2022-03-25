@@ -20,7 +20,7 @@ Motwani, K., Bacher, R., and **Molstad, A. J.** (2022+) <br>
 
 Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
-**Molstad, A. J.** and Xin, Z. (2022+)<br>
+**Molstad, A. J.** and Zhang, X. (2022+)<br>
 *Submitted*. <br> 
 
 A convex-nonconvex strategy for grouped variable selection. <br>
