@@ -1,256 +1,3 @@
-(X - N*p)^2/(N*p)
-N*p
-X
-p <- c(0.05, 0.45, 0.25, 0.25)#
-test.stat <- rep(0, 10000)#
-N <- 2156#
-for(jj in 1:10000){#
-	X <- rmultinom(1, 2156, prob = p)#
-	test.stat[jj] <- sum((X - N*p)^2/(N*p))#
-}
-hist(test.stat)
-hist(test.stat, breaks=20)
-hist(test.stat, breaks=30)
-dchisq(x, df = 3)
-x <- seq(0, 20, length=100)#
-dchisq(x, df = 3)
-lines(dchisq(x, df = 3), col="red")
-p <- c(0.05, 0.45, 0.25, 0.25)#
-test.stat <- rep(0, 10000)#
-N <- 2156#
-for(jj in 1:10000){#
-	X <- rmultinom(1, 2156, prob = p)#
-	test.stat[jj] <- sum((X - N*p)^2/(N*p))#
-}#
-#
-hist(test.stat/10000)#
-x <- seq(0, 20, length=100)#
-lines(dchisq(x, df = 3), col="red")
-p <- c(0.05, 0.45, 0.25, 0.25)#
-test.stat <- rep(0, 10000)#
-N <- 2156#
-for(jj in 1:10000){#
-	X <- rmultinom(1, 2156, prob = p)#
-	test.stat[jj] <- sum((X - N*p)^2/(N*p))#
-}#
-#
-hist(test.stat)#
-x <- seq(0, 20, length=100)#
-lines(dchisq(x, df = 3), col="red")
-density(test.stat)
-plot(density(test.stat))
-x <- seq(0, 20, length=100)#
-lines(dchisq(x, df = 3), col="red")
-X
-sum(X)
-(X - N*p)^2/(N*p)
-sum((X - N*p)^2/(N*p))
-1 + 3 + 1.5 + 4 + 1.5 + 3 + 3 + 1.5 + 1
-35 - 19.5
-.158*.394
-8 + 1.5 + 1 + 0.5 + 0.5
-35 - 11.5
-35 - 7.5
-help(fisher.test)
-4 + 1 + 0.5 + 1
-4 + 1 + 0.5 + 1 + 0.5
-1 + 2 + 1.5 + 1.5 + 1.5 + 2
-25 - 9.5
-2 + 1.5 + 1 + 2 + 1.5 + 1 + 3
-1.5 + 1.5 + 0.5 + 1 + 2
-25 - 6.5
-1 + 3 + 2 + 2.5 + 1 + 1 + 1 + 1.5 + 2
-1 + 2 + 1.5 + 1.5 + 1.5 + 1.5
-2 + 2.5 + 1.5 + 1.5 + 1.5
-3 + 3 + 1.5 + 2.5 + 1 + 1 + 1 + 2.5
-9.5 + 15.5
-2.5 + 0.5 + 2 + 4 + 2
-2.5 + 0.5 + 2 + 4 + 3
-2.5 + 1.5 + .5 + 2 + 3
-25-9.5
-1 + 2 + 1.5 + 1.5 + 1.5 + 1.5
-3 + 3 + 1.5 + 2.5 + 1 + 1 + 2.5
-3 + 3 + 1.5 + 2.5 + 1 + 1 + 1 + 2.5
-3.5 + 2.5 + 2 + 2.5 + 1.5 + 1.5 + 1 + 2
-25 - 16.5
-1 + 3 + 2 + 1.5 + 1.5 + 1 + 1 + 1.5
-1.5 + 1 + 1.5 + 0.5 + 1.5 + 1 + 1 + 1
-3 + 3 + 3 + 3 + 2 + 3 + 2
-3 + 3 + 3 + 3 + 2 + 3 + 3
-4 + 4 + 3 + 3 + 2 + 4 + 2
-4 + 4 + 3 + 3 + 2 + 4 + 3
-1 + 0.5 + 0.5 + 1.5 + 1 + 1
-23 - 5.5
-1 + 2 + 1.5 + 1 + 1
-23 - 6.5
-1.5 + 1 + 1 + 1 + 2
-23 - 5.6
-23 - 6.5
-2 + 3 + 1
-2 + 3 + 1 + 2
-23 - 8
-1.5 + 1.5 + 0.5 + 0.5
-1.5 + 3 + 1.5 + 2 + 0.5 + 1 + 1
-2.5 + 2 + 2 + 1 + 1 + 2
-23 - 10.5
-1 + 0.5 + 2 + 1 + 1
-23 - 5.5
-42 - 3 - 1.5 - 5 - 1.5 - 1.5 - 4 - 1
-24.5 + 12.5 + 16
-42 - 3 - 2 - 1.5 - 3.5 - 1
-42 - 4 - 4.5 - 3 - 2.5 - 0.5 - 3.5
-42 - 4 - 5 - 5 - 1.5 - 4.5 - 5 - 4.5 - 5 - 5- 3
-42 - 4 - 5 - 5 - 1.5 - 4.5 - 5 - 4.5 - 3 - 5- 3
-42 - 4 - 5 - 5 - 1.5 - 4.5 - 2 - 4.5 - 5 - 5 - 3
-42 - 0.5 - 0.5 - 3.5 - 1
-35 - 1 - 0.5 - 2.5 - 2 - 1 - 1.5
-23 - 1.5 - 1 - 1 - 2
-35 - 2 - 2 - 5
-42 - 2 - 2- 5
-26.5 + 17.5 + 33
-23 - 1 - 2 - 1 - 1
-42 - 3 - 2 - 1.5 - 3.5 - 1
-32.5 + 18 + 31
-23 - 1 - 0.5 - 0.5 - 1 - 1
-32.5 + 19 + 36.5
-36 - 2 - 1.5 - 3.5 - 1 - 0.5 - 1.5
-23 - 2 - 2 - 1 - 1 - 3
-42 - 1 - 1- 3 - 2 - 3 - 1.5 - 5 - 3 - 3 - 3
-25 + 14 + 16.5
-23 - 3 - 4- 3 - 3 - 1.5 - 1.5 - 3
-23 - 3 - 2 - 1 - 1.5 - 1.5
-32 + 14 + 28
-23 - 1 - 2 - 1 - 2 - 1 - 2
-23 - 1.5 - 1 - 1
-29 + 14 + 20.5
-23 - 1 - 3 - 2 - 1.5 - 1 - 1 - 1.5
-23 - 3.5 - 2.5 - 2 - 2.5 - 1.5 - 1 - 12
-23 - 3.5 - 2.5 - 2 - 2.5 - 1.5 - 1 - 2
-15.5 + 8 + 21/5
-15.5 + 8 + 21.5
-29 + 20 + 41.5
-23 - 3 - 2 - 3 - 1 - 1 - 1
-12.5 + 12 + 7.5
-7833 + 2682 + 1190
-38*10
-78
-783.27 + 1217.50 + 66 + 55.53
-exp(-800)#
-> exp(800)
-exp(-800)#
-exp(800)
-X
-X <- matrix(rnorm(25000*28), nrow=25000)
-t0 <- apply(X, 1, max)
-X <- matrix(rnorm(25000*28), nrow=25000)
-t0 <- apply(X, 1, max)
-system.time(apply(X, 1, max))
-system.time(any(X> 1))
-any(X>1)
-exp(700)
-exp(50)
-exp(10)
-exp(1)
-exp(750)
-exp(720)
-exp(700)
-exp(701)
-exp(702)
-exp(703)
-exp(704)
-exp(705)
-exp(706)
-exp(708)
-exp(710)
-exp(709)
-any(X > 710)
-system.time(any(X>710))
-system.time(max(X)))
-system.time(max(X))
-system.time(max(X) > 710)
-system.time(apply(X, 1, max))
-.temp <- read.csv("~/Desktop/Exam1.csv", header=T)
-str
-temp <- read.csv("~/Desktop/Exam1.csv", header=T)
-str(temp)
-temp <- read.csv("~/Desktop/Exam1.csv", header=T)
-str(temp)
-hist(temp$Q1)
-which(rowSums(temp)==0)
-temp <- read.csv("~/Desktop/Exam1.csv", header=T)#
-temp <- temp[-23,]
-hist(temp)
-hist(temp$Q1, main="Question1")
-hist(temp$Q1, main="Question 1")
-hist(temp$Q1, main="Question 1", breaks=15)
-temp <- read.csv("~/Desktop/Exam1.csv", header=T)#
-temp <- temp[-23,]#
-hist(temp$Q1, main="Question 1", xlab="Score", breaks=15)
-hist(temp$Q2, main="Question 2", xlab="Score", breaks=15)
-str(temp)
-hist(temp$Q1.1, main="Question 2", xlab="Score", breaks=15)
-hist(temp$Q3, main="Question 2", xlab="Score", breaks=15)
-summary(temp$Q1)#
-summary(temp$Q1.1)#
-summary(temp$Q3)
-summary(temp$Q1 + temp$Q1.1 + temp$Q3)
-temp$Q1 + temp$Q1.1 + temp$Q3
-scores <- temp$Q1 + temp$Q1.1 + temp$Q3
-s
-scores
-scores[-15]
-scores <- temp$Q1 + temp$Q1.1 + temp$Q3#
-scores[-15]#
-summary(scores[-15])
-summary(temp$Q1[-15])#
-summary(temp$Q1.1[-15])#
-summary(temp$Q3[-15])#
-#
-scores <- temp$Q1 + temp$Q1.1 + temp$Q3#
-scores[-15]#
-summary(scores[-15])
-summary(temp$Q1[-15])#
-summary(temp$Q1.1[-15])#
-summary(temp$Q3[-15])#
-#
-scores <- temp$Q1 + temp$Q1.1 + temp$Q3#
-# scores[-15]#
-summary(scores[-15])
-curvedScore <- function(x){#
-	100*((x/100)^(log(0.833)/log(.685))#
-}
-curvedScore <- function(x){#
-	100*((x/100)^(log(0.833)/log(.685)))#
-}
-curvedScore(scores[-15])
-hist(curvedScore(scores[-15]))
-curvedScore <- function(x){#
-	100*((x/100)^(log(0.80)/log(.685)))#
-}
-hist(curvedScore(scores[-15]))
-curvedScore <- function(x){#
-	100*((x/100)^(log(0.78)/log(.685)))#
-}
-hist(curvedScore(scores[-15]))
-curvedScore <- function(x){#
-	100*((x/100)^(log(0.80)/log(.685)))#
-}
-hist(curvedScore(scores[-15]))
-curvedScore <- function(x){#
-	100*((x/100)^(log(0.78)/log(.685)))#
-}
-summary(temp$Q1[-15])#
-summary(temp$Q1.1[-15])#
-summary(temp$Q3[-15])
-summary(temp$Q1)#
-summary(temp$Q1.1)#
-summary(temp$Q3)
-temp$Q1
-hist(curvedScore(scores))
-summary(scores)
-curvedScore <- function(x){100*((x/100)ˆ(0.7))}
-curvedScore <- function(x){100*((x/100)^(0.7))}
-curvedScore(68.99)
 curvedScore(68.25)
 load("/Users/aaron/Downloads/Model2_p200_63.RDS")
 temp <- readRDS("/Users/aaron/Downloads/Model2_p200_63.RDS")
@@ -299,47 +46,722 @@ summary(t1)
 exp(5.14460)/ ( 1+ exp(5.14460) + exp(1.83184))
 t2 <- vglm(breathing~age*as.factor(smoking), family=multinomial, data = Smoking)
 summary(t2)
-dataURL <- url("https://ajmolstad.github.io/docs/HW5_Q2.csv")Smoking <- read.csv(dataURL, header=TRUE)
-library(VGAM)
-str(Smoking)
-t1 <- vglm(breathing ~ age + as.factor(smoking), family=multinomial, data = Smoking)
-summary(t1)
-t2 <- vglm(breathing ~ age*as.factor(smoking), family=multinomial, data = Smoking)
-summary(t2)
-dataURL <- url("https://ajmolstad.github.io/docs/HW5_Q2.csv")#
-Smoking <- read.csv(dataURL, header=TRUE)
-str(SMoking)
-str(Smoking)
-response <- c(#
-rep(1, 28), rep(2, 45), rep(3, 29), rep(4, 26), #
-rep(1, 4), rep(2, 12), rep(3, 5), rep(4, 2), #
-rep(1, 41), rep(2, 44), rep(3, 20), rep(4, 20),#
-rep(1, 12), rep(2, 7), rep(3, 3), rep(4, 1)#
-)#
-treatment <- c(rep("sequential", 28 + 45 + 29 + 26 + 4 + 12 + 5 + 2), #
-rep("alternating", 41 + 44 + 20 + 20 + 12 + 7 + 3 + 1))#
-Gender <- c(rep("male", 28 + 45 + 29 + 26), rep("female", 4 + 12 + 5 + 2), rep("male", 41 + 44 + 20 + 20), rep("female", 12 + 7 + 3 + 1))
-response <- c(#
-rep(1, 28), rep(2, 45), rep(3, 29), rep(4, 26), #
-rep(1, 4), rep(2, 12), rep(3, 5), rep(4, 2), #
-rep(1, 41), rep(2, 44), rep(3, 20), rep(4, 20),#
-rep(1, 12), rep(2, 7), rep(3, 3), rep(4, 1)#
-)#
-treatment <- c(rep("sequential", 28 + 45 + 29 + 26 + 4 + 12 + 5 + 2), #
-rep("alternating", 41 + 44 + 20 + 20 + 12 + 7 + 3 + 1))#
-gender <- c(rep("male", 28 + 45 + 29 + 26), rep("female", 4 + 12 + 5 + 2), rep("male", 41 + 44 + 20 + 20), rep("female", 12 + 7 + 3 + 1))#
+ataURL <- url("https://ajmolstad.github.io/docs/HW6_Q2.RDS")#
+Chemo <- readRDS(dataURL)
+dataURL <- url("https://ajmolstad.github.io/docs/HW6_Q2.RDS")#
+Chemo <- readRDS(dataURL)
+str(Chemo)
+pnorm(sqrt(0.5))
+load("/Volumes/pQTL_sims/Results_March22/March22_Protein12_Replicate8.RDS")
+infty^(-.000001)
+inf^(-.000001)
+Inf
+Inf^(-.000001)
+1/2^.001
+1/2^.0000001
+1/2^1
+1/2^5
+(sqrt(2) + 1)/sqrt(2)
+2(sqrt(2) + 1)/sqrt(2)
+2*(sqrt(2) + 1)/sqrt(2)
+3/sqrt(2)
+2*(2 + 1)/sqrt(2)
+(2 + 1)/sqrt(2)
+sqrt(2)/(sqrt(2) - 1)
+load("/Users/aaron/Desktop/ps_giloteaux_2016.rds")
+temp <- readRDS("/Users/aaron/Desktop/ps_giloteaux_2016.rds")
+str(temp)
+if (!require("BiocManager", quietly = TRUE))#
+    install.packages("BiocManager")#
 #
-dat <- data.frame(response, treatment, gender)
-response <- c(#
-rep(1, 28), rep(2, 45), rep(3, 29), rep(4, 26), #
-rep(1, 4), rep(2, 12), rep(3, 5), rep(4, 2), #
-rep(1, 41), rep(2, 44), rep(3, 20), rep(4, 20),#
-rep(1, 12), rep(2, 7), rep(3, 3), rep(4, 1)#
-)#
-treatment <- c(rep("sequential", 28 + 45 + 29 + 26 + 4 + 12 + 5 + 2), #
-rep("alternating", 41 + 44 + 20 + 20 + 12 + 7 + 3 + 1))#
-gender <- c(rep("male", 28 + 45 + 29 + 26), rep("female", 4 + 12 + 5 + 2), rep("male", 41 + 44 + 20 + 20), rep("female", 12 + 7 + 3 + 1))#
+BiocManager::install("phyloseq")
+str(temp)
+temp@Data
+temp$otu_table
+temp[[otu_table]
+]
+temp[[otu_table]]
+temp$data
+library(tidyverse); packageVersion("tidyverse")     #
+library(phyloseq); packageVersion("phyloseq")         #
+library(DESeq2); packageVersion("DESeq2")  #
+library(microbiome); packageVersion("microbiome")  #
+library(vegan); packageVersion("vegan")    #
+library(picante); packageVersion("picante")         #
+library(ALDEx2); packageVersion("ALDEx2")   #
+library(metagenomeSeq); packageVersion("metagenomeSeq")    #
+library(HMP); packageVersion("HMP")       #
+library(dendextend); packageVersion("dendextend")   #
+library(selbal); packageVersion("selbal")    #
+library(rms); packageVersion("rms")#
+library(breakaway); packageVersion("breakaway")          #
+(ps <- readRDS("data_real/ps_giloteaux_2016.rds"))#
+sort(phyloseq::sample_sums(ps)) #
+(ps <- phyloseq::subset_samples(ps, phyloseq::sample_sums(ps) > 5000)) #
+(ps <- phyloseq::prune_taxa(phyloseq::taxa_sums(ps) > 5000, ps)) #
+#Assign new sample metadata field#
+phyloseq::sample_data(ps)$Status <- ifelse(phyloseq::sample_data(ps)$Subject == "Patient", "Chronic Fatigue", "Control")#
+phyloseq::sample_data(ps)$Status <- factor(phyloseq::sample_data(ps)$Status, levels = c("Control", "Chronic Fatigue"))#
+ps %>% #
+  sample_data %>%#
+  dplyr::count(Status)#
+#Get count of phyla#
+table(phyloseq::tax_table(ps)[, "Phylum"])#
+ps_rel_abund = phyloseq::transform_sample_counts(ps, function(x){x / sum(x)})#
+phyloseq::otu_table(ps)[1:5, 1:5]#
+phyloseq::otu_table(ps_rel_abund)[1:5, 1:5]
+(ps <- phyloseq::subset_samples(ps, phyloseq::sample_sums(ps) > 5000))
+ps <- temp
+(ps <- phyloseq::subset_samples(ps, phyloseq::sample_sums(ps) > 5000))
+(ps <- phyloseq::prune_taxa(phyloseq::taxa_sums(ps) > 5000, ps))
+#Assign new sample metadata field#
+phyloseq::sample_data(ps)$Status <- ifelse(phyloseq::sample_data(ps)$Subject == "Patient", "Chronic Fatigue", "Control")#
+phyloseq::sample_data(ps)$Status <- factor(phyloseq::sample_data(ps)$Status, levels = c("Control", "Chronic Fatigue"))#
+ps %>% #
+  sample_data %>%#
+  dplyr::count(Status)
+#Get count of phyla#
+table(phyloseq::tax_table(ps)[, "Phylum"])
+ps_rel_abund = phyloseq::transform_sample_counts(ps, function(x){x / sum(x)})#
+phyloseq::otu_table(ps)[1:5, 1:5]
+ps_rel_abund = phyloseq::transform_sample_counts(ps, function(x){x / sum(x)})#
+phyloseq::otu_table(ps)
+t0 <0- ps_rel_abund = phyloseq::transform_sample_counts(ps, function(x){x / sum(x)})#
+phyloseq::otu_table(ps)[1:5, 1:5
+ps_rel_abund = phyloseq::transform_sample_counts(ps, function(x){x / sum(x)})#
+phyloseq::otu_table(ps)[1:5, 1:5]
+ps_rel_abund
+ps_rel_abund ::otu_table
+phyloseq::otu_table(ps_rel_abund)[1:5, 1:5]
+phyloseq::otu_table(ps_rel_abund)
+#Plot#
+phyloseq::plot_bar(ps_rel_abund, fill = "Phylum") +#
+  geom_bar(aes(color = Phylum, fill = Phylum), stat = "identity", position = "stack") +#
+  labs(x = "", y = "Relative Abundance\n") +#
+  facet_wrap(~ Status, scales = "free") +#
+  theme(panel.background = element_blank(),#
+        axis.text.x=element_blank(),#
+        axis.ticks.x=element_blank())
+control_otu <- data.frame(phyloseq::otu_table(controls))#
+cf_otu <- data.frame(phyloseq::otu_table(cf))#
+X1 <- t(as.matrix(control_otu))#
+X2 <- t(as.matrix(cf_otu))
+controls <- phyloseq::subset_samples(ps_rel_abund, Status == "Control")#
+cf <- phyloseq::subset_samples(ps_rel_abund, Status == "Chronic Fatigue")
+control_otu <- data.frame(phyloseq::otu_table(controls))#
+cf_otu <- data.frame(phyloseq::otu_table(cf))#
+X1 <- t(as.matrix(control_otu))#
+X2 <- t(as.matrix(cf_otu))
+X1
+cor(X1)
+T_hat <- array(rep(0, K*p*p), c(K,p,p))#
+for (l in 1:K)#
+{#
+  T_hat[l,,] <- get.T_hat_l(Data[[l]], p)#
+}
+X[[1]]
+X2
+log(0/1)
+log(1/0)
+dim(X2)
+ps_phylum_rel_abund = phyloseq::transform_sample_counts(ps_phylum, function(x){min(x, 1) / sum(x)})#
+phyloseq::otu_table(ps_phylum_rel_abund)[1:5, 1:5]#
+controls <- phyloseq::subset_samples(ps_phylum_rel_abund, Status == "Control")#
+cf <- phyloseq::subset_samples(ps_phylum_rel_abund, Status == "Chronic Fatigue")#
+######################################################
+ps_rel_abund = phyloseq::transform_sample_counts(ps, function(x){min(x, 1) / sum(x)})#
+phyloseq::otu_table(ps_rel_abund)[1:5, 1:5]#
+controls <- phyloseq::subset_samples(ps_rel_abund, Status == "Control")#
+cf <- phyloseq::subset_samples(ps_rel_abund, Status == "Chronic Fatigue")#
+#####################################################
+control_otu <- data.frame(phyloseq::otu_table(controls))#
+cf_otu <- data.frame(phyloseq::otu_table(cf))#
+X1 <- t(as.matrix(control_otu))#
+X2 <- t(as.matrix(cf_otu))
+X1
+ps_phylum_rel_abund = phyloseq::transform_sample_counts(ps_phylum, function(x){x / sum(x)})#
+phyloseq::otu_table(ps_phylum_rel_abund)[1:5, 1:5]
+phyloseq::otu_table(ps)[1:5, 1:5]
+phyloseq::otu_table(ps)
+X1 <- phyloseq::otu_table(ps)
+X1
+X1 + 1
+(X1 + 1)/rowSums(X1 + 1)
+X11 <- (X1 + 1)/rowSums(X1 + 1)
+X <- X11
+mat <- matrix(0, dim(X)[2], dim(X)[2])#
+ 	for(k in 1:dim(X)[2]){#
+ 		for(j in 1:dim(X)[2]{#
+ 			t0 <- mean(log(X[,k]/X[,j]))#
+ 			mat[k,j] <- sum((log(X[,k]/X[,j]) - t0)^2)/dim(X)[1]#
+ 		}#
+ 	}
+mat <- matrix(0, dim(X)[2], dim(X)[2])#
+ 	for(k in 1:dim(X)[2]){#
+ 		for(j in 1:dim(X)[2]){#
+ 			t0 <- mean(log(X[,k]/X[,j]))#
+ 			mat[k,j] <- sum((log(X[,k]/X[,j]) - t0)^2)/dim(X)[1]#
+ 		}#
+ 	}
+dim(X)[2]
+k <- 1
+mat <- matrix(0, dim(X)[2], dim(X)[2])
+log(X[,k]/X[,j])
+t0 <- mean(log(X[,k]/X[,j]))
+t0
+mat[k,j] <- sum((log(X[,k]/X[,j]) - t0)^2)/dim(X)[1]
+mat <- matrix(0, dim(X)[2], dim(X)[2])#
+ 	for(k in 1:dim(X)[2]){#
+ 		for(j in 1:dim(X)[2]){#
+ 			t0 <- mean(log(X[,k]/X[,j]))#
+ 			mat[k,j] <- sum((log(X[,k]/X[,j]) - t0)^2)/dim(X)[1]#
+ 			cat(j,k,"\n")#
+ 		}#
+ 	}
+mat
+eigen(mat)$val
+A <- matrix(rnorm(10*20), nrow=10)
+sum(svd(A)$d)
+t0 <- crossprod(A)
+library(MASS)
+t0 <- crossprod(A)#
+t0inv <- ginv(A)
+sum(diag(A%*%t0%*%t(A)))
+A <- matrix(rnorm(10*20), nrow=10)#
+sum(svd(A)$d)#
+t0 <- crossprod(A)#
+t0inv <- ginv(A)#
+eo <- eigen(t0inv)#
+t0Inv <- eo$vec%*%diag(eo$val^0.5)%*%t(eo$vec)#
 #
-dat <- data.frame(response, treatment, gender)#
-setwd("~/Documents/GitHub/ajmolstad.github.io/docs")
-saveRDS(dat, "HW6_Q2.RDS")
+sum(diag(A%*% t0Inv%*%t(A)))
+A <- matrix(rnorm(10*20), nrow=10)#
+sum(svd(A)$d)#
+t0 <- crossprod(A)#
+t0inv <- ginv(t0)#
+eo <- eigen(t0inv)#
+t0Inv <- eo$vec%*%diag(eo$val^0.5)%*%t(eo$vec)#
+#
+sum(diag(A%*% t0Inv%*%t(A)))
+A <- matrix(rnorm(10*20), nrow=10)#
+sum(svd(A)$d)#
+t0 <- crossprod(A)#
+t0inv <- ginv(t0)#
+eo <- eigen(t0inv)#
+t0Inv <- eo$vec%*%diag(eo$val^0.5)%*%t(eo$vec)
+eo$val
+A <- matrix(rnorm(10*20), nrow=10)#
+sum(svd(A)$d)#
+t0 <- crossprod(A)#
+t0inv <- ginv(t0)#
+eo <- eigen(t0inv)#
+t0Inv <- eo$vec%*%diag(pmax(eo$val, 0)^0.5)%*%t(eo$vec)
+sum(diag(A%*% t0Inv%*%t(A)))
+A <- matrix(rnorm(10*20), nrow=10)#
+sum(svd(A)$d)#
+t0 <- crossprod(t(A))#
+t0inv <- ginv(t0)#
+eo <- eigen(t0inv)#
+t0Inv <- eo$vec%*%diag(pmax(eo$val, 0)^0.5)%*%t(eo$vec)#
+#
+sum(diag(t(A)%*% t0Inv%*%A))
+A <- matrix(rnorm(10*20), nrow=10)#
+A <- svd(A)$u[,1:5]%*%diag(svd(A)$d[1:5])%*%t(svd(A)$v[,1:5])#
+sum(svd(A)$d)
+t0 <- crossprod(t(A))#
+t0inv <- ginv(t0)#
+eo <- eigen(t0inv)#
+t0Inv <- eo$vec%*%diag(pmax(eo$val, 0)^0.5)%*%t(eo$vec)#
+#
+sum(diag(t(A)%*% t0Inv%*%A))
+44,471.00+ 44,525.00
+44471.00+ 44525.00
+22161.00 + 29197.00
+15310.00 + 15328.00
+depression=read.table(url("https://ajmolstad.github.io/docs/depression.txt"#
+),header=TRUE)
+25.75 + (43 - 25.75)/3
+e1 <- 25.75 + (43 - 25.75)/3 - 3
+28.5
+e1 <- 25.75 + (43 - 25.75)/3 - 3#
+e2 <- 47*((23.5/47)^(0.55))
+e2
+e1 <- e1/43
+e2 <- e2/47
+e1 <- 25.75 + (43 - 25.75)/3 - 3#
+e2 <- 47*((23.5/47)^(0.55))#
+e1 <- e1/43#
+e2 <- e2/47
+e1
+e2
+0.95*0.3 + e1*0.2 + e2*0.25 + e2*0.25
+e2
+0.95*0.3 + e1*0.2 + e2*0.25 + e2*0.25
+0.95*0.3 + e1*0.25 + e2*0.25 + 0.60*0.2
+0.95*0.3 + e1*0.2 + e2*0.25 + e2*0.25
+(rno)
+id <- rep(1:2276, each=3)yes <- c(rep(c(1,1,1),911),rep(c(1,1,0),538),rep(c(0,1,1),44),rep(c(0,1,0),456),rep(c(1,0,1),3),rep(c(1,0,0),43),rep(c(0,0,1),2),rep(c(0,0,0),279))instance <- rep(c("cigs","alc","mj"), 2276)teens.subject <- data.frame(id, yes, instance)teens.subject$instance <- factor(teens.subject$instance,levels=c("cigs","alc","mj"))
+cbind("improved", #
+	rep("0-5",21), #
+	rep("5-10",35),#
+	rep("10-15", 28),#
+	rep("15+", 19))
+cbind("improved", #
+	c(rep("0-5",21), #
+	rep("5-10",35),#
+	rep("10-15", 28),#
+	rep("15+", 19)))
+# -----------------------#
+# Problem 1 data#
+# -----------------------#
+RA.treatment <- #
+rbind(#
+cbind("improved", #
+	c(rep("0-5",21), #
+	rep("5-10",35),#
+	rep("10-15", 28),#
+	rep("15+", 19))), #
+#
+cbind("unchanged", #
+	c(rep("0-5",8), #
+	rep("5-10", 20),#
+	rep("10-15", 31),#
+	rep("15+", 22))), #
+cbind("worsened", #
+	c(rep("0-5",7), #
+	rep("5-10",15),#
+	rep("10-15", 45),#
+	rep("15+", 34)))#
+)
+RA.treatment
+data.frame("Symptoms" = RA.treatment[,1],#
+	"Events" = RA.treatment[,2])
+RA.treatment.full <- data.frame("Symptoms" = RA.treatment[,1],#
+	"EventsCat" = as.factor(RA.treatment[,2]))
+RA.treatment.full
+as.numeric(RA.treatment[,2])
+# -----------------------#
+# Problem 1 data#
+# -----------------------#
+RA.treatment1 <- #
+rbind(#
+cbind("improved", #
+	c(rep("0-5",21), #
+	rep("5-10",35),#
+	rep("10-15", 28),#
+	rep("15+", 19))), #
+#
+cbind("unchanged", #
+	c(rep("0-5",8), #
+	rep("5-10", 20),#
+	rep("10-15", 31),#
+	rep("15+", 22))), #
+cbind("worsened", #
+	c(rep("0-5",7), #
+	rep("5-10",15),#
+	rep("10-15", 45),#
+	rep("15+", 34)))#
+)#
+RA.treatment2 <- #
+rbind(#
+cbind("improved", #
+	c(rep(1,21), #
+	rep(2,35),#
+	rep(3, 28),#
+	rep(4, 19))), #
+#
+cbind("unchanged", #
+	c(rep(1,8), #
+	rep(2, 20),#
+	rep(3, 31),#
+	rep(4, 22))), #
+cbind("worsened", #
+	c(rep(1,7), #
+	rep(2,15),#
+	rep(3, 45),#
+	rep(4, 34)))#
+)#
+RA.treatment.full <- data.frame("Symptoms" = RA.treatment.1[,1],#
+	"EventsCat" = as.factor(RA.treatment.1[,2]),#
+	"EventsNum" = as.numeric(RA.treatment.2[,2]))
+# -----------------------#
+# Problem 1 data#
+# -----------------------#
+RA.treatment1 <- #
+rbind(#
+cbind("improved", #
+	c(rep("0-5",21), #
+	rep("5-10",35),#
+	rep("10-15", 28),#
+	rep("15+", 19))), #
+#
+cbind("unchanged", #
+	c(rep("0-5",8), #
+	rep("5-10", 20),#
+	rep("10-15", 31),#
+	rep("15+", 22))), #
+cbind("worsened", #
+	c(rep("0-5",7), #
+	rep("5-10",15),#
+	rep("10-15", 45),#
+	rep("15+", 34)))#
+)#
+RA.treatment2 <- #
+rbind(#
+cbind("improved", #
+	c(rep(1,21), #
+	rep(2,35),#
+	rep(3, 28),#
+	rep(4, 19))), #
+#
+cbind("unchanged", #
+	c(rep(1,8), #
+	rep(2, 20),#
+	rep(3, 31),#
+	rep(4, 22))), #
+cbind("worsened", #
+	c(rep(1,7), #
+	rep(2,15),#
+	rep(3, 45),#
+	rep(4, 34)))#
+)#
+RA.treatment <- data.frame("Symptoms" = RA.treatment1[,1],#
+	"EventsCat" = as.factor(RA.treatment1[,2]),#
+	"EventsNum" = as.numeric(RA.treatment2[,2]))
+RA.treatment
+str(RA.treatment)
+getwd()
+setwd("/Users/aaron/Documents/GitHub/ajmolstad.github.io/docs")
+saveRDS(RA.treatment, "Arthritis.RDS")
+set.seed(1)#
+n <- 65#
+t <- 5#
+Y <- matrix(0, nrow = n, ncol=t)#
+patient <- rep(0, n)#
+x <- rep(0, n)#
+uu <- 1#
+beta <- 3.25#
+alpha <- 1.25#
+for(jj in 1:n){#
+	u <- rnorm(1, sd=0.25)#
+	x[jj] <- runif(1, 0, 1)#
+	lp <- alpha + u + beta*x[jj]#
+	for(kk in 1:t){#
+		prob <- exp(lp)/(1 + exp(lp))#
+		outcomes <- rbinom(5, 1, prob)#
+		Y[jj,] <- outcomes#
+	}#
+}
+Y
+set.seed(1)#
+n <- 65#
+t <- 5#
+Y <- matrix(0, nrow = n, ncol=t)#
+patient <- rep(0, n)#
+x <- rep(0, n)#
+uu <- 1#
+beta <- 3.25#
+alpha <- -1.25#
+for(jj in 1:n){#
+	u <- rnorm(1, sd=0.25)#
+	x[jj] <- runif(1, 0, 1)#
+	lp <- alpha + u + beta*x[jj]#
+	for(kk in 1:t){#
+		prob <- exp(lp)/(1 + exp(lp))#
+		outcomes <- rbinom(5, 1, prob)#
+		Y[jj,] <- outcomes#
+	}#
+}
+Y
+set.seed(1)#
+n <- 65#
+t <- 5#
+Y <- matrix(0, nrow = t, ncol=n)#
+patient <- rep(0, n)#
+x <- rep(0, n)#
+uu <- 1#
+beta <- 3.25#
+alpha <- -1.25#
+for(jj in 1:n){#
+	u <- rnorm(1, sd=0.25)#
+	x[jj] <- runif(1, 0, 1)#
+	lp <- alpha + u + beta*x[jj]#
+	for(kk in 1:t){#
+		prob <- exp(lp)/(1 + exp(lp))#
+		outcomes <- rbinom(5, 1, prob)#
+		Y[,jj] <- outcomes#
+	}#
+}
+Y
+c(Y)
+Y <- c(Y)#
+patient <- rep(1:n, each=5)#
+severity <- rep(x, each=5)
+set.seed(1)#
+n <- 65#
+t <- 5#
+Y <- matrix(0, nrow = t, ncol=n)#
+patient <- rep(0, n)#
+x <- rep(0, n)#
+uu <- 1#
+beta <- 3.25#
+alpha <- -1.25#
+for(jj in 1:n){#
+	u <- rnorm(1, sd=0.25)#
+	x[jj] <- runif(1, 0, 1)#
+	lp <- alpha + u + beta*x[jj]#
+	for(kk in 1:t){#
+		prob <- exp(lp)/(1 + exp(lp))#
+		outcomes <- rbinom(5, 1, prob)#
+		Y[,jj] <- outcomes#
+	}#
+}#
+side.effects <- c(Y)#
+patient <- rep(1:n, each=5)#
+severity <- rep(x, each=5)
+RA_SideEffects <- data.frame("side.effects" = side.effects, "patient" = patient, "severity" = severity)
+str(RA_SideEffects)
+getwd()
+saveRDS(RA_SideEffects, "Arthritis_SideEffects.RDS")
+summary(fit.clogit1)
+RA.treatment3 <- #
+rbind(#
+cbind("improved", #
+	c(rep("0-5",41), #
+	rep("5-10",75),#
+	rep("10-15", 68),#
+	rep("15+", 59))), #
+#
+cbind("unchanged", #
+	c(rep("0-5",48), #
+	rep("5-10", 60),#
+	rep("10-15", 71),#
+	rep("15+", 62))), #
+cbind("worsened", #
+	c(rep("0-5",47), #
+	rep("5-10",55),#
+	rep("10-15", 85),#
+	rep("15+", 74)))#
+)
+\#
+dat <- data.frame("Symptoms" = RA.treatment3[,1], #
+"Events" = RA.treatment3[,2])
+dat <- data.frame("Symptoms" = RA.treatment3[,1], #
+"Events" = RA.treatment3[,2])
+library(VGAM)#
+fit.clogit1 <- vglm(Symptoms ~ Events,#
+family = cumulative(parallel = TRUE), data = dat,#
+hde.NA = FALSE)
+# Model summary#
+summary(fit.clogit1)
+expand.grid(c("Improved", "Unchanged", "Worsened"), c("0-5", "5-10", "10-15", "15+"))
+t0 <- expand.grid(c("Improved", "Unchanged", "Worsened"), c("0-5", "5-10", "10-15", "15+"))
+cbind(c(21, 8, 7, 35, 20, 15, 28, 31, 45, 19, 22, 34), t0)
+t1 <- c(21, 8, 7, 35, 20, 15, 28, 31, 45, 19, 22, 34)
+cbind(t1, t0)
+t1 <- c(21, 8, 7, 35, 20, 15, 28, 31, 45, 19, 22, 34)
+t0 <- expand.grid(c("Improved", "Unchanged", "Worsened"), c("0-5", "5-10", "10-15", "15+"))#
+t1 <- c(21, 8, 7, 35, 20, 15, 28, 31, 45, 19, 22, 34)#
+RAdata_loglinear <- cbind(t0, t1)#
+data.frame(RAdata_loglinear)
+t0 <- expand.grid(c("Improved", "Unchanged", "Worsened"), c("0-5", "5-10", "10-15", "15+"))#
+t1 <- c(21, 8, 7, 35, 20, 15, 28, 31, 45, 19, 22, 34)#
+RAdata_loglinear <- cbind(t0, t1)#
+colnames(RAdata_loglinear) <- names("Symptoms", "Events", "Count")#
+RAdata_loglinear <- data.frame(RAdata_loglinear)#
+head(RAdata_loglinear)
+t0 <- expand.grid(c("Improved", "Unchanged", "Worsened"), c("0-5", "5-10", "10-15", "15+"))#
+t1 <- c(21, 8, 7, 35, 20, 15, 28, 31, 45, 19, 22, 34)#
+RAdata_loglinear <- cbind(t0, t1)#
+colnames(RAdata_loglinear) <- c("Symptoms", "Events", "Count")#
+RAdata_loglinear <- data.frame(RAdata_loglinear)#
+head(RAdata_loglinear)
+t0 <- expand.grid(c("Improved", "Unchanged", "Worsened"), c("0-5", "5-10", "10-15", "15+"))#
+t1 <- c(21, 8, 7, 35, 20, 15, 28, 31, 45, 19, 22, 34)#
+RAdata_loglinear <- cbind(t0, t1)#
+colnames(RAdata_loglinear) <- c("Symptoms", "Events", "Count")#
+RAdata_loglinear <- data.frame(RAdata_loglinear)#
+RAdata_loglinear
+str(RAdata_loglinear)
+# ----------------------------------#
+set.seed(1)#
+n <- 65#
+t <- 5#
+Y <- matrix(0, nrow = t, ncol=n)#
+patient <- rep(0, n)#
+x <- rep(0, n)#
+uu <- 1#
+beta <- 3.25/10#
+alpha <- -1.25#
+for(jj in 1:n){#
+	u <- rnorm(1, sd=0.25)#
+	x[jj] <- runif(1, 0, 10)#
+	lp <- alpha + u + beta*x[jj]#
+	for(kk in 1:t){#
+		prob <- exp(lp)/(1 + exp(lp))#
+		outcomes <- rbinom(5, 1, prob)#
+		Y[,jj] <- outcomes#
+	}#
+}#
+side.effects <- c(Y)#
+patient <- rep(1:n, each=5)#
+severity <- rep(x, each=5)#
+RA_SideEffects <- data.frame("side.effects" = side.effects, "patient" = patient, "severity" = severity)#
+	saveRDS(RA_SideEffects, "Arthritis_SideEffects.RDS")
+43 - 24.5
+18.5/3
+24.5 + 6.16666667
+30.67/43
+(16/47)^(0.55)
+0.3*1 + 0.25*(0.71) + 0.20*(0.55) + 0.25*0.8
+0.3*1 + 0.25*(0.71) + 0.20*(0.55) + 0.25*0.85
+0.3*1 + 0.25*(0.71) + 0.20*(0.55) + 0.25*0.82
+0.3*0.9 + 0.25*(0.71) + 0.20*(0.55) + 0.25*0.82
+0.3*0.9 + 0.25*(0.71) + 0.20*(0.55) + 0.25*0.88
+0.3*0.9 + 0.25*(0.71) + 0.20*(0.55) + 0.25*0.90
+0.3*0.9 + 0.25*(0.71) + 0.20*(0.55) + 0.25*0.95
+0.3*0.9 + 0.25*(0.71) + 0.20*(0.55) + 0.25*0.95
+8 + 8 + 9 + 7 + 7 + 8
+8 + 8 + 10 + 7 + 8 + 9
+1 + 2 + 3.5 + 4.5 + 7 +
+0
+47 - 18
+alc=c("yes","no"), mj=c("yes","no")))
+getwd()
+set.seed(1)#
+teens <- array(c(c(4, 8, 9, 13, 10, 12, 26, 22, 16), c(4, 8, 9, 9, 10, 12, 12, 12, 16)*2 + rpois(9, 2), c(4, 8, 9, 4, 10, 12, 1, 12, 16) + rpois(9, 8)), #
+        dim = c(3,3,3),#
+        dimnames = list(A=c("0","1", "2"),#
+                        D=c("0","1", "2"), C=c("0","1", "2")))#
+teens <- as.table(teens)                       #
+Q3 <- as.data.frame(teens)   #
+#
+saveRDS(Q3, "Q3logLinear.RDS")
+set.seed(1)#
+teens <- array(c(c(4, 8, 9, 13, 10, 12, 26, 22, 16), c(4, 8, 9, 9, 10, 12, 12, 12, 16)*2 + rpois(9, 2), c(4, 8, 9, 4, 10, 12, 1, 12, 16) + rpois(9, 8)), #
+        dim = c(3,3,3),#
+        dimnames = list(A=c("1","2", "3"),#
+                        D=c("1","2", "3"), C=c("1","2", "3")))#
+teens <- as.table(teens)                       #
+Q3 <- as.data.frame(teens)   #
+#
+saveRDS(Q3, "Q3logLinear.RDS")
+eed(1)#
+teens <- array(c(c(4, 8, 9, 13, 10, 12, 26, 22, 16), c(4, 8, 9, 9, 10, 12, 12, 12, 16)*2 + rpois(9, 2)), #
+        dim = c(3,3,2),#
+        dimnames = list(A=c("1","2", "3"),#
+                        D=c("1","2", "3"), C=c("1","2")))#
+teens <- as.table(teens)                       #
+Q3 <- as.data.frame(teens)   #
+#
+saveRDS(Q3, "Q3logLinear.RDS")#
+#
+teens.AC.AM.CM <- glm(Freq ~ A*C + A*D + D*C,#
+                      family=poisson(link=log), data=Q3)                     #
+summary(teens.AC.AM.CM)
+pchisq(1.4051, 4)
+pchisq(1.4051, 4, lower=F)
+pathQ1 <- url("https://ajmolstad.github.io/docs/Arthritis.RDS")RAdata <- readRDS(pathQ1)
+str(RAdata)
+t0 <- expand.grid(c("Improved", "Unchanged", "Worsened"),c("0-5", "5-10", "10-15", "15+"))t1 <- c(21, 8, 7, 35, 20, 15, 28, 31, 45, 19, 22, 34)RAdata.2 <- cbind(t0, t1)colnames(RAdata.2) <- c("Symptoms", "Events", "Count")RAdata.2 <- data.frame(RAdata.2)RAdata.2
+t0 <- expand.grid(c("Improved", "Unchanged", "Worsened"),c("0-5", "5-10", "10-15", "15+"))t1 <- c(21, 8, 7, 35, 20, 15, 28, 31, 45, 19, 22, 34)RAdata.2 <- cbind(t0, t1)colnames(RAdata.2) <- c("Symptoms", "Events", "Count")RAdata.2 <- data.frame(RAdata.2)RAdata.2
+pathQ2 <- url("https://ajmolstad.github.io/docs/Arthritis_SideEffects.RDS")SEdata <- readRDS(pathQ2)
+str(SEdata)
+SEdata
+pathQ3 <- url("https://ajmolstad.github.io/docs/Q3logLinear.RDS")ADCdata <- readRDS(pathQ3)
+ADCdata
+# -----------------------#
+# Problem 1 data#
+# -----------------------#
+RA.treatment1 <- #
+rbind(#
+cbind("improved", #
+	c(rep("0-4",21), #
+	rep("5-9",35),#
+	rep("10-14", 28),#
+	rep("15+", 19))), #
+#
+cbind("unchanged", #
+	c(rep("0-4",8), #
+	rep("5-9", 20),#
+	rep("10-14", 31),#
+	rep("15+", 22))), #
+cbind("worsened", #
+	c(rep("0-4",7), #
+	rep("5-9",15),#
+	rep("10-14", 45),#
+	rep("15+", 34)))#
+)#
+RA.treatment2 <- #
+rbind(#
+cbind("improved", #
+	c(rep(1,21), #
+	rep(2,35),#
+	rep(3, 28),#
+	rep(4, 19))), #
+#
+cbind("unchanged", #
+	c(rep(1,8), #
+	rep(2, 20),#
+	rep(3, 31),#
+	rep(4, 22))), #
+cbind("worsened", #
+	c(rep(1,7), #
+	rep(2,15),#
+	rep(3, 45),#
+	rep(4, 34)))#
+)#
+RA.treatment <- data.frame("Symptoms" = RA.treatment1[,1],#
+	"EventsCat" = as.factor(RA.treatment1[,2]),#
+	"EventsNum" = as.numeric(RA.treatment2[,2]))#
+	setwd("/Users/aaron/Documents/GitHub/ajmolstad.github.io/docs")#
+saveRDS(RA.treatment, "Arthritis.RDS")
+pathQ1 <- url("https://ajmolstad.github.io/docs/Arthritis.RDS")#
+RAdata <- readRDS(pathQ1)
+str(RAdata)
+# -----------------------#
+# Problem 1 data#
+# -----------------------#
+RA.treatment1 <- #
+rbind(#
+cbind("improved", #
+	c(rep("0-4",21), #
+	rep("5-9",35),#
+	rep("10-14", 28),#
+	rep("15+", 19))), #
+#
+cbind("unchanged", #
+	c(rep("0-4",8), #
+	rep("5-9", 20),#
+	rep("10-14", 31),#
+	rep("15+", 22))), #
+cbind("worsened", #
+	c(rep("0-4",7), #
+	rep("5-9",15),#
+	rep("10-14", 45),#
+	rep("15+", 34)))#
+)#
+RA.treatment2 <- #
+rbind(#
+cbind("improved", #
+	c(rep(1,21), #
+	rep(2,35),#
+	rep(3, 28),#
+	rep(4, 19))), #
+#
+cbind("unchanged", #
+	c(rep(1,8), #
+	rep(2, 20),#
+	rep(3, 31),#
+	rep(4, 22))), #
+cbind("worsened", #
+	c(rep(1,7), #
+	rep(2,15),#
+	rep(3, 45),#
+	rep(4, 34)))#
+)#
+RA.treatment <- data.frame("Symptoms" = RA.treatment1[,1],#
+	"Events" = as.factor(RA.treatment1[,2]),#
+	"EventsNum" = as.numeric(RA.treatment2[,2]))#
+	setwd("/Users/aaron/Documents/GitHub/ajmolstad.github.io/docs")#
+saveRDS(RA.treatment, "Arthritis.RDS")
