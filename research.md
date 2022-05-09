@@ -46,7 +46,7 @@ Ekvall, K. O. and **Molstad, A. J.** (2022+)<br>
 New insights for the multivariate square-root lasso. <br>
 **Molstad, A. J.** (2022+)<br>
 *Journal of Machine Learning Research*.  <br>
-[[pdf](https://arxiv.org/pdf/1909.05041)][[software](https://github.com/ajmolstad/MSRL)][[example](/docs/MSRL_Example.html)] <br>
+[[pdf](https://jmlr.org/papers/v23/20-064.html)][[software](https://github.com/ajmolstad/MSRL)][[example](/docs/MSRL_Example.html)] <br>
 
 
 Scalable algorithms for semiparametric accelerated failure time models in high dimensions.<br>
