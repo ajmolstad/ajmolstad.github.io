@@ -8,7 +8,7 @@ permalink: /research/
 
 *Research supported in part by NIH R01-HL152439 and NSF DMS-2113589.* 
 
-Joint estimation of multiple large covariance matrices from compositional data. <br>
+<!-- Joint estimation of multiple large covariance matrices from compositional data. <br>
 **Molstad, A. J.**, Ekvall, K. O., and Suder, P. (2022+) <br>
 *Submitted.* <br> 
 [[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br>
@@ -16,7 +16,7 @@ Joint estimation of multiple large covariance matrices from compositional data. 
 Multiresolution categorical regression. <br>
 **Molstad, A. J.** and Motwani, K. (2022+) <br>
 *Submitted.* <br> 
-[[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br>
+[[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
 
 Binned multinomial logistic regression for integrative cell type annotation. <br>
 Motwani, K., Bacher, R., and **Molstad, A. J.** (2022+) <br>
