@@ -13,7 +13,7 @@ permalink: /research/
 *Submitted.* <br> 
 [[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
  
-Multiresolution categorical regression. <br>
+Multiresolution categorical regression for interpretable cell type annotation. <br>
 **Molstad, A. J.** and Motwani, K. (2022+) <br>
 *Submitted.* <br> 
 
