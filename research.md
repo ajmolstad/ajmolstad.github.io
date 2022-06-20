@@ -43,7 +43,7 @@ Liu, X., **Molstad, A. J.**, and Chi, E. C. (2022+) <br>
 
 Dimension reduction for integrative survival analysis. <br>
 **Molstad, A. J.** and Patra, R. K. (2022+)<br>
-*Submitted*. <br>
+*Biometrics*. <br>
 [[pdf](https://arxiv.org/abs/2108.02143)][[reproduce simulations](https://github.com/ajmolstad/IntegrativeCox)]<br>
 
 Mixed-type multivariate response regression with covariance estimation. <br>
