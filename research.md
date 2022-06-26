@@ -35,6 +35,7 @@ Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
 **Molstad, A. J.** and Zhang, X. (2022+)<br>
 *Submitted*. <br> 
+[[pdf](https://arxiv.org/abs/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)]  
 
 A convex-nonconvex strategy for grouped variable selection. <br>
 Liu, X., **Molstad, A. J.**, and Chi, E. C. (2022+) <br>
