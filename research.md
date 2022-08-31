@@ -30,6 +30,7 @@ Dimension reduction for multivariate categorical response regression. <br>
 Multiresolution categorical regression for interpretable cell type annotation. <br>
 **Molstad, A. J.** and Motwani, K. (2022+) <br>
 *Submitted.* <br> 
+[[pdf](https://arxiv.org/abs/2208.13857)][[software](https://github.com/ajmolstad/HierMultinom)]<br>   
 
 Binned multinomial logistic regression for integrative cell type annotation. <br>
 Motwani, K., Bacher, R., and **Molstad, A. J.** (2022+) <br>
