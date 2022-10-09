@@ -33,16 +33,17 @@ Multiresolution categorical regression for interpretable cell type annotation. <
 *Submitted.* <br> 
 [[pdf](https://arxiv.org/abs/2208.13857)][[software](https://github.com/ajmolstad/HierMultinom)]<br>   
 
-Binned multinomial logistic regression for integrative cell type annotation. <br>
-Motwani, K., Bacher, R., and **Molstad, A. J.** (2022+) <br>
-*Submitted.* <br> 
-[[pdf](https://arxiv.org/abs/2111.12149)][[software](https://github.com/keshav-motwani/IBMR/)][[data](https://github.com/keshav-motwani/AnnotatedPBMC)]<br> 
 
 Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
 **Molstad, A. J.** and Zhang, X. (2022+)<br>
 *Submitted*. <br> 
 [[pdf](https://arxiv.org/abs/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)]  
+
+Binned multinomial logistic regression for integrative cell type annotation. <br>
+Motwani, K., Bacher, R., and **Molstad, A. J.** (2022+) <br>
+*Submitted.* <br> 
+[[pdf](https://arxiv.org/abs/2111.12149)][[software](https://github.com/keshav-motwani/IBMR/)][[data](https://github.com/keshav-motwani/AnnotatedPBMC)]<br> 
 
 A convex-nonconvex strategy for grouped variable selection. <br>
 Liu, X., **Molstad, A. J.**, and Chi, E. C. (2022+) <br>
