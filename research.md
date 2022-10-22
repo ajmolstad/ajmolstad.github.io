@@ -8,25 +8,26 @@ permalink: /research/
 
 *Research supported in part by NIH R01-HL152439 and NSF DMS-2113589.* 
 
-Nonparametric accelerated failure time models for multiview survival analysis. <br>
+<!-- Nonparametric accelerated failure time models for multiview survival analysis. <br>
 Gelis-Cadena, K. and **Molstad, A. J.** (2022+) <br>
 *Submitted.* <br> 
-[[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br>
+[[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
 
-Discovering heterogenity in multi-ethnic pQTL studies. <br>
+<!-- Discovering heterogenity in multi-ethnic pQTL studies. <br>
 **Molstad, A. J.**, Cai, Y., Sun, W., Kooperberg, C., and Hsu, L. (2022+) <br>
 *Submitted.* <br> 
-[[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br>
+[[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
 
+<!-- 
 Simultaneous predictor and response dimension reduction for multivariate categorical response regression. <br>
-**Jin, Y.**, Molstad, A. J., and Zhang, X. (2022+) <br>
+Jin, Y., **Molstad, A. J.**, and Zhang, X. (2022+) <br>
 *Submitted.* <br> 
-[[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br>
+[[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
 
-Joint estimation of multiple large covariance matrices from compositional data. <br>
+<!-- Joint estimation of multiple large covariance matrices from compositional data. <br>
 **Molstad, A. J.**, Ekvall, K. O., and Suder, P. (2022+) <br>
 *Submitted.* <br> 
-[[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br>
+[[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
  
 Multiresolution categorical regression for interpretable cell type annotation. <br>
 **Molstad, A. J.** and Motwani, K. (2022+) <br>
