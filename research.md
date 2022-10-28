@@ -70,7 +70,7 @@ New insights for the multivariate square-root lasso. <br>
 Scalable algorithms for semiparametric accelerated failure time models in high dimensions.<br>
 Suder, P. M. and **Molstad, A. J.** (2022) <br>
 *Statistics in Medicine*. **41** (6), 933-949. <br>
-[[pdf](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.9264)][[software](https://github.com/ajmolstad/penAFT)][[example](/docs/penAFT_Example.html)]<br>
+[[pdf](https://arxiv.org/abs/2104.01707)][[software](https://github.com/ajmolstad/penAFT)][[example](/docs/penAFT_Example.html)]<br>
 
 
 A likelihood-based approach for multivariate categorical response regression in high dimensions. <br>
