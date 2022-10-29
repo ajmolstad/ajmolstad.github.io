@@ -56,6 +56,12 @@ Dimension reduction for integrative survival analysis. <br>
 *Biometrics*. <br>
 [[pdf](https://arxiv.org/abs/2108.02143)][[reproduce simulations](https://github.com/ajmolstad/IntegrativeCox)]<br>
 
+A likelihood-based approach for multivariate categorical response regression in high dimensions. <br>
+**Molstad, A. J.** and Rothman A. J. (2022+)<br>
+*Journal of the American Statistical Association*. <br>
+[[pdf](https://www.tandfonline.com/doi/abs/10.1080/01621459.2021.1999819?journalCode=uasa20)][[software](https://github.com/ajmolstad/BvCategorical)][[example](/docs/BvCategorical_Example.html)] <br>
+
+
 Mixed-type multivariate response regression with covariance estimation. <br>
 Ekvall, K. O. and **Molstad, A. J.** (2022)<br>
 *Statistics in Medicine*. **41** (15),  2768-2785. <br>
@@ -67,16 +73,12 @@ New insights for the multivariate square-root lasso. <br>
 [[pdf](https://jmlr.org/papers/v23/20-064.html)][[software](https://github.com/ajmolstad/MSRL)][[example](/docs/MSRL_Example.html)] <br>
 
 
+
 Scalable algorithms for semiparametric accelerated failure time models in high dimensions.<br>
 Suder, P. M. and **Molstad, A. J.** (2022) <br>
 *Statistics in Medicine*. **41** (6), 933-949. <br>
 [[pdf](https://arxiv.org/abs/2104.01707)][[software](https://github.com/ajmolstad/penAFT)][[example](/docs/penAFT_Example.html)]<br>
 
-
-A likelihood-based approach for multivariate categorical response regression in high dimensions. <br>
-**Molstad, A. J.** and Rothman A. J. (2022+)<br>
-*Journal of the American Statistical Association*. <br>
-[[pdf](https://www.tandfonline.com/doi/abs/10.1080/01621459.2021.1999819?journalCode=uasa20)][[software](https://github.com/ajmolstad/BvCategorical)][[example](/docs/BvCategorical_Example.html)] <br>
 
 
 A covariance-enhanced approach to multi-tissue joint eQTL mapping with application to transcriptome-wide association studies.  <br>
