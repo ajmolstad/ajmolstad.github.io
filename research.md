@@ -24,7 +24,7 @@ Jin, Y., **Molstad, A. J.**, and Zhang, X. (2022+) <br>
 *Submitted.* <br> 
 [[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
 
-Direct estimation of covariance matrices with compositional data. <br>
+Direct covariance matrix estimation with compositional data. <br>
 **Molstad, A. J.**, Ekvall, K. O., and Suder, P. M. (2022+) <br>
 *Submitted.* <br> 
  
