@@ -27,7 +27,7 @@ Jin, Y., **Molstad, A. J.**, and Zhang, X. (2022+) <br>
 Direct covariance matrix estimation with compositional data. <br>
 **Molstad, A. J.**, Ekvall, K. O., and Suder, P. M. (2022+) <br>
 *Submitted.* <br>
-[[software](https://github.com/ajmolstad/CompositionalCovariance)]   
+[[pdf](https://arxiv.org/abs/2212.09833)][[software](https://github.com/ajmolstad/CompositionalCovariance)]   
  
 Multiresolution categorical regression for interpretable cell type annotation. <br>
 **Molstad, A. J.** and Motwani, K. (2022+) <br>
