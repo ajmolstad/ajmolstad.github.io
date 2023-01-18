@@ -13,16 +13,15 @@ Gelis-Cadena, K. and **Molstad, A. J.** (2022+) <br>
 *Submitted.* <br> 
 [[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
 
-<!-- Discovering heterogenity in multi-ethnic pQTL studies. <br>
-**Molstad, A. J.**, Cai, Y., Sun, W., Kooperberg, C., and Hsu, L. (2022+) <br>
-*Submitted.* <br> 
-[[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
-
 <!-- 
 Simultaneous predictor and response dimension reduction for multivariate categorical response regression. <br>
 Jin, Y., **Molstad, A. J.**, and Zhang, X. (2022+) <br>
 *Submitted.* <br> 
 [[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
+
+Heterogenity-aware joint pQTL modeling with application to ancestry-specific association studies. <br>
+**Molstad, A. J.**, Cai, Y., Sun, W., Kooperberg, C., and Hsu, L. (2022+) <br>
+*Submitted.* <br> 
 
 Direct covariance matrix estimation with compositional data. <br>
 **Molstad, A. J.**, Ekvall, K. O., and Suder, P. M. (2022+) <br>
