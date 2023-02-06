@@ -19,6 +19,7 @@ Jin, Y., **Molstad, A. J.**, and Zhang, X. (2022+) <br>
 *Submitted.* <br> 
 [[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
 
+<!-- 
 Multivariate categorical response linear discriminant analysis in high dimensions. (2023+) <br>
 Deng, K., Jin, Y., Molstad, A. J., Zhang, X. <br>
 *Submitted.* <br> 
@@ -29,7 +30,7 @@ Cai, Y., **Molstad, A. J.**, Kooperberg, C., Reiner, A., Sun, W., and Hsu, L. <b
 
 Heterogeneity-aware integrative analyses for ancestry-specific association studies. <br>
 **Molstad, A. J.**, Cai, Y., Sun, W., Kooperberg, C., and Hsu, L. (2023+) <br>
-*Submitted.* <br> 
+*Submitted.* <br>  -->
 
 Direct covariance matrix estimation with compositional data. <br>
 **Molstad, A. J.**, Ekvall, K. O., and Suder, P. M. (2022+) <br>
