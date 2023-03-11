@@ -20,17 +20,17 @@ Jin, Y., **Molstad, A. J.**, and Zhang, X. (2022+) <br>
 [[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
 
 
-<!-- High-dimensional multi-response discriminant analysis. (2023+) <br>
+High-dimensional multi-response discriminant analysis. (2023+) <br>
 Deng, K., Zhang, X., and **Molstad, A. J.** <br>
-*Submitted.* <br>  -->
+*Submitted.* <br> 
 
-<!-- Integration of proteomics quantitative trait loci into genetic association analysis of stroke in the African American population. (2023+)<br>
+Integration of proteomics quantitative trait loci into genetic association analysis of stroke in the African American population. (2023+)<br>
 Cai, Y., **Molstad, A. J.**, Kooperberg, C., Reiner, A., Sun, W., and Hsu, L. <br>
-*Submitted.* <br>  -->
+*Submitted.* <br> 
 
-<!-- Heterogeneity-aware integrative analyses for ancestry-specific association studies. <br>
+Heterogeneity-aware integrative analyses for ancestry-specific association studies. <br>
 **Molstad, A. J.**, Cai, Y., Sun, W., Kooperberg, C., and Hsu, L. (2023+) <br>
-*Submitted.* <br>  -->
+*Submitted.* <br> 
 
 Direct covariance matrix estimation with compositional data. <br>
 **Molstad, A. J.**, Ekvall, K. O., and Suder, P. M. (2022+) <br>
