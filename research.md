@@ -19,16 +19,16 @@ Jin, Y., **Molstad, A. J.**, and Zhang, X. (2022+) <br>
 *Submitted.* <br> 
 [[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
 
-<!-- 
-Multivariate categorical response linear discriminant analysis in high dimensions. (2023+) <br>
-Deng, K., Jin, Y., Molstad, A. J., Zhang, X. <br>
-*Submitted.* <br> 
 
-Integration of proteomics quantitative trait loci into genetic association analysis of stroke in the African American population. (2023+)<br>
+<!-- High-dimensional multi-response discriminant analysis. (2023+) <br>
+Deng, K., Zhang, X., and **Molstad, A. J.** <br>
+*Submitted.* <br>  -->
+
+<!-- Integration of proteomics quantitative trait loci into genetic association analysis of stroke in the African American population. (2023+)<br>
 Cai, Y., **Molstad, A. J.**, Kooperberg, C., Reiner, A., Sun, W., and Hsu, L. <br>
-*Submitted.* <br> 
+*Submitted.* <br>  -->
 
-Heterogeneity-aware integrative analyses for ancestry-specific association studies. <br>
+<!-- Heterogeneity-aware integrative analyses for ancestry-specific association studies. <br>
 **Molstad, A. J.**, Cai, Y., Sun, W., Kooperberg, C., and Hsu, L. (2023+) <br>
 *Submitted.* <br>  -->
 
@@ -51,12 +51,12 @@ multivariate categorical response regression. <br>
 
 Binned multinomial logistic regression for integrative cell type annotation. <br>
 Motwani, K., Bacher, R., and **Molstad, A. J.** (2022+) <br>
-*Submitted.* <br> 
+*Annals of Applied Statistics.* <br> 
 [[pdf](https://arxiv.org/abs/2111.12149)][[software](https://github.com/keshav-motwani/IBMR/)][[data](https://github.com/keshav-motwani/AnnotatedPBMC)]<br> 
 
 A convex-nonconvex strategy for grouped variable selection. <br>
 Liu, X., **Molstad, A. J.**, and Chi, E. C. (2022+) <br>
-*Submitted*. <br> 
+*Electronic Journal of Statistics*. <br> 
 [[pdf](https://arxiv.org/abs/2111.15075)] <br>
 
 Dimension reduction for integrative survival analysis. <br>
