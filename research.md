@@ -19,9 +19,9 @@ Jin, Y., **Molstad, A. J.**, and Zhang, X. (2022+) <br>
 *Submitted.* <br> 
 [[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
 
-<!-- High-dimensional multi-response discriminant analysis. <br>
+High-dimensional multi-response discriminant analysis. <br>
 Deng, K., Zhang, X., and **Molstad, A. J.**  (2023+) <br>
-*Submitted.* <br>  -->
+*Submitted.* <br> 
 
 <!-- 
 Integration of proteomics quantitative trait loci into genetic association analysis of stroke in the African American population. (2023+)<br>
