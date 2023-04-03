@@ -63,7 +63,7 @@ Liu, X., **Molstad, A. J.**, and Chi, E. C. (2022+) <br>
 Dimension reduction for integrative survival analysis. <br>
 **Molstad, A. J.** and Patra, R. K. (2022+)<br>
 *Biometrics*. <br>
-[[pdf](https://arxiv.org/abs/2108.02143)][[reproduce simulations](https://github.com/ajmolstad/IntegrativeCox)]<br>
+[[pdf](/docs/IntegrativeCox.pdf)][[reproduce simulations](https://github.com/ajmolstad/IntegrativeCox)]<br>
 
 A likelihood-based approach for multivariate categorical response regression in high dimensions. <br>
 **Molstad, A. J.** and Rothman A. J. (2022+)<br>
