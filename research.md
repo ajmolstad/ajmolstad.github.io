@@ -52,7 +52,7 @@ multivariate categorical response regression. <br>
 
 Binned multinomial logistic regression for integrative cell type annotation. <br>
 Motwani, K., Bacher, R., and **Molstad, A. J.** (2022+) <br>
-*Submitted.* <br> 
+*Annals of Applied Statistics.* <br> 
 [[pdf](https://arxiv.org/abs/2111.12149)][[software](https://github.com/keshav-motwani/IBMR/)][[data](https://github.com/keshav-motwani/AnnotatedPBMC)]<br> 
 
 A convex-nonconvex strategy for grouped variable selection. <br>
