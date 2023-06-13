@@ -372,8 +372,6 @@ you encounter any errors or strange behavior, please report the issue at
 <p>First, you need to set the path to where the R scripts and RDS files
 will be. Call this path <span class="math inline">\(\texttt{dir}\)</span>. For example,</p>
 <pre class="r"><code>dir &lt;- &quot;/Users/amolstad/scRNAseq/Example/&quot;</code></pre>
-<pre><code>## Warning: package &#39;Rcpp&#39; was built under R version 4.1.2</code></pre>
-<pre><code>## Warning: package &#39;MASS&#39; was built under R version 4.1.2</code></pre>
 <p>To begin, download the dataset <span class="math inline">\(\texttt{pbmc3k_final.RDS}\)</span> from this <a href="https://www.dropbox.com/s/kwd3kcxkmpzqg6w/pbmc3k_final.rds?dl=0">Dropbox
 link</a>. This is a PBMC single-cell RNA-seq dataset consisting of 2700
 cells with labels. These data were already processed following the <a href="https://satijalab.org/seurat/articles/pbmc3k_tutorial.html"><span class="math inline">\(\texttt{Seurat}\)</span> tutorial</a>.</p>
@@ -401,7 +399,7 @@ validation set. Note that our function takes the design matrix <span class="math
 the number of samples (here, cells) and <span class="math inline">\(p\)</span> is the number of predictors (here,
 genes). Similarly, <span class="math inline">\(Y\)</span> needs to be a
 <span class="math inline">\(n \times K\)</span> matrix where <span class="math inline">\(K\)</span> is the number of response categories
-(here. cell type labels). Each row of <span class="math inline">\(Y\)</span> must be all zeros except one–in the
+(here. cell type labels). Each row of <span class="math inline">\(Y\)</span> must be all zeros except one—in the
 column corresponding to that particular sample’s label.</p>
 <pre class="r"><code>set.seed(1)
 train.inds &lt;- sample(1:dim(Xfull)[2], 1750)
@@ -418,7 +416,7 @@ Yval &lt;- Yfull[val.inds,]
 Ytest &lt;- Yfull[test.inds,]
 
 Xtrain &lt;- t(Xfull[,train.inds])
-# remove any genes which do not vary
+# remove any genes which do not vary at all in training data!
 rm.genes &lt;- which(apply(Xtrain, 2, sd)==0)
 if(length(rm.genes) &gt; 0){
   Xtrain &lt;- Xtrain[,-rm.genes]
@@ -444,22 +442,17 @@ We must then convert this to numeric values to match the columns of
   c(&quot;CD4 T cells&quot;, &quot;CD8 T cells&quot;), 
   c(&quot;FCGR3A+ Monocytes&quot;, &quot;CD14+ Monocytes&quot;))
 groups &lt;- lapply(groups, function(group) sapply(group, function(x) which(categories == x)))</code></pre>
-<p>Now we are ready to fit the model using the function <span class="math inline">\(\texttt{HeirMult.Path}\)</span>. Note that this
-function only works when no coarse categories overlap. By definition, an
-overlap occurs when a fine category is contained in two or more coarse
-categories. This function fits the model for a grid of candidate tuning
-parameters. Note that this function will take a few minutes to run (~3
-minutes).</p>
+<p>Now we are ready to fit the model using the function <span class="math inline">\(\texttt{HeirMultinom.path}\)</span>. Note that
+this function only works when no coarse categories overlap. By
+definition, an overlap occurs when a fine category is contained in two
+or more coarse categories. This function fits the model for a grid of
+candidate tuning parameters. Note that this function will take a few
+minutes to run (~5 minutes).</p>
 <pre class="r"><code># install.packages(&quot;devtools&quot;)
 # library(devtools)
 # devtools::install_github(&quot;ajmolstad/HierMultinom&quot;)
-library(HierMultinom)</code></pre>
-<pre><code>## 
-## Attaching package: &#39;HierMultinom&#39;</code></pre>
-<pre><code>## The following objects are masked _by_ &#39;.GlobalEnv&#39;:
-## 
-##     HierMultinom.coef, HierMultinom.predict</code></pre>
-<pre class="r"><code>mod.fit &lt;- HierMultinom.path(X = Xtrain, Y = Ytrain, groups = groups, 
+library(HierMultinom)
+mod.fit &lt;- HierMultinom.path(X = Xtrain, Y = Ytrain, groups = groups, 
     ngamma = 20, delta = 1e-4, tol = 1e-7,
     lambda.vec = 10^seq(-5,-1, length=5), 
     max.iter = 1e4,
@@ -552,7 +545,36 @@ library(HierMultinom)</code></pre>
 ## 358.824 
 ## 360.3664 
 ## 362.6779</code></pre>
-The arguments are
+<p>The arguments are</p>
+<ul>
+<li><span class="math inline">\(\texttt{X}\)</span>: An <span class="math inline">\(n \times p\)</span> design matrix. Do not include
+a column for an intercept: this is added later.</li>
+<li><span class="math inline">\(\texttt{Y}\)</span>: An <span class="math inline">\(n \times K\)</span> matrix of response categories
+as described above.</li>
+<li><span class="math inline">\(\texttt{groups}\)</span>: The list of
+groups, as described above.</li>
+<li><span class="math inline">\(\texttt{ngamma}\)</span>: Number of
+candidate <span class="math inline">\(\gamma\)</span> tuning parameter
+values.</li>
+<li><span class="math inline">\(\texttt{delta}\)</span>: The ratio of
+maximum to minimum candidate <span class="math inline">\(\gamma\)</span>
+values. Check validation errors: if still decreasing at smallest <span class="math inline">\(\gamma\)</span> value, decrease <span class="math inline">\(\texttt{delta}\)</span> and rerun.</li>
+<li><span class="math inline">\(\texttt{tol}\)</span>: Convergence
+tolerance. The default <span class="math inline">\(10^{-7}\)</span> is
+stringent.</li>
+<li><span class="math inline">\(\texttt{lambda.vec}\)</span>: Candidate
+<span class="math inline">\(\lambda\)</span> tuning parameter values.
+Default is <span class="math inline">\(10^{-3, \dots, 0}\)</span>.</li>
+<li><span class="math inline">\(\texttt{max.iter}\)</span>: Maximum
+number of iterations for accelerated proximal gradient descent
+algorithm.</li>
+<li><span class="math inline">\(\texttt{Xval}\)</span>: An <span class="math inline">\(n_{\rm validation} \times p\)</span> matrix of
+predictors for validation set.</li>
+<li><span class="math inline">\(\texttt{Yval}\)</span>: An <span class="math inline">\(n_{\rm validation} \times K\)</span> matrix of
+responses for validation set.</li>
+<li><span class="math inline">\(\texttt{quiet}\)</span>: Should
+validation errors be printed as they are computed?</li>
+</ul>
 <p>With our fitted model object, we can then look at the validation
 errors, extract coefficients, and predict. Validation errors are saved
 as <span class="math inline">\(\texttt{val.errs}\)</span>.</p>
@@ -565,8 +587,8 @@ as <span class="math inline">\(\texttt{val.errs}\)</span>.</p>
 ##   ..- attr(*, &quot;names&quot;)= chr [1:498] &quot;LYZ&quot; &quot;HLA-DRA&quot; &quot;S100A9&quot; &quot;CD74&quot; ...
 ##  $ X.train.sd  : Named num [1:498] 1.9 1.81 1.82 1.54 1.71 ...
 ##   ..- attr(*, &quot;names&quot;)= chr [1:498] &quot;LYZ&quot; &quot;HLA-DRA&quot; &quot;S100A9&quot; &quot;CD74&quot; ...</code></pre>
-<p>For prediction, one can use <span class="math inline">\(\texttt{HierMult.predict}\)</span>. Here, let us
-look at the confusion matrix.</p>
+<p>For prediction, one can use <span class="math inline">\(\texttt{HierMultinom.predict}\)</span>. Here, let
+us look at the confusion matrix.</p>
 <pre class="r"><code>out.preds &lt;- HierMultinom.predict(mod.fit, Xtest)
 str(out.preds)</code></pre>
 <pre><code>## List of 2
@@ -595,7 +617,7 @@ tab</code></pre>
 <p>Classification accuracy on the testing set is quite high here. Now,
 let us extract the estimated regression coefficients on the original
 <span class="math inline">\(X\)</span> scale. This can be done with
-<span class="math inline">\(\texttt{HierMult.coef}\)</span></p>
+<span class="math inline">\(\texttt{HierMultinom.coef}\)</span></p>
 <pre class="r"><code>out.coefs &lt;- HierMultinom.coef(mod.fit)
 str(out.coefs)</code></pre>
 <pre><code>## List of 2
@@ -604,14 +626,14 @@ str(out.coefs)</code></pre>
 <div id="overlapping-coarse-categories" class="section level3">
 <h3>Overlapping coarse categories</h3>
 <p>A different function must be used when the coarse categories overlap.
-Consider the case that we wanted another category: lymphocytes, which
-consists of the T cells and the B cells.</p>
+Consider the case that we wanted another coarse category: lymphocytes,
+which consists of the T cells and the B cells.</p>
 <pre class="r"><code>groups &lt;- list(
   c(&quot;CD4 T cells&quot;, &quot;CD8 T cells&quot;),  # T cells
   c(&quot;FCGR3A+ Monocytes&quot;, &quot;CD14+ Monocytes&quot;), # monocytes
    c(&quot;CD4 T cells&quot;, &quot;CD8 T cells&quot;, &quot;B cells&quot;)) # lymphocytes
 groups &lt;- lapply(groups, function(group) sapply(group, function(x) which(categories == x)))</code></pre>
-<p>Using the same inputs, we now need only use the function <span class="math inline">\(\texttt{HeirMultinomOverlap.Path}\)</span>. This
+<p>Using the same inputs, we now need only use the function <span class="math inline">\(\texttt{HeirMultinomOverlap.path}\)</span>. This
 function is somewhat slower than that for nonoverlapping coarse
 categories, so again, please be patient when using this software.</p>
 <pre class="r"><code>mod.fit.overlap &lt;- HierMultinomOverlap.path(X = Xtrain, Y = Ytrain, groups = groups, 
