@@ -21,7 +21,7 @@ Jin, Y., **Molstad, A. J.**, and Zhang, X. (2022+) <br>
 
 Heterogeneity-aware integrative analyses for ancestry-specific association studies. <br>
 **Molstad, A. J.**, Cai, Y., Reiner, A., Kooperberg, C., Sun, W., and Hsu, L. (2023+) <br>
-*Submitted.* <br>
+[[pdf](https://arxiv.org/abs/2306.05571)] <br>
 
 
 High-dimensional multi-response discriminant analysis. <br>
