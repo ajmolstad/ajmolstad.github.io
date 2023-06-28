@@ -14,9 +14,9 @@ Gelis-Cadena, K. and **Molstad, A. J.** (2022+) <br>
 [[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
 
 
-Kernelized discriminant analysis for model-based multivariate categorical response regression. <br>
+<!-- Kernelized discriminant analysis for model-based multivariate categorical response regression. <br>
 Jin, Y., Zhang, X. and **Molstad, A. J.** (2023+) <br>
-*Submitted.* <br>
+*Submitted.* <br> -->
 
 Heterogeneity-aware integrative analyses for ancestry-specific association studies. <br>
 **Molstad, A. J.**, Cai, Y., Reiner, A., Kooperberg, C., Sun, W., and Hsu, L. (2023+) <br>
