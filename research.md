@@ -17,9 +17,9 @@ Gelis-Cadena, K. and **Molstad, A. J.** (2022+) <br>
 Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2023+) <br>
 Submitted <br> -->
 
-Kernelized discriminant analysis for multivariate categorical response regression. <br>
+<!-- Kernelized discriminant analysis for multivariate categorical response regression. <br>
 Jin, Y., Zhang, X. and **Molstad, A. J.** (2023+) <br>
-*Submitted.* <br>
+*Submitted.* <br> -->
 
 Heterogeneity-aware integrative analyses for ancestry-specific association studies. <br>
 **Molstad, A. J.**, Cai, Y., Reiner, A., Kooperberg, C., Sun, W., and Hsu, L. (2023+) <br>
@@ -38,19 +38,19 @@ Cai, Y., **Molstad, A. J.**, Kooperberg, C., Reiner, A., Sun, W., and Hsu, L. <b
 
 Direct covariance matrix estimation with compositional data. <br>
 **Molstad, A. J.**, Ekvall, K. O., and Suder, P. M. (2022+) <br>
-*Electronic Journal of Statistics.* <br>
+*Submitted.* <br>
 [[pdf](https://arxiv.org/abs/2212.09833)][[software](https://github.com/ajmolstad/CompositionalCovariance)]   
  
 Multiresolution categorical regression for interpretable cell type annotation. <br>
 **Molstad, A. J.** and Motwani, K. (2022+) <br>
-*Biometrics.* <br> 
+*Submitted.* <br> 
 [[pdf](https://arxiv.org/abs/2208.13857)][[software](https://github.com/ajmolstad/HierMultinom)]<br>   
 
 
 Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
 **Molstad, A. J.** and Zhang, X. (2022+)<br>
-*Journal of the American Statistical Association*. <br> 
+*Submitted*. <br> 
 [[pdf](https://arxiv.org/abs/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)]  
 
 Binned multinomial logistic regression for integrative cell type annotation. <br>
@@ -60,7 +60,7 @@ Motwani, K., Bacher, R., and **Molstad, A. J.** (2022+) <br>
 
 A convex-nonconvex strategy for grouped variable selection. <br>
 Liu, X., **Molstad, A. J.**, and Chi, E. C. (2022+) <br>
-*Electronic Journal of Statistics*. <br> 
+*Submitted*. <br> 
 [[pdf](https://arxiv.org/abs/2111.15075)] <br>
 
 Dimension reduction for integrative survival analysis. <br>
@@ -69,8 +69,8 @@ Dimension reduction for integrative survival analysis. <br>
 [[pdf](/docs/IntegrativeCox.pdf)][[reproduce simulations](https://github.com/ajmolstad/IntegrativeCox)]<br>
 
 A likelihood-based approach for multivariate categorical response regression in high dimensions. <br>
-**Molstad, A. J.** and Rothman A. J. (2022+)<br>
-*Journal of the American Statistical Association*. <br>
+**Molstad, A. J.** and Rothman A. J. (2023)<br>
+*Journal of the American Statistical Association* **118**(541), 1402-1414. <br>
 [[pdf](https://www.tandfonline.com/doi/abs/10.1080/01621459.2021.1999819?journalCode=uasa20)][[software](https://github.com/ajmolstad/BvCategorical)][[example](/docs/BvCategorical_Example.html)] <br>
 
 
