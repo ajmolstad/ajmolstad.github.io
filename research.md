@@ -15,11 +15,11 @@ Gelis-Cadena, K. and **Molstad, A. J.** (2022+) <br>
 
 <!-- Fast and reliable confidence confidence intervals for a variance component or proportion. <br>
 Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2023+) <br>
-Submitted <br>
+Submitted <br> -->
 
 Kernelized discriminant analysis for multivariate categorical response regression. <br>
 Jin, Y., Zhang, X. and **Molstad, A. J.** (2023+) <br>
-*Submitted.* <br> -->
+*Submitted.* <br>
 
 Heterogeneity-aware integrative analyses for ancestry-specific association studies. <br>
 **Molstad, A. J.**, Cai, Y., Reiner, A., Kooperberg, C., Sun, W., and Hsu, L. (2023+) <br>
@@ -38,19 +38,19 @@ Cai, Y., **Molstad, A. J.**, Kooperberg, C., Reiner, A., Sun, W., and Hsu, L. <b
 
 Direct covariance matrix estimation with compositional data. <br>
 **Molstad, A. J.**, Ekvall, K. O., and Suder, P. M. (2022+) <br>
-*Submitted.* <br>
+*Electronic Journal of Statistics.* <br>
 [[pdf](https://arxiv.org/abs/2212.09833)][[software](https://github.com/ajmolstad/CompositionalCovariance)]   
  
 Multiresolution categorical regression for interpretable cell type annotation. <br>
 **Molstad, A. J.** and Motwani, K. (2022+) <br>
-*Submitted.* <br> 
+*Biometrics.* <br> 
 [[pdf](https://arxiv.org/abs/2208.13857)][[software](https://github.com/ajmolstad/HierMultinom)]<br>   
 
 
 Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
 **Molstad, A. J.** and Zhang, X. (2022+)<br>
-*Submitted*. <br> 
+*Journal of the American Statistical Association*. <br> 
 [[pdf](https://arxiv.org/abs/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)]  
 
 Binned multinomial logistic regression for integrative cell type annotation. <br>
@@ -60,7 +60,7 @@ Motwani, K., Bacher, R., and **Molstad, A. J.** (2022+) <br>
 
 A convex-nonconvex strategy for grouped variable selection. <br>
 Liu, X., **Molstad, A. J.**, and Chi, E. C. (2022+) <br>
-*Submitted*. <br> 
+*Electronic Journal of Statistics*. <br> 
 [[pdf](https://arxiv.org/abs/2111.15075)] <br>
 
 Dimension reduction for integrative survival analysis. <br>
