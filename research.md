@@ -17,14 +17,14 @@ Gelis-Cadena, K. and **Molstad, A. J.** (2022+) <br>
 Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2023+) <br>
 Submitted <br> -->
 
-
+<!-- 
 Integration of proteomics quantitative trait loci into genetic association analysis of stroke in the African American population. (2023+)<br>
 Cai, Y., **Molstad, A. J.**, Kooperberg, C., Reiner, A., Sun, W., and Hsu, L. <br>
-*Submitted.* <br> 
+*Submitted.* <br>  -->
 
-Kernelized discriminant analysis for multivariate categorical response regression. <br>
+<!-- Kernelized discriminant analysis for multivariate categorical response regression. <br>
 Jin, Y., Zhang, X. and **Molstad, A. J.** (2023+) <br>
-*Submitted.* <br>
+*Submitted.* <br> -->
 
 Heterogeneity-aware integrative analyses for ancestry-specific association studies. <br>
 **Molstad, A. J.**, Cai, Y., Reiner, A., Kooperberg, C., Sun, W., and Hsu, L. (2023+) <br>
@@ -59,7 +59,7 @@ Motwani, K., Bacher, R., and **Molstad, A. J.** (2022+) <br>
 
 A convex-nonconvex strategy for grouped variable selection. <br>
 Liu, X., **Molstad, A. J.**, and Chi, E. C. (2022+) <br>
-*Electronic Journal of Statistics*. <br> 
+*Submitted*. <br> 
 [[pdf](https://arxiv.org/abs/2111.15075)] <br>
 
 Dimension reduction for integrative survival analysis. <br>
