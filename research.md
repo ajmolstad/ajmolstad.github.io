@@ -43,7 +43,7 @@ Direct covariance matrix estimation with compositional data. <br>
 Multiresolution categorical regression for interpretable cell type annotation. <br>
 **Molstad, A. J.** and Motwani, K. (2022+) <br>
 *Biometrics.* <br> 
-[[pdf](https://arxiv.org/abs/2208.13857)][[software](https://github.com/ajmolstad/HierMultinom)]<br>   
+[[pdf](https://arxiv.org/abs/2208.13857)][[software](https://github.com/ajmolstad/HierMultinom)][[example](https://ajmolstad.github.io/docs/HierMultinomExample.html)]<br>   
 
 
 Conditional probability tensor decompositions for
