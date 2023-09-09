@@ -59,7 +59,7 @@ Motwani, K., Bacher, R., and **Molstad, A. J.** (2022+) <br>
 
 A convex-nonconvex strategy for grouped variable selection. <br>
 Liu, X., **Molstad, A. J.**, and Chi, E. C. (2022+) <br>
-*Submitted*. <br> 
+*Electronic Journal of Statistics*. <br> 
 [[pdf](https://arxiv.org/abs/2111.15075)][[software](https://github.com/Xiaoqian-Liu/GMC)][[example](https://xiaoqian-liu.github.io/files/Intro-to-GMC.html)] <br>
 
 Dimension reduction for integrative survival analysis. <br>
