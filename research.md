@@ -22,9 +22,9 @@ Integration of proteomics quantitative trait loci into genetic association analy
 Cai, Y., **Molstad, A. J.**, Kooperberg, C., Reiner, A., Sun, W., and Hsu, L. <br>
 *Submitted.* <br>  -->
 
-<!-- Kernelized discriminant analysis for multivariate categorical response regression. <br>
+Kernelized discriminant analysis for multivariate categorical response regression. <br>
 Jin, Y., Zhang, X. and **Molstad, A. J.** (2023+) <br>
-*Submitted.* <br> -->
+*Submitted.* <br>
 
 Heterogeneity-aware integrative analyses for ancestry-specific association studies. <br>
 **Molstad, A. J.**, Cai, Y., Reiner, A., Kooperberg, C., Sun, W., and Hsu, L. (2023+) <br>
