@@ -31,7 +31,7 @@ Heterogeneity-aware integrative analyses for ancestry-specific association studi
 *Submitted.* <br>
 [[pdf](https://arxiv.org/abs/2306.05571)] <br>
 
-High-dimensional multi-response discriminant analysis. <br>
+High-dimensional multi-response linear discriminant analysis. <br>
 Deng, K., Zhang, X., and **Molstad, A. J.**  (2023+) <br>
 *Submitted.* <br> 
 
