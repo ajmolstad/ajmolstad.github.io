@@ -48,19 +48,19 @@ multivariate categorical response regression. <br>
 [[pdf](https://arxiv.org/abs/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)]  
 
 Multiresolution categorical regression for interpretable cell type annotation. <br>
-**Molstad, A. J.** and Motwani, K. (2022+) <br>
+**Molstad, A. J.** and Motwani, K. (2023+) <br>
 *Biometrics*, to appear. <br> 
 [[pdf](https://arxiv.org/abs/2208.13857)][[software](https://github.com/ajmolstad/HierMultinom)][[example](https://ajmolstad.github.io/docs/HierMultinomExample.html)]<br>   
 
 
 
 Binned multinomial logistic regression for integrative cell type annotation. <br>
-Motwani, K., Bacher, R., and **Molstad, A. J.** (2022+) <br>
+Motwani, K., Bacher, R., and **Molstad, A. J.** (2023+) <br>
 *Annals of Applied Statistics*, to appear. <br> 
 [[pdf](https://arxiv.org/abs/2111.12149)][[software](https://github.com/keshav-motwani/IBMR/)][[example](https://keshav-motwani.github.io/example.html)][[data](https://github.com/keshav-motwani/AnnotatedPBMC)]<br> 
 
 A convex-nonconvex strategy for grouped variable selection. <br>
-Liu, X., **Molstad, A. J.**, and Chi, E. C. (2022+) <br>
+Liu, X., **Molstad, A. J.**, and Chi, E. C. (2023+) <br>
 *Electronic Journal of Statistics*, to appear. <br> 
 [[pdf](https://arxiv.org/abs/2111.15075)][[software](https://github.com/Xiaoqian-Liu/GMC)][[example](https://xiaoqian-liu.github.io/files/Intro-to-GMC.html)] <br>
 
@@ -122,17 +122,16 @@ Sherwood, B., **Molstad, A. J.**, and Singha, S. (2020)<br>
 *Statistics and Probability Letters*, **157** <br>
 [[pdf](https://www.sciencedirect.com/science/article/pii/S0167715219302779)][[supplementary material](https://www.sciencedirect.com/science/article/pii/S0167715219302779#appSB)] <br>
 
+A penalized likelihood method for classification with matrix-valued predictors. <br>
+**Molstad, A. J.**  and Rothman, A. J. (2019)<br>
+*Journal of Computational and Graphical Statistics*, **28** (1), 11-22. <br>
+[[pdf](https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1476249)][[software](https://github.com/ajmolstad/MatrixLDA)][[supplementary material](https://www.tandfonline.com/doi/suppl/10.1080/10618600.2018.1476249?scroll=top)] <br>
 
 Shrinking characteristics of precision matrix estimators. <br>
 **Molstad, A. J.** and Rothman, A. J. (2018) <br>
 *Biometrika*, **105** (3), 563-574. <br>
 [[pdf](https://academic.oup.com/biomet/article/105/3/563/4994725?guestAccessKey=34dcd085-e992-4398-a8f9-a56cb3ac9207)][[supplementary material](https://academic.oup.com/biomet/article/105/3/563/4994725?guestAccessKey=34dcd085-e992-4398-a8f9-a56cb3ac9207#supplementary-data)]<br>
 
-
-A penalized likelihood method for classification with matrix-valued predictors. <br>
-**Molstad, A. J.**  and Rothman, A. J. (2019)<br>
-*Journal of Computational and Graphical Statistics*, **28** (1), 11-22. <br>
-[[pdf](https://www.tandfonline.com/doi/full/10.1080/10618600.2018.1476249)][[software](https://github.com/ajmolstad/MatrixLDA)][[supplementary material](https://www.tandfonline.com/doi/suppl/10.1080/10618600.2018.1476249?scroll=top)] <br>
 
 Indirect multivariate response linear regression. <br>
 **Molstad, A. J.** and Rothman, A. J. (2016) <br>
