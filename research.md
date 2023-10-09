@@ -78,7 +78,7 @@ A likelihood-based approach for multivariate categorical response regression in 
 Mixed-type multivariate response regression with covariance estimation. <br>
 Ekvall, K. O. and **Molstad, A. J.** (2022)<br>
 *Statistics in Medicine*, **41** (15),  2768-2785. <br>
-[[pdf](https://onlinelibrary.wiley.com/doi/10.1002/sim.9383?af=R)][[software](https://github.com/koekvall/mmrr)]<br>
+[[pdf](https://arxiv.org/pdf/2101.08436.pdf)][[software](https://github.com/koekvall/mmrr)]<br>
 
 New insights for the multivariate square-root lasso. <br>
 **Molstad, A. J.** (2022)<br>
