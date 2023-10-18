@@ -38,7 +38,7 @@ Deng, K., Zhang, X., and **Molstad, A. J.**  (2023+) <br>
 Direct covariance matrix estimation with compositional data. <br>
 **Molstad, A. J.**, Ekvall, K. O., and Suder, P. M. (2022+) <br>
 *Submitted.* <br>
-[[pdf](https://arxiv.org/abs/2212.09833)][[software](https://github.com/ajmolstad/CompositionalCovariance)]   
+[[pdf](https://arxiv.org/abs/2212.09833)][[software](https://github.com/ajmolstad/SpPDCC/)]   
  
 
 Conditional probability tensor decompositions for
