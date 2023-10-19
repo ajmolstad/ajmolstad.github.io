@@ -436,8 +436,9 @@ the output will also include the validation errors. It computes the
 solution path for <span class="math display">\[\operatorname*{arg \
 min}_{\Omega = \Omega^\top} \left( \| \widehat{\Theta} - \omega
 \mathbf{1}_p^\top - \mathbf{1}_p\omega^\top + 2 \Omega \|_F^2 +
-\lambda_1 \|\Omega^{-} \|_1 \right) ~~~\text{subject to }~~ \omega =
-\text{diag}(\Omega),~\Omega \succcurlyeq \tau I_p.\]</span></p>
+\lambda_1 \|\Omega^{-} \|_1 \right) ~~~\text{subject to }~\Omega
+\succcurlyeq \tau I_p,\]</span> where <span class="math inline">\(\omega
+= {\rm diag}(\Omega)\)</span>.</p>
 <p>The arguments for this function are as follows:</p>
 <ul>
 <li><span class="math inline">\(\texttt{dat}\)</span>: an <span class="math inline">\(n \times p\)</span> matrix of compositional data
@@ -793,10 +794,9 @@ parameters from this version of our optimization problem: <span class="math disp
 \widehat{\Theta}_{(h)} - \omega_{(h)} \mathbf{1}_p^\top -
 \mathbf{1}_p\omega_{(h)}^\top + 2 \Omega_{(h)} \|_F^2 + \lambda_1
 \|\Omega_{(h)}^{-}\|_1 \right) + \lambda_2 \sum_{j\neq k}
-\|\boldsymbol{\Omega}_{\cdot jk}\|_2 \right\}\]</span> <span class="math display">\[\text{subject to } ~\omega_{(h)} =
-\text{diag}(\Omega_{(h)}),~\Omega_{(h)} = \Omega_{(h)}^\top,~
-\Omega_{(h)} \succcurlyeq \epsilon I_p, ~~ \text{ for all } ~h \in [H],
-\]</span></p>
+\|\boldsymbol{\Omega}_{\cdot jk}\|_2 \right\}\]</span> <span class="math display">\[\text{subject to } ~\Omega_{(h)} =
+\Omega_{(h)}^\top,~ \Omega_{(h)} \succcurlyeq \tau I_p, ~~ \text{ for
+all } ~h \in [H], \]</span></p>
 <p>Again, we can evaluate the validation error on the validation
 set.</p>
 <pre class="r"><code>t1 &lt;- gSCCpath(dat = dat, 
@@ -871,11 +871,10 @@ estimate differs. Note that this estimator solves <span class="math display">\[\
 \mathbf{1}_p^\top - \mathbf{1}_p\omega_{(h)}^\top + 2 \Omega_{(h)}
 \|_F^2 + \lambda_1 \|\Omega_{(h)}^{-}\|_1 \right) + \lambda_2
 \sum_{j\neq k} \|\boldsymbol{\Omega}_{\cdot jk}\|_2 \right\}\]</span>
-<span class="math display">\[\text{subject to } ~\omega_{(h)} =
-\text{diag}(\Omega_{(h)}),~\Omega_{(h)} = \Omega_{(h)}^\top,~
-\Omega_{(h)} \succcurlyeq \epsilon I_p, ~~ \text{ for all } ~h \in [H],
-\]</span> and similarly, uses a weighted version of our cross-validation
-criterion.</p>
+<span class="math display">\[\text{subject to } ~\Omega_{(h)} =
+\Omega_{(h)}^\top,~ \Omega_{(h)} \succcurlyeq \tau I_p, ~~ \text{ for
+all } ~h \in [H], \]</span> and similarly, uses a weighted version of
+our cross-validation criterion.</p>
 <pre class="r"><code>t1w.path &lt;- gSCCpath(dat = dat, datval = datval,
       nlambda1 = 20, nlambda2 = 10, 
       deltalambda1 = 0.001, 
