@@ -535,7 +535,39 @@ mod.fit &lt;- HierMultinom.path(X = Xtrain, Y = Ytrain, groups = groups,
 ## 358.824 
 ## 360.3664 
 ## 362.6779</code></pre>
-The arguments are
+<p>The arguments are</p>
+<ul>
+<li><span class="math inline">\(\texttt{X}\)</span>: An <span class="math inline">\(n \times p\)</span> design matrix. Do not include
+a column for an intercept: this is added later.</li>
+<li><span class="math inline">\(\texttt{Y}\)</span>: An <span class="math inline">\(n \times K\)</span> matrix of response categories
+as described above.</li>
+<li><span class="math inline">\(\texttt{groups}\)</span>: The list of
+groups, as described above.</li>
+<li><span class="math inline">\(\texttt{ngamma}\)</span>: Number of
+candidate <span class="math inline">\(\gamma\)</span> tuning parameter
+values.</li>
+<li><span class="math inline">\(\texttt{delta}\)</span>: The ratio of
+minimum to maximum candidate <span class="math inline">\(\gamma\)</span>
+values (i.e., <span class="math inline">\(\min_k \gamma_k = \delta
+\max_k \gamma_k\)</span> where <span class="math inline">\(\gamma_k\)</span> is the <span class="math inline">\(k\)</span>th candidate tuning parameters). Check
+validation errors: if still decreasing at smallest <span class="math inline">\(\gamma\)</span> value, decrease <span class="math inline">\(\texttt{delta}\)</span> and rerun.</li>
+<li><span class="math inline">\(\texttt{tol}\)</span>: Convergence
+tolerance. The default <span class="math inline">\(10^{-7}\)</span> is
+stringent.</li>
+<li><span class="math inline">\(\texttt{lambda.vec}\)</span>: Candidate
+<span class="math inline">\(\lambda\)</span> tuning parameter values.
+Default is <span class="math inline">\((10^{-3}, 10^{-2.67},
+10^{-2.33},\dots, 10^{0})\)</span>.</li>
+<li><span class="math inline">\(\texttt{max.iter}\)</span>: Maximum
+number of iterations for accelerated proximal gradient descent
+algorithm.</li>
+<li><span class="math inline">\(\texttt{Xval}\)</span>: An <span class="math inline">\(n_{\rm validation} \times p\)</span> matrix of
+predictors for validation set.</li>
+<li><span class="math inline">\(\texttt{Yval}\)</span>: An <span class="math inline">\(n_{\rm validation} \times K\)</span> matrix of
+responses for validation set.</li>
+<li><span class="math inline">\(\texttt{quiet}\)</span>: Should
+validation errors be printed as they are computed?</li>
+</ul>
 <p>With our fitted model object, we can then look at the validation
 errors, extract coefficients, and predict. Validation errors are saved
 as <span class="math inline">\(\texttt{val.errs}\)</span>.</p>
@@ -597,7 +629,7 @@ groups &lt;- lapply(groups, function(group) sapply(group, function(x) which(cate
 <p>Using the same inputs, we now need only use the function <span class="math inline">\(\texttt{HeirMultinomOverlap.Path}\)</span>. This
 function is somewhat slower than that for nonoverlapping coarse
 categories, so again, please be patient when using this software.</p>
-<pre class="r"><code>mod.fit.overlap &lt;- HierMultinomOverlap.path(X = Xtrain, Y = Ytrain, groups = groups, 
+<pre class="r"><code>mod.fit.overlap &lt;- HierMultinomOverlap.path(X = Xtrain, Y = Ytrain, groups = groups,
     ngamma = 20, delta = 1e-4, tol = 1e-7,
     lambda.vec = 10^seq(-5,-1, length=5), 
     max.iter = 1e4,
