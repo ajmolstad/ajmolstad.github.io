@@ -6,7 +6,7 @@ permalink: /research/
 {% include image.html url="/images/Norway1.jpg" width=800 align="center" %}
 
 
-*Research supported in part by NIH R01-HL152439 and NSF DMS-2113589.* 
+*Research supported in part by NIH R01-HL152439 (2021-2022, 2024) and NSF DMS-2113589 (2021-2024).* 
 
 <!-- Nonparametric accelerated failure time models for multiview survival analysis. <br>
 Gelis-Cadena, K. and **Molstad, A. J.** (2022+) <br>
