@@ -55,8 +55,8 @@ Multiresolution categorical regression for interpretable cell type annotation. <
 
 
 Binned multinomial logistic regression for integrative cell type annotation. <br>
-Motwani, K., Bacher, R., and **Molstad, A. J.** (2023+) <br>
-*Annals of Applied Statistics*, to appear. <br> 
+Motwani, K., Bacher, R., and **Molstad, A. J.** (2023) <br>
+*Annals of Applied Statistics*, **17** (4), 3426-3449. <br> 
 [[pdf](https://arxiv.org/abs/2111.12149)][[software](https://github.com/keshav-motwani/IBMR/)][[example](https://keshav-motwani.github.io/example.html)][[data](https://github.com/keshav-motwani/AnnotatedPBMC)]<br> 
 
 A convex-nonconvex strategy for grouped variable selection. <br>
