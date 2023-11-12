@@ -61,8 +61,8 @@ Motwani, K., Bacher, R., and **Molstad, A. J.** (2023) <br>
 
 A convex-nonconvex strategy for grouped variable selection. <br>
 Liu, X., **Molstad, A. J.**, and Chi, E. C. (2023+) <br>
-*Electronic Journal of Statistics*, to appear. <br> 
-[[pdf](https://arxiv.org/abs/2111.15075)][[software](https://github.com/Xiaoqian-Liu/GMC)][[example](https://xiaoqian-liu.github.io/files/Intro-to-GMC.html)] <br>
+*Electronic Journal of Statistics***17** (2), 2912-2961. <br> 
+[[pdf](https://doi.org/10.1214/23-EJS2167)][[software](https://github.com/Xiaoqian-Liu/GMC)][[example](https://xiaoqian-liu.github.io/files/Intro-to-GMC.html)] <br>
 
 Dimension reduction for integrative survival analysis. <br>
 **Molstad, A. J.** and Patra, R. K. (2023)<br>
