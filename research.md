@@ -60,8 +60,8 @@ Motwani, K., Bacher, R., and **Molstad, A. J.** (2023) <br>
 [[pdf](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-4/Binned-multinomial-logistic-regression-for-integrative-cell-type-annotation/10.1214/23-AOAS1769.full)][[supplement](/docs/aoas1769suppa.pdf)][[software](https://github.com/keshav-motwani/IBMR/)][[example](https://keshav-motwani.github.io/example.html)][[data](https://github.com/keshav-motwani/AnnotatedPBMC)]<br> 
 
 A convex-nonconvex strategy for grouped variable selection. <br>
-Liu, X., **Molstad, A. J.**, and Chi, E. C. (2023+) <br>
-*Electronic Journal of Statistics, ***17** (2), 2912-2961. <br> 
+Liu, X., **Molstad, A. J.**, and Chi, E. C. (2023) <br>
+*Electronic Journal of Statistics*, ***17** (2), 2912-2961. <br> 
 [[pdf](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-2/A-convex-nonconvex-strategy-for-grouped-variable-selection/10.1214/23-EJS2167.full)][[software](https://github.com/Xiaoqian-Liu/GMC)][[example](https://xiaoqian-liu.github.io/files/Intro-to-GMC.html)] <br>
 
 Dimension reduction for integrative survival analysis. <br>
