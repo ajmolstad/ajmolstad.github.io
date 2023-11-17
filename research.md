@@ -6,7 +6,7 @@ permalink: /research/
 {% include image.html url="/images/Norway1.jpg" width=800 align="center" %}
 
 
-*Research supported in part by NIH R01-HL152439 (2021-2022, 2024) and NSF DMS-2113589 (2021-2024).* 
+*Research supported in part by NIH R01-HL152439 (2021-2022) and NSF DMS-2113589 (2021-2024).* 
 
 <!-- Nonparametric accelerated failure time models for multiview survival analysis. <br>
 Gelis-Cadena, K. and **Molstad, A. J.** (2022+) <br>
@@ -61,7 +61,7 @@ Motwani, K., Bacher, R., and **Molstad, A. J.** (2023) <br>
 
 A convex-nonconvex strategy for grouped variable selection. <br>
 Liu, X., **Molstad, A. J.**, and Chi, E. C. (2023) <br>
-*Electronic Journal of Statistics*, ***17** (2), 2912-2961. <br> 
+*Electronic Journal of Statistics*, **17** (2), 2912-2961. <br> 
 [[pdf](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-2/A-convex-nonconvex-strategy-for-grouped-variable-selection/10.1214/23-EJS2167.full)][[software](https://github.com/Xiaoqian-Liu/GMC)][[example](https://xiaoqian-liu.github.io/files/Intro-to-GMC.html)] <br>
 
 Dimension reduction for integrative survival analysis. <br>
