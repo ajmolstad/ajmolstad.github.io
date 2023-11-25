@@ -97,7 +97,7 @@ Suder, P. M. and **Molstad, A. J.** (2022) <br>
 A covariance-enhanced approach to multi-tissue joint eQTL mapping with application to transcriptome-wide association studies.  <br>
 **Molstad, A. J.**, Sun, W., and Hsu, L. (2021)<br>
 *Annals of Applied Statistics*,  **15** (2), 998-1016.<br>
-[[pdf](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/A-covariance-enhanced-approach-to-multitissue-joint-eQTL-mapping-with/10.1214/20-AOAS1432.short)][[supplement](/code/MTeQTL.pdf)][[results](https://github.com/ajmolstad/MTeQTLResults)] <br>
+[[pdf](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/A-covariance-enhanced-approach-to-multitissue-joint-eQTL-mapping-with/10.1214/20-AOAS1432.short)][[supplement](/docs/MTeQTL.pdf)][[results](https://github.com/ajmolstad/MTeQTLResults)] <br>
 
 Estimating multiple precision matrices with cluster fusion regularization. <br>
 Price, B. S., **Molstad, A. J.**, and Sherwood, B. (2021)<br>
