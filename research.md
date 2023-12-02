@@ -114,7 +114,7 @@ An explicit mean-covariance parameterization for multivariate response linear re
 Gaussian process regression for survival time prediction with genome-wide gene expression. <br>
 **Molstad, A. J.**, Hsu, L., and Sun, W. (2021) <br>
 *Biostatistics*, **22** (1), 164-180. <br>
-[[pdf](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxz023/5530981)][[supplement](/docs/Supp_SurvGPR.pdf)][[[software](https://github.com/ajmolstad/SurvGPR)][[example](/docs/SurvGPR_Example.html)]<br> 
+[[pdf](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxz023/5530981)][[supplement](/docs/Supp_SurvGPR.pdf)][[software](https://github.com/ajmolstad/SurvGPR)][[example](/docs/SurvGPR_Example.html)]<br> 
 
 
 Asymptotic properties of concave L1-norm group penalties.  <br>
