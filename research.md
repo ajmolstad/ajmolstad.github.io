@@ -14,21 +14,21 @@ Gelis-Cadena, K. and **Molstad, A. J.** (2022+) <br>
 [[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
 
 
-Discovering cluster-based differential expression with spatially-resolved transcriptomic data. <br>
+<!-- Discovering cluster-based differential expression with spatially-resolved transcriptomic data. <br>
 **Molstad, A. J.** (2023+) <br>
-*Submitted.* <br> 
+*Submitted.* <br>  -->
 
-Smooth and structured distributed lag quantile regression. <br>
+<!-- Smooth and structured distributed lag quantile regression. <br>
 Jin, Y.,**Molstad, A. J.**, Wilson, A., and Antonelli, J. (2023+) <br>
-*Submitted.* <br> 
+*Submitted.* <br>  -->
 
-Fast and reliable confidence confidence intervals for a variance component or proportion. <br>
+<!-- Fast and reliable confidence confidence intervals for a variance component or proportion. <br>
 Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2023+) <br>
-Submitted <br> 
+Submitted <br> --> 
 
-Integration of proteomics quantitative trait loci into genetic association analysis of stroke in the African American population. (2023+)<br>
+<!-- Integration of proteomics quantitative trait loci into genetic association analysis of stroke in the African American population. (2023+)<br>
 Cai, Y., **Molstad, A. J.**, Kooperberg, C., Reiner, A., Sun, W., and Hsu, L. <br>
-*Submitted.* <br>  
+*Submitted.* <br>   -->
 
 Kernelized discriminant analysis for multivariate categorical response regression. <br>
 Jin, Y., Zhang, X. and **Molstad, A. J.** (2023+) <br>
