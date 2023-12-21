@@ -57,7 +57,7 @@ multivariate categorical response regression. <br>
 
 Multiresolution categorical regression for interpretable cell type annotation. <br>
 **Molstad, A. J.** and Motwani, K. (2023+) <br>
-*Biometrics*, to appear. <br> 
+*Biometrics*, **79** (4), 3485-3496. <br> 
 [[pdf](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13926)][[supplement](https://ajmolstad.github.io/docs/biom13926-sup-0001-suppmat.pdf)][[software](https://github.com/ajmolstad/HierMultinom)][[example](https://ajmolstad.github.io/docs/HierMultinomExample.html)]<br>   
 
 
