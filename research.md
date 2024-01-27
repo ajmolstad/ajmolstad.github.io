@@ -43,17 +43,19 @@ High-dimensional multi-response linear discriminant analysis. <br>
 Deng, K., Zhang, X., and **Molstad, A. J.**  (2023+) <br>
 *Submitted.* <br> 
 
-Direct covariance matrix estimation with compositional data. <br>
-**Molstad, A. J.**, Ekvall, K. O., and Suder, P. M. (2022+) <br>
-*Submitted.* <br>
-[[pdf](https://arxiv.org/abs/2212.09833)][[software](https://github.com/ajmolstad/SpPDCC/)]   
- 
 
 Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
 **Molstad, A. J.** and Zhang, X. (2022+)<br>
 *Submitted*. <br> 
-[[pdf](https://arxiv.org/abs/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)]  
+[[pdf](https://arxiv.org/abs/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)] 
+
+
+Direct covariance matrix estimation with compositional data. <br>
+**Molstad, A. J.**, Ekvall, K. O., and Suder, P. M. (2024) <br>
+*Electronic Journal of Statistics.* <br>
+[[pdf](https://arxiv.org/abs/2212.09833)][[software](https://github.com/ajmolstad/SpPDCC/)]   
+  
 
 Multiresolution categorical regression for interpretable cell type annotation. <br>
 **Molstad, A. J.** and Motwani, K. (2023) <br>
