@@ -31,7 +31,7 @@ Cai, Y., **Molstad, A. J.**, Kooperberg, C., Reiner, A., Sun, W., and Hsu, L. <b
 *Submitted.* <br>   -->
 
 Kernelized discriminant analysis for multivariate categorical response regression. <br>
-Jin, Y., Zhang, X. and **Molstad, A. J.** (2023+) <br>
+Jin, Y., Zhang, X. and **Molstad, A. J.** (2024+) <br>
 *Submitted.* <br>
 
 Heterogeneity-aware integrative analyses for ancestry-specific association studies. <br>
