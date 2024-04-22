@@ -6,7 +6,7 @@ permalink: /research/
 {% include image.html url="/images/Norway1.jpg" width=800 align="center" %}
 
 
-*Research supported in part by NIH R01-HL152439 (2021-2022) and NSF DMS-2113589 (2021-2024).* 
+*Research supported in part by NIH R01-HL152439 (2021-2022, 2024) and NSF DMS-2113589 (2021-2024).* 
 
 <!-- Nonparametric accelerated failure time models for multiview survival analysis. <br>
 Gelis-Cadena, K. and **Molstad, A. J.** (2022+) <br>
@@ -18,9 +18,13 @@ Gelis-Cadena, K. and **Molstad, A. J.** (2022+) <br>
 **Molstad, A. J.** (2023+) <br>
 *Submitted.* <br>  -->
 
-<!-- Smooth and structured distributed lag quantile regression. <br>
-Jin, Y.,**Molstad, A. J.**, Wilson, A., and Antonelli, J. (2023+) <br>
-*Submitted.* <br>  -->
+Simultaneous predictor and response dimension reduction in multivariate categorical response regression. <br>
+Jin, Y., Zhang, X., Chi, Eric C., and **Molstad, A. J.** (2024+) <br>
+*Submitted* <br> 
+
+Smooth and structured distributed lag quantile regression. <br>
+Jin, Y., **Molstad, A. J.**, Wilson, A., and Antonelli, J. (2023+) <br>
+*Submitted.* <br> 
 
 Fast and reliable confidence confidence intervals for a variance component or proportion. <br>
 Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2024+) <br>
