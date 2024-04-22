@@ -24,7 +24,7 @@ Jin, Y.,**Molstad, A. J.**, Wilson, A., and Antonelli, J. (2023+) <br>
 
 Fast and reliable confidence confidence intervals for a variance component or proportion. <br>
 Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2024+) <br>
-Submitted <br> 
+*Submitted.* <br> 
 
 <!-- Integration of proteomics quantitative trait loci into genetic association analysis of stroke in the African American population. (2023+)<br>
 Cai, Y., **Molstad, A. J.**, Kooperberg, C., Reiner, A., Sun, W., and Hsu, L. <br>
