@@ -34,14 +34,14 @@ Kernelized discriminant analysis for multivariate categorical response regressio
 Jin, Y., Zhang, X. and **Molstad, A. J.** (2024+) <br>
 *Submitted.* <br>
 
+High-dimensional multi-response linear discriminant analysis. <br>
+Deng, K., Zhang, X., and **Molstad, A. J.**  (2023+) <br>
+*Submitted.* <br> 
+
 Heterogeneity-aware integrative analyses for ancestry-specific association studies. <br>
 **Molstad, A. J.**, Cai, Y., Reiner, A., Kooperberg, C., Sun, W., and Hsu, L. (2023+) <br>
 *Submitted.* <br>
 [[pdf](https://arxiv.org/abs/2306.05571)] <br>
-
-High-dimensional multi-response linear discriminant analysis. <br>
-Deng, K., Zhang, X., and **Molstad, A. J.**  (2023+) <br>
-*Submitted.* <br> 
 
 
 Conditional probability tensor decompositions for
@@ -54,7 +54,7 @@ multivariate categorical response regression. <br>
 Direct covariance matrix estimation with compositional data. <br>
 **Molstad, A. J.**, Ekvall, K. O., and Suder, P. M. (2024) <br>
 *Electronic Journal of Statistics.* <br>
-[[pdf](https://arxiv.org/abs/2212.09833)][[software](https://github.com/ajmolstad/SpPDCC/)]   
+[[pdf](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-1/Direct-covariance-matrix-estimation-with-compositional-data/10.1214/24-EJS2222.full)][[software](https://github.com/ajmolstad/SpPDCC/)]   
   
 
 Multiresolution categorical regression for interpretable cell type annotation. <br>
