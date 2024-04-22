@@ -18,13 +18,13 @@ Gelis-Cadena, K. and **Molstad, A. J.** (2022+) <br>
 **Molstad, A. J.** (2023+) <br>
 *Submitted.* <br>  -->
 
-Simultaneous predictor and response dimension reduction in multivariate categorical response regression. <br>
+<!-- Simultaneous predictor and response dimension reduction in multivariate categorical response regression. <br>
 Jin, Y., Zhang, X., Chi, Eric C., and **Molstad, A. J.** (2024+) <br>
 *Submitted* <br> 
 
 Smooth and structured distributed lag quantile regression. <br>
 Jin, Y., **Molstad, A. J.**, Wilson, A., and Antonelli, J. (2023+) <br>
-*Submitted.* <br> 
+*Submitted.* <br>  -->
 
 Fast and reliable confidence confidence intervals for a variance component or proportion. <br>
 Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2024+) <br>
