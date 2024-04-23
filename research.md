@@ -29,6 +29,7 @@ Jin, Y., **Molstad, A. J.**, Wilson, A., and Antonelli, J. (2023+) <br>
 Fast and reliable confidence confidence intervals for a variance component or proportion. <br>
 Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2024+) <br>
 *Submitted.* <br> 
+[[pdf](https://koekvall.github.io/files/varcomp_confint.pdf)][[software](https://github.com/yqzhang5972/lmmvar/)]
 
 <!-- Integration of proteomics quantitative trait loci into genetic association analysis of stroke in the African American population. (2023+)<br>
 Cai, Y., **Molstad, A. J.**, Kooperberg, C., Reiner, A., Sun, W., and Hsu, L. <br>
@@ -42,10 +43,10 @@ High-dimensional multi-response linear discriminant analysis. <br>
 Deng, K., Zhang, X., and **Molstad, A. J.**  (2023+) <br>
 *Submitted.* <br> 
 
-Heterogeneity-aware integrative analyses for ancestry-specific association studies. <br>
+Heterogeneity-aware integrative regression for ancestry-specific association studies. <br>
 **Molstad, A. J.**, Cai, Y., Reiner, A., Kooperberg, C., Sun, W., and Hsu, L. (2023+) <br>
 *Submitted.* <br>
-[[pdf](https://arxiv.org/abs/2306.05571)] <br>
+[[pdf](https://arxiv.org/abs/2306.05571)][[reproduce simulations](https://github.com/ajmolstad/HEATsims)] <br>
 
 
 Conditional probability tensor decompositions for
