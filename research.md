@@ -59,7 +59,7 @@ multivariate categorical response regression. <br>
 Direct covariance matrix estimation with compositional data. <br>
 **Molstad, A. J.**, Ekvall, K. O., and Suder, P. M. (2024) <br>
 *Electronic Journal of Statistics.* <br>
-[[pdf](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-1/Direct-covariance-matrix-estimation-with-compositional-data/10.1214/24-EJS2222.full)][[software](https://github.com/ajmolstad/SpPDCC/)]   
+[[pdf](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-1/Direct-covariance-matrix-estimation-with-compositional-data/10.1214/24-EJS2222.full)][[software](https://github.com/ajmolstad/SpPDCC/)][[example](https://ajmolstad.github.io/docs/SpPDCCExample.html)]
   
 
 Multiresolution categorical regression for interpretable cell type annotation. <br>
