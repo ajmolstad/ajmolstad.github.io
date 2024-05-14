@@ -46,14 +46,14 @@ Deng, K., Zhang, X., and **Molstad, A. J.**  (2023+) <br>
 Heterogeneity-aware integrative regression for ancestry-specific association studies. <br>
 **Molstad, A. J.**, Cai, Y., Reiner, A., Kooperberg, C., Sun, W., and Hsu, L. (2023+) <br>
 *Submitted.* <br>
-[[pdf](https://arxiv.org/abs/2306.05571)][[reproduce simulations](https://github.com/ajmolstad/HEATsims)] <br>
+[[pdf](https://arxiv.org/pdf/2306.05571)][[reproduce simulations](https://github.com/ajmolstad/HEATsims)] <br>
 
 
 Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
 **Molstad, A. J.** and Zhang, X. (2022+)<br>
 *Submitted*. <br> 
-[[pdf](https://arxiv.org/abs/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)] 
+[[pdf](https://arxiv.org/pdf/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)] 
 
 
 Direct covariance matrix estimation with compositional data. <br>
@@ -93,12 +93,12 @@ A likelihood-based approach for multivariate categorical response regression in 
 Mixed-type multivariate response regression with covariance estimation. <br>
 Ekvall, K. O. and **Molstad, A. J.** (2022)<br>
 *Statistics in Medicine*, **41** (15),  2768-2785. <br>
-[[pdf](https://arxiv.org/pdf/2101.08436.pdf)][[supplement](/docs/Supp_MMRR.pdf)][[software](https://github.com/koekvall/mmrr)][[example](https://koekvall.github.io/docs/mmrr/example.html)]<br>
+[[pdf](https://arxiv.org/pdf/2101.08436)][[supplement](/docs/Supp_MMRR.pdf)][[software](https://github.com/koekvall/mmrr)][[example](https://koekvall.github.io/docs/mmrr/example.html)]<br>
 
 New insights for the multivariate square-root lasso. <br>
 **Molstad, A. J.** (2022)<br>
 *Journal of Machine Learning Research*, **23** (66), 1−52.   <br>
-[[pdf](https://arxiv.org/abs/1909.05041)][[software](https://github.com/ajmolstad/MSRL)][[example](/docs/MSRL_Example.html)] <br>
+[[pdf](https://arxiv.org/pdf/1909.05041)][[software](https://github.com/ajmolstad/MSRL)][[example](/docs/MSRL_Example.html)] <br>
 
 
 
