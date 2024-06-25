@@ -22,7 +22,7 @@ Gelis-Cadena, K. and **Molstad, A. J.** (2022+) <br>
 Jin, Y., Zhang, X., Chi, Eric C., and **Molstad, A. J.** (2024+) <br>
 *Submitted* <br>  --->
 
-Subspace decompositions for association structure
+<!-- Subspace decompositions for association structure
 learning in multivariate categorical response regression. <br>
 Zhao, H., **Molstad, A. J.**, and Rothman, A. J. (2024+) <br>
 *Submitted* <br>
@@ -30,9 +30,10 @@ Zhao, H., **Molstad, A. J.**, and Rothman, A. J. (2024+) <br>
 Interpretable distributed lag quantile regression. <br>
 Jin, Y., **Molstad, A. J.**, Wilson, A., and Antonelli, J. (2024+) <br>
 *Submitted.* <br>  
-
-Protein quantitative trait locus analysis in African American and non-Hispanic White individuals <br>
-Cai, Y., Mari, J., Haessler, J. W., **Molstad, A. J.**, Hwang, S., Joehanes, R., Murabito, J., Tahir, U. A.,  Franceschini, N., Gerszten, R., Sun, W., Levy, D., Raffield, L., Kooperberg, C., Hsu, L., Reiner, A. (2024+) <br>
+ -->
+ 
+Protein quantitative trait locus analysis in African American and non-Hispanic White individuals. <br>
+Cai, Y., Mari, J., Haessler, J. W., **Molstad, A. J.**, Hwang, S., Joehanes, R., Murabito, J., Tahir, U. A.,  Franceschini, N., Gerszten, R., Sun, W., Levy, D., Raffield, L., Kooperberg, C., Hsu, L., and Reiner, A. (2024+) <br>
 *Submitted* <br>
 
 Fast and reliable confidence confidence intervals for a variance component or proportion. <br>
