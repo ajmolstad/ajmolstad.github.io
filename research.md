@@ -53,22 +53,22 @@ High-dimensional multi-response linear discriminant analysis. <br>
 Deng, K., Zhang, X., and **Molstad, A. J.**  (2023+) <br>
 *Submitted.* <br> 
 
-Heterogeneity-aware integrative regression for ancestry-specific association studies. <br>
-**Molstad, A. J.**, Cai, Y., Reiner, A., Kooperberg, C., Sun, W., and Hsu, L. (2023+) <br>
-*Submitted.* <br>
-[[pdf](https://arxiv.org/pdf/2306.05571)][[reproduce simulations](https://github.com/ajmolstad/HEATsims)] <br>
-
-
 Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
-**Molstad, A. J.** and Zhang, X. (2022+)<br>
+**Molstad, A. J.** and Zhang, X. (2023+)<br>
 *Submitted*. <br> 
 [[pdf](https://arxiv.org/pdf/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)] 
+
+Heterogeneity-aware integrative regression for ancestry-specific association studies. <br>
+**Molstad, A. J.**, Cai, Y., Reiner, A., Kooperberg, C., Sun, W., and Hsu, L. (2024) <br>
+*Biometrics.* <br>
+[[pdf](https://arxiv.org/pdf/2306.05571)][[reproduce simulations](https://github.com/ajmolstad/HEATsims)] <br>
+
 
 
 Direct covariance matrix estimation with compositional data. <br>
 **Molstad, A. J.**, Ekvall, K. O., and Suder, P. M. (2024) <br>
-*Electronic Journal of Statistics.* <br>
+*Electronic Journal of Statistics,* **18**(1), 1072-1748. <br>
 [[pdf](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-1/Direct-covariance-matrix-estimation-with-compositional-data/10.1214/24-EJS2222.full)][[software](https://github.com/ajmolstad/SpPDCC/)][[example](https://ajmolstad.github.io/docs/SpPDCCExample.html)]
   
 
