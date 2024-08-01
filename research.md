@@ -26,11 +26,11 @@ Jin, Y., Zhang, X., Chi, Eric C., and **Molstad, A. J.** (2024+) <br>
 learning in multivariate categorical response regression. <br>
 Zhao, H., **Molstad, A. J.**, and Rothman, A. J. (2024+) <br>
 *Submitted* <br>
-
-Interpretable distributed lag quantile regression. <br>
+ -->
+ 
+Smooth and interpretable quantile distributed lag models. <br>
 Jin, Y., **Molstad, A. J.**, Wilson, A., and Antonelli, J. (2024+) <br>
 *Submitted.* <br>  
- -->
  
 Protein quantitative trait locus analysis in African American and non-Hispanic White individuals. <br>
 Cai, Y., Mari, J., Haessler, J. W., **Molstad, A. J.**, Hwang, S., Joehanes, R., Murabito, J., Tahir, U. A.,  Franceschini, N., Gerszten, R., Sun, W., Levy, D., Raffield, L., Kooperberg, C., Hsu, L., and Reiner, A. (2024+) <br>
