@@ -33,7 +33,7 @@ Jin, Y., **Molstad, A. J.**, Wilson, A., and Antonelli, J. (2024+) <br>
 *Submitted.* <br>   -->
  
 Protein quantitative trait locus analysis in African American and non-Hispanic White individuals. <br>
-Cai, Y., Mari, J., Haessler, J. W., **Molstad, A. J.**, Hwang, S., Joehanes, R., Murabito, J., Tahir, U. A.,  Franceschini, N., Gerszten, R., Sun, W., Levy, D., Raffield, L., Kooperberg, C., Hsu, L., and Reiner, A. (2024+) <br>
+Cai, Y., Johnson, M., Haessler, J. W., **Molstad, A. J.**, Hwang, S., Joehanes, R., Murabito, J., Tahir, U. A.,  Franceschini, N., Gerszten, R., Sun, W., Levy, D., Raffield, L., Kooperberg, C., Hsu, L., and Reiner, A. (2024+) <br>
 *Submitted.* <br>
 
 Fast and reliable confidence confidence intervals for a variance component or proportion. <br>
