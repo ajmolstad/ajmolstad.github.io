@@ -30,7 +30,7 @@ Zhao, H., **Molstad, A. J.**, and Rothman, A. J. (2024+) <br>
  
 Smooth and shape-constrained quantile distributed lag models. <br>
 Jin, Y., **Molstad, A. J.**, Wilson, A., and Antonelli, J. (2024+) <br>
-*Submitted.* <br>  
+*Submitted.* <br> 
 [[pdf](https://ajmolstad.github.io/docs/SmoothQDLM.pdf)][[software](https://github.com/yjin07/smoothQDLM)]
 
 Protein quantitative trait locus analysis in African American and non-Hispanic White individuals. <br>
