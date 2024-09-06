@@ -1,10 +1,9 @@
 ---
 layout: defaultCourse
-layout: page
 permalink: /bradsmusic/
 ---
 
-{% include image.html url="/images/dad.jpg" width=500 align="center" %}
+{% include image.html url="/images/dad.jpg" width=700 align="center" %}
 
 
 **Dinner with the oldies**  
