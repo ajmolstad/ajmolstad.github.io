@@ -1,5 +1,6 @@
 ---
 layout: defaultCourse
+title: bradsmusic
 permalink: /bradsmusic/
 ---
 
