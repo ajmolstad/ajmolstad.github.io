@@ -12,7 +12,7 @@ permalink: /bradsmusic/
   <h1 style="font-size: 2em; font-weight: bold; margin-bottom: 20px;">Brad Molstad's Playlists</h1>
 
   <!-- Centered image -->
-  {% include image.html url="/images/dad.jpg" width=600 align="center" %}
+  {% include image.html url="/images/dad.jpg" width=750 align="center" %}
 
   <!-- Centered and styled table -->
   <table style="margin: 20px auto; border-collapse: collapse; width: 100%;">
