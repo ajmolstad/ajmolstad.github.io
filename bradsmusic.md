@@ -3,12 +3,13 @@ layout: defaultCourse
 title: bradsmusic
 permalink: /bradsmusic/
 ---
-<center>
+
 ## Brad Molstad's Playlists 
-</center>
+
 {% include image.html url="/images/dad.jpg" width=600 align="center" %}
 
-<div style="text-align: center;">
+
+
 | Title | Description | Link | 
 | -------- | ------- | ------- |
 | Top 100 of 2023 | Brad's most listened to songs of 2023 |  [[spotify](https://open.spotify.com/playlist/1MDtDskcYRs2QwIdsDISeK?si=e60d84a8528f4137)] |  
@@ -27,7 +28,6 @@ permalink: /bradsmusic/
 | -- Volume 2 | | [[spotify](https://open.spotify.com/playlist/4kfq8quC1bl9ZWQfbct6Ds?si=cfa8da472b1b4030)] |  
 | -- Volume 1 | | [[spotify](https://open.spotify.com/playlist/3e303nLnS3pq1CCXimm7BR?si=d44a6ce5b6d14b6e)] |  
 
-</div>
 
  
 

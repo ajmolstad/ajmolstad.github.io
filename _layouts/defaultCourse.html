@@ -9,6 +9,11 @@
       </div>
     </div>
     {% include footer.html %}
+    {% if page.permalink != "/bradsmusic/" %}
+    <footer>
+        <!-- Footer content here -->
+    </footer>
+  {% endif %}
   </body>
 
 </html>
@@ -23,3 +28,10 @@
 
   gtag('config', 'UA-55515506-1');
 </script>
+
+
+{% if page.permalink != "/bradsmusic/" %}
+    <footer>
+        <!-- Footer content here -->
+    </footer>
+{% endif %}
