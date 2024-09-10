@@ -16,7 +16,8 @@ permalink: /bradsmusic/
 | Miles always cooking    &nbsp; &nbsp;| Brad's favorite Miles Davis | [[spotify](https://open.spotify.com/playlist/1WcMNBg0Z7ks98yAhGTTU4?si=399803bdd933430c)] |  
 | Groom's dinner | Playlist for Aaron's wedding rehearsal dinner | [[spotify](https://open.spotify.com/playlist/6NrsjZjWbFAPJds1192AG2?si=817b534cac104534)] |  
 | Mainly classical | Does it need a description? | [[spotify](https://open.spotify.com/playlist/6v0XNYhAFmKCuIjab5TyJz?si=461c4e42285c4565)] |  
-| Dinner with the oldies &nbsp;| To listened to during dinner with loved ones |     |  
+| Zero degrees outside | For a cold morning spent indoors | [[spotify](https://open.spotify.com/playlist/3a3UxeePsYFabKr5MtpZBh?si=6374955e337f4b4e)] |  
+| Dinner with the oldies &nbsp;| Dinner party vibes |     |  
 | -- Volume 7 | | [[spotify](https://open.spotify.com/playlist/60LssRB3nYtDRqw5y4LfiG?si=a53300d4144342f4)] |  
 | -- Volume 6 | | [[spotify](https://open.spotify.com/playlist/7xorKtoBDIJzUg5agt1diR?si=444bda68afa84a30)] |  
 | -- Volume 5 | | [[spotify](https://open.spotify.com/playlist/58BXEX4AjlUmO0b9bOwI5l?si=b4a5e34879e043e4)] |  
