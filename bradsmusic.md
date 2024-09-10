@@ -11,9 +11,9 @@ permalink: /bradsmusic/
 | Title | Description | Link | 
 | -------- | ------- | ------- |
 | Top 100 of 2023 | Brad's most listened to songs of 2023 |  [[spotify](https://open.spotify.com/playlist/1MDtDskcYRs2QwIdsDISeK?si=e60d84a8528f4137)] |  
+| Miles always cooking    &nbsp; &nbsp;|  Miles Davis and related artists | [[spotify](https://open.spotify.com/playlist/1WcMNBg0Z7ks98yAhGTTU4?si=399803bdd933430c)] |  
 | Boards for all | Inspired by Boards of Canada  | [[spotify](https://open.spotify.com/playlist/0PoYaJX9Kx0H8V695YRO8k?si=dc67627f12874feb)] |  
 |Nick's best |  Brad's favorite Nick Drake | [[spotify](Nick Drake inspired playlist)] |  
-| Miles always cooking    &nbsp; &nbsp;| Brad's favorite Miles Davis | [[spotify](https://open.spotify.com/playlist/1WcMNBg0Z7ks98yAhGTTU4?si=399803bdd933430c)] |  
 | Groom's dinner | Playlist for Aaron's wedding rehearsal dinner | [[spotify](https://open.spotify.com/playlist/6NrsjZjWbFAPJds1192AG2?si=817b534cac104534)] |  
 | Mainly classical | Does it need a description? | [[spotify](https://open.spotify.com/playlist/6v0XNYhAFmKCuIjab5TyJz?si=461c4e42285c4565)] |  
 | Zero degrees outside | For a cold morning spent indoors | [[spotify](https://open.spotify.com/playlist/3a3UxeePsYFabKr5MtpZBh?si=6374955e337f4b4e)] |  
