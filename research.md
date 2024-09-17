@@ -50,7 +50,7 @@ Kernelized discriminant analysis for multivariate categorical response regressio
 Jin, Y., Zhang, X. and **Molstad, A. J.** (2024+) <br>
 *Submitted.* <br>
 
-High-dimensional multi-response linear discriminant analysis. <br>
+Multi-response linear discriminant analysis in high dimensions. <br>
 Deng, K., Zhang, X., and **Molstad, A. J.**  (2023+) <br>
 *Submitted.* <br> 
 
