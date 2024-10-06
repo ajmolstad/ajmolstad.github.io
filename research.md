@@ -22,11 +22,11 @@ Gelis-Cadena, K. and **Molstad, A. J.** (2022+) <br>
 Jin, Y., Zhang, X., Chi, Eric C., and **Molstad, A. J.** (2024+) <br>
 *Submitted* <br>  --->
 
-<!-- Subspace decompositions for association structure
+Subspace decompositions for association structure
 learning in multivariate categorical response regression. <br>
 Zhao, H., **Molstad, A. J.**, and Rothman, A. J. (2024+) <br>
 *Submitted* <br>
- -->
+
  
 Smooth and shape-constrained quantile distributed lag models. <br>
 Jin, Y., **Molstad, A. J.**, Wilson, A., and Antonelli, J. (2024+) <br>
