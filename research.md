@@ -62,8 +62,8 @@ multivariate categorical response regression. <br>
 
 Heterogeneity-aware integrative regression for ancestry-specific association studies. <br>
 **Molstad, A. J.**, Cai, Y., Reiner, A., Kooperberg, C., Sun, W., and Hsu, L. (2024) <br>
-*Biometrics.* <br>
-[[pdf](https://arxiv.org/pdf/2306.05571)][[reproduce simulations](https://github.com/ajmolstad/HEATsims)] <br>
+*Biometrics.* **80** (4) <br>
+[[pdf](https://academic.oup.com/biometrics/article/80/4/ujae109/7829050)][[reproduce simulations](https://github.com/ajmolstad/HEATsims)] <br>
 
 
 
