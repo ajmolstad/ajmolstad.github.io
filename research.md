@@ -50,15 +50,15 @@ Kernelized discriminant analysis for multivariate categorical response regressio
 Jin, Y., Zhang, X. and **Molstad, A. J.** (2024+) <br>
 *Submitted.* <br>
 
-Multi-response linear discriminant analysis in high dimensions. <br>
-Deng, K., Zhang, X., and **Molstad, A. J.**  (2023+) <br>
-*Submitted.* <br> 
-
 Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
 **Molstad, A. J.** and Zhang, X. (2023+)<br>
 *Submitted*. <br> 
 [[pdf](https://arxiv.org/pdf/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)] 
+
+Multi-response linear discriminant analysis in high dimensions. <br>
+Deng, K., Zhang, X., and **Molstad, A. J.**  (2024) <br>
+Accepted, *Journal of Machine Learning Research.* <br> 
 
 Heterogeneity-aware integrative regression for ancestry-specific association studies. <br>
 **Molstad, A. J.**, Cai, Y., Reiner, A., Kooperberg, C., Sun, W., and Hsu, L. (2024) <br>
