@@ -37,11 +37,6 @@ Protein quantitative trait locus analysis in African American and non-Hispanic W
 Cai, Y., Johnson, M., Haessler, J. W., **Molstad, A. J.**, Hwang, S., Joehanes, R., Murabito, J., Tahir, U. A.,  Franceschini, N., Gerszten, R., Sun, W., Levy, D., Raffield, L., Kooperberg, C., Hsu, L., and Reiner, A. (2024+) <br>
 *Submitted.* <br>
 
-Fast and reliable confidence confidence intervals for a variance component or proportion. <br>
-Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2024+) <br>
-*Submitted.* <br> 
-[[pdf](https://arxiv.org/pdf/2404.15060.pdf)][[software](https://github.com/yqzhang5972/lmmvar/)][[example](http://koekvall.github.io/files/lmmvar-vignette.html)]
-
 <!-- Integration of proteomics quantitative trait loci into genetic association analysis of stroke in the African American population. (2023+)<br>
 Cai, Y., **Molstad, A. J.**, Kooperberg, C., Reiner, A., Sun, W., and Hsu, L. <br>
 *Submitted.* <br>   -->
@@ -56,8 +51,13 @@ multivariate categorical response regression. <br>
 *Submitted*. <br> 
 [[pdf](https://arxiv.org/pdf/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)] 
 
+Fast and reliable confidence confidence intervals for a variance component or proportion. <br>
+Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2025) <br>
+Accepted, *Biometrika.*
+[[pdf](https://arxiv.org/pdf/2404.15060.pdf)][[software](https://github.com/yqzhang5972/lmmvar/)][[example](http://koekvall.github.io/files/lmmvar-vignette.html)]
+
 Multi-response linear discriminant analysis in high dimensions. <br>
-Deng, K., Zhang, X., and **Molstad, A. J.**  (2024) <br>
+Deng, K., Zhang, X., and **Molstad, A. J.**  (2025) <br>
 Accepted, *Journal of Machine Learning Research.* <br> 
 
 Heterogeneity-aware integrative regression for ancestry-specific association studies. <br>
