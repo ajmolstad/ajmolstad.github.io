@@ -53,7 +53,7 @@ multivariate categorical response regression. <br>
 
 Fast and reliable confidence confidence intervals for a variance component or proportion. <br>
 Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2025) <br>
-Accepted, *Biometrika.*
+Accepted, *Biometrika.*  
 [[pdf](https://arxiv.org/pdf/2404.15060.pdf)][[software](https://github.com/yqzhang5972/lmmvar/)][[example](http://koekvall.github.io/files/lmmvar-vignette.html)]
 
 Multi-response linear discriminant analysis in high dimensions. <br>
