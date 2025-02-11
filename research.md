@@ -54,11 +54,12 @@ multivariate categorical response regression. <br>
 Fast and reliable confidence confidence intervals for a variance component or proportion. <br>
 Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2025) <br>
 Accepted, *Biometrika.*  
-[[pdf](https://arxiv.org/pdf/2404.15060.pdf)][[software](https://github.com/yqzhang5972/lmmvar/)][[example](http://koekvall.github.io/files/lmmvar-vignette.html)]
+[[pdf](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asaf010/8006714?redirectedFrom=fulltext)][[software](https://github.com/yqzhang5972/lmmvar/)][[example](http://koekvall.github.io/files/lmmvar-vignette.html)]
 
 Multi-response linear discriminant analysis in high dimensions. <br>
 Deng, K., Zhang, X., and **Molstad, A. J.**  (2025) <br>
 Accepted, *Journal of Machine Learning Research.* <br> 
+[[pdf](http://jmlr.org/papers/v25/23-0961.html)] <br>
 
 Heterogeneity-aware integrative regression for ancestry-specific association studies. <br>
 **Molstad, A. J.**, Cai, Y., Reiner, A., Kooperberg, C., Sun, W., and Hsu, L. (2024) <br>
