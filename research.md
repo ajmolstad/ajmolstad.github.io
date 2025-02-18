@@ -51,7 +51,7 @@ multivariate categorical response regression. <br>
 *Submitted*. <br> 
 [[pdf](https://arxiv.org/pdf/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)] 
 
-Fast and reliable confidence confidence intervals for a variance component or proportion. <br>
+Fast and reliable confidence confidence intervals for a variance component. <br>
 Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2025) <br>
 Accepted, *Biometrika.*  
 [[pdf](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asaf010/8006714?redirectedFrom=fulltext)][[software](https://github.com/yqzhang5972/lmmvar/)][[example](http://koekvall.github.io/files/lmmvar-vignette.html)]
