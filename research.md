@@ -8,19 +8,29 @@ permalink: /research/
 
 *Research supported in part by NIH R01-HL152439 (2021-2022, 2024), NSF DMS-2113589 (2021-2025), and NSF DMS-2413294 (2024-2027).* 
 
-<!-- Nonparametric accelerated failure time models for multiview survival analysis. <br>
+Nonparametric accelerated failure time models for multiview survival analysis. <br>
 Gelis-Cadena, K. and **Molstad, A. J.** (2022+) <br>
 *Submitted.* <br> 
-[[pdf](https://arxiv.org/abs/2108.02143)][[software](https://github.com/ajmolstad/IntegrativeCox)]<br> -->
 
+Tree-guided equi-sparsity for high-dimensional linear models through direct effect aggregation<br>
+Fu, J., Zou, H., and **Molstad, A. J.** (2025+) <br>
+*Submitted.* <br> 
+
+Practical and theoretical perspectives on convex clustering. <br>
+Gao, Z., **Molstad, A. J.**, and Chi, Eric. C (2022+) <br>
+*Submitted.* <br> 
 
 <!-- Discovering cluster-based differential expression with spatially-resolved transcriptomic data. <br>
 **Molstad, A. J.** (2023+) <br>
 *Submitted.* <br>  -->
 
-<!-- Simultaneous predictor and response dimension reduction in multivariate categorical response regression. <br>
-Jin, Y., Zhang, X., Chi, Eric C., and **Molstad, A. J.** (2024+) <br>
-*Submitted* <br>  --->
+Convex clustering for simultaneous deconvolution and spatial domain discovery in spatially-resolved transcriptomics. <br>
+Koo, H. J., and **Molstad, A. J.** (2025+) <br>
+*Submitted* <br>  
+
+Simultaneous predictor and response dimension reduction in multivariate categorical response regression. <br>
+Jin, Y., Chang, T., Zhang, X., Chi, Eric C., and **Molstad, A. J.** (2025+) <br>
+*Submitted* <br>  
 
 Subspace decompositions for association structure
 learning in multivariate categorical response regression. <br>
