@@ -51,15 +51,18 @@ Cai, Y., Johnson, M., Haessler, J. W., **Molstad, A. J.**, Hwang, S., Joehanes, 
 Cai, Y., **Molstad, A. J.**, Kooperberg, C., Reiner, A., Sun, W., and Hsu, L. <br>
 *Submitted.* <br>   -->
 
-Kernelized discriminant analysis for multivariate categorical response regression. <br>
-Jin, Y., Zhang, X. and **Molstad, A. J.** (2024+) <br>
-*Submitted.* <br>
-
 Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
 **Molstad, A. J.** and Zhang, X. (2023+)<br>
 *Submitted*. <br> 
 [[pdf](https://arxiv.org/pdf/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)] 
+
+
+
+
+Kernelized discriminant analysis for multivariate categorical response regression. <br>
+Jin, Y., Zhang, X. and **Molstad, A. J.** (2025) <br>
+Accepted, *Journal of Computational and Graphical Statistics.* <br>
 
 Fast and reliable confidence confidence intervals for a variance component. <br>
 Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2025) <br>
