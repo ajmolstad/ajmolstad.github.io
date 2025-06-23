@@ -47,12 +47,12 @@ Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2025) <br>
 
 Multi-response linear discriminant analysis in high dimensions. <br>
 Deng, K., Zhang, X., and **Molstad, A. J.**  (2025) <br>
-Accepted, *Journal of Machine Learning Research.* <br> 
+*Journal of Machine Learning Research* <br> 
 [[pdf](http://jmlr.org/papers/v25/23-0961.html)] <br>
 
 Heterogeneity-aware integrative regression for ancestry-specific association studies. <br>
 **Molstad, A. J.**, Cai, Y., Reiner, A., Kooperberg, C., Sun, W., and Hsu, L. (2024) <br>
-*Biometrics.* **80** (4) <br>
+*Biometrics*  <br>
 [[pdf](https://academic.oup.com/biometrics/article/80/4/ujae109/7829050)][[reproduce simulations](https://github.com/ajmolstad/HEATsims)] <br>
 
 
