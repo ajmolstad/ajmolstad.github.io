@@ -14,14 +14,6 @@ learning in multivariate categorical response regression. <br>
 Zhao, H., **Molstad, A. J.**, and Rothman, A. J. (2025+) <br>
 *Submitted* <br>
 [[pdf](https://arxiv.org/abs/2410.04356)]
- 
-Protein quantitative trait locus analysis in African American and non-Hispanic White individuals. <br>
-Cai, Y., Johnson, M., Haessler, J. W., **Molstad, A. J.**, Hwang, S., Joehanes, R., Murabito, J., Tahir, U. A.,  Franceschini, N., Gerszten, R., Sun, W., Levy, D., Raffield, L., Kooperberg, C., Hsu, L., and Reiner, A. (2025+) <br>
-*Submitted.* <br>
-
-<!-- Integration of proteomics quantitative trait loci into genetic association analysis of stroke in the African American population. (2023+)<br>
-Cai, Y., **Molstad, A. J.**, Kooperberg, C., Reiner, A., Sun, W., and Hsu, L. <br>
-*Submitted.* <br>   -->
 
 Conditional probability tensor decompositions for
 multivariate categorical response regression. <br>
@@ -29,6 +21,14 @@ multivariate categorical response regression. <br>
 *Submitted*. <br> 
 [[pdf](https://arxiv.org/pdf/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)] 
 
+ 
+Protein quantitative trait locus analysis in African American and non-Hispanic White individuals. <br>
+Cai, Y., Johnson, M., Haessler, J. W., **Molstad, A. J.**, Hwang, S., Joehanes, R., Murabito, J., Tahir, U. A.,  Franceschini, N., Gerszten, R., Sun, W., Levy, D., Raffield, L., Kooperberg, C., Hsu, L., and Reiner, A. (2025) <br>
+*Genome Biology* <br>
+
+<!-- Integration of proteomics quantitative trait loci into genetic association analysis of stroke in the African American population. (2023+)<br>
+Cai, Y., **Molstad, A. J.**, Kooperberg, C., Reiner, A., Sun, W., and Hsu, L. <br>
+*Submitted.* <br>   -->
 
 Smooth and shape-constrained quantile distributed lag models. <br>
 Jin, Y., **Molstad, A. J.**, Wilson, A., and Antonelli, J. (2025) <br>
