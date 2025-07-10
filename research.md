@@ -25,7 +25,7 @@ multivariate categorical response regression. <br>
 Protein quantitative trait locus analysis in African American and non-Hispanic White individuals. <br>
 Cai, Y., Johnson, M., Haessler, J. W., **Molstad, A. J.**, Hwang, S., Joehanes, R., Murabito, J., Tahir, U. A.,  Franceschini, N., Gerszten, R., Sun, W., Levy, D., Raffield, L., Kooperberg, C., Hsu, L., and Reiner, A. (2025) <br>
 *Genome Biology* <br>
-
+[[pdf](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03671-x)]
 <!-- Integration of proteomics quantitative trait loci into genetic association analysis of stroke in the African American population. (2023+)<br>
 Cai, Y., **Molstad, A. J.**, Kooperberg, C., Reiner, A., Sun, W., and Hsu, L. <br>
 *Submitted.* <br>   -->
@@ -39,6 +39,8 @@ Jin, Y., **Molstad, A. J.**, Wilson, A., and Antonelli, J. (2025) <br>
 Kernelized discriminant analysis for joint modeling of multivariate categorical responses. <br>
 Jin, Y., Zhang, X. and **Molstad, A. J.** (2025) <br>
 *Journal of Computational and Graphical Statistics* <br>
+[[pdf](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2526412)][[software](https://github.com/yjin07/kernelizedDA)]
+
 
 Fast and reliable confidence confidence intervals for a variance component. <br>
 Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2025) <br>
