@@ -9,6 +9,12 @@ permalink: /research/
 *Research supported in part by NIH R01-HL152439 (2021-2022, 2024), NSF DMS-2113589/2415067 (2021-2025), and NSF DMS-2413294 (2024-2027).* 
 
 
+Convex clustering. <br>
+Chi, E. C., **Molstad, A. J.**, and Gao, Z. (2025+) <br>
+*Submitted* <br>
+[[pdf](http://arxiv.org/abs/2507.09077)]
+
+
 Subspace decompositions for association structure
 learning in multivariate categorical response regression. <br>
 Zhao, H., **Molstad, A. J.**, and Rothman, A. J. (2025+) <br>
