@@ -28,7 +28,7 @@ Zhao, H., **Molstad, A. J.**, and Rothman, A. J. (2025+) <br>
 Conditional probability tensor decompositions for
 multivariate categorical response regression <br>
 **Molstad, A. J.** and Zhang, X. (2025+)<br>
-*Submitted*. <br> 
+*Journal of the American Statistical Association*. <br> 
 [[pdf](https://arxiv.org/pdf/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)] 
 
  
