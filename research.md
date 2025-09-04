@@ -8,6 +8,10 @@ permalink: /research/
 
 *Research supported in part by NIH R01-HL152439 (2021-2022, 2024), NSF DMS-2113589/2415067 (2021-2025), and NSF DMS-2413294 (2024-2027).* 
 
+Universal inference for variance components <br>
+Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2025+) <br>
+[[pdf](https://koekvall.github.io/files/univ_vc.pdf)][[software](https://github.com/koekvall/univ_vc_suppl)]
+
 A direct approach to tree-guided feature
 aggregation for high-dimensional regression <br>
 Fu, J., **Molstad, A. J.**, and Zou, H. (2025+)<br>
