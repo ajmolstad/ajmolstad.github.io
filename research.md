@@ -10,16 +10,18 @@ permalink: /research/
 
 Universal inference for variance components <br>
 Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2025+) <br>
+*Submitted* <br>
 [[pdf](https://koekvall.github.io/files/univ_vc.pdf)][[software](https://github.com/koekvall/univ_vc_suppl)]
 
 A direct approach to tree-guided feature
 aggregation for high-dimensional regression <br>
 Fu, J., **Molstad, A. J.**, and Zou, H. (2025+)<br>
+*Submitted* <br>
 [[pdf](https://arxiv.org/pdf/2507.19650)]
 
-Convex clustering <br>
-Chi, E. C., **Molstad, A. J.**, and Gao, Z. (2025+) <br>
-*Submitted* <br>
+The how and why of convex clustering <br>
+Chi, E. C., **Molstad, A. J.**, Gao, Z., and Chi, J. T. (2025+) <br>
+*Annual Review of Statistics and its Applications* <br>
 [[pdf](http://arxiv.org/abs/2507.09077)]
 
 
