@@ -19,7 +19,7 @@ Fu, J., **Molstad, A. J.**, and Zou, H. (2025+)<br>
 *Submitted* <br>
 [[pdf](https://arxiv.org/pdf/2507.19650)]
 
-The how and why of convex clustering <br>
+The why and how of convex clustering <br>
 Chi, E. C., **Molstad, A. J.**, Gao, Z., and Chi, J. T. (2025+) <br>
 *Annual Review of Statistics and its Applications* <br>
 [[pdf](http://arxiv.org/abs/2507.09077)]
