@@ -8,6 +8,22 @@ permalink: /research/
 
 *Research supported in part by NIH R01-HL152439 (2021-2022, 2024), NSF DMS-2113589/2415067 (2021-2025), and NSF DMS-2413294 (2024-2027).* 
 
+A unified approach to spatial domain detection and cell-type deconvolution in spot-based spatial transcriptomics <br>
+Koo H. J. and **Molstad, A. J.** (2025+) <br>
+*Submitted* <br>
+
+Simultaneous predictor and response dimension reduction for multivariate categorical response regression <br>
+Chang, T., Jin, Y., Chi, E. C., Zhang, X., and **Molstad, A. J.** (2025+) <br>
+*Submitted* <br>
+
+Detecting latent viral infection status in scRNA-seq data with scDEcrypter <br>
+Zhong, L., **Molstad, A. J.**, and Bacher, R.(2025+) <br>
+*Submitted* <br>
+
+Convex clustering with generalized Moreau envelope penalty <br>
+Gao, G., Holtz, C., **Molstad, A. J.**, Mishne, G., and Chi, E. C. (2025+) <br>
+*Submitted* <br>
+
 Universal inference for variance components <br>
 Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2025+) <br>
 *Submitted* <br>
@@ -19,17 +35,19 @@ Fu, J., **Molstad, A. J.**, and Zou, H. (2025+)<br>
 *Submitted* <br>
 [[pdf](https://arxiv.org/pdf/2507.19650)]
 
+Subspace decompositions for association structure
+learning in multivariate categorical response regression <br>
+Zhao, H., **Molstad, A. J.**, and Rothman, A. J. (2025+) <br>
+*Submitted* <br>
+[[pdf](https://arxiv.org/abs/2410.04356)]
+
+
 The why and how of convex clustering <br>
 Chi, E. C., **Molstad, A. J.**, Gao, Z., and Chi, J. T. (2025+) <br>
 *Annual Review of Statistics and its Applications* <br>
 [[pdf](http://arxiv.org/abs/2507.09077)]
 
 
-Subspace decompositions for association structure
-learning in multivariate categorical response regression <br>
-Zhao, H., **Molstad, A. J.**, and Rothman, A. J. (2025+) <br>
-*Submitted* <br>
-[[pdf](https://arxiv.org/abs/2410.04356)]
 
 Conditional probability tensor decompositions for
 multivariate categorical response regression <br>
