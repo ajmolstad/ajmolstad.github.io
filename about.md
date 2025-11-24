@@ -10,17 +10,17 @@ My research interests are in multivariate analysis, numerical optimization, and 
 
 
 <ul>
-    <strong>BA in Mathematics, Concentration in Statistics, St. Olaf College</strong>, Northfield, MN
-    <strong>PhD, School of Statistics, University of Minnesota</strong> (2017)<br>
+    <strong>BA in Mathematics, Concentration in Statistics (2012), St. Olaf College</strong>, Northfield, MN <br>
+    <strong>PhD (2017), School of Statistics, University of Minnesota</strong> <br>
    <em> Advisor. <a href="http://users.stat.umn.edu/~arothman">Adam J. Rothman</a> </em>
     <strong>Postdoctoral Fellow, Fred Hutchinson Cancer Center</strong>, Seattle, WA (2017–2019)<br>
     <em> Advisors. <a href="https://www.fredhutch.org/en/faculty-lab-directory/hsu-li.html">Li Hsu</a> and 
-    <a href="https://www.fredhutch.org/en/faculty-lab-directory/sun-wei.html">Wei Sun</a></em>
-    <strong>Assistant Professor, Department of Statistics, University of Florida</strong> (2019–2023)<br>
-     Member, <a href="http://ufgi.ufl.edu/">University of Florida Genetics Institute</a> (2020–2023)
-    <strong>Assistant Professor, School of Statistics, University of Minnesota</strong> (2023–2025)<br>
-    <strong> Graduate Faculty, Data Science, University of Minnesota</strong> (2024-)<br>
-    <strong>Associate Professor, School of Statistics, University of Minnesota</strong> (2025-)<br>
+    <a href="https://www.fredhutch.org/en/faculty-lab-directory/sun-wei.html">Wei Sun</a></em><br>
+    <strong>Assistant Professor (2019–2023), Department of Statistics, University of Florida</strong> <br>
+     Member (2020–2023), <a href="http://ufgi.ufl.edu/">University of Florida Genetics Institute</a><br>
+    <strong>Assistant Professor (2023–2025), School of Statistics, University of Minnesota</strong> <br>
+   Graduate Faculty (2025-), Data Science, University of Minnesota</strong> 
+    <strong>Associate Professor (2025-), School of Statistics, University of Minnesota</strong> <br>
 </ul>
 
 
