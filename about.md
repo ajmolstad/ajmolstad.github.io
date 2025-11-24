@@ -8,13 +8,17 @@ permalink: /about/
 
 My research interests are in multivariate analysis, numerical optimization, and more broadly, statistical and machine learning. My goal is to develop computationally efficient and model-based methods for classification, regression, clustering, and dimension reduction, with an emphasis on applications in modern "omics" data analyses (transcriptomics, proteomics, etc). For a brief overview of my interests (as of 2023), see <a href="https://cla.umn.edu/statistics/news-events/profile/im-interested-how-life-works" style="text-decoration: underline;">this interview</a>.
 
-<style>
+
+<em> Brief biography. </em>
+
+ <style>
   em {
     display: block;      /* Makes margin-left work nicely */
     margin-left: 20px;   /* Adjust indentation as needed */
   }
 </style>
- <em> Brief biography. </em>
+
+
 <ul>
     <strong>BA in Mathematics, Concentration in Statistics (2012), St. Olaf College</strong>, Northfield, MN <br>
     <strong>PhD (2017), School of Statistics, University of Minnesota</strong> <br>
