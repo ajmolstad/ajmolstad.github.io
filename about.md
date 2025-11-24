@@ -6,7 +6,7 @@ permalink: /about/
 {% include image.html url="/images/Norway3.jpg" width=800 align="center" %}
 
 
-My research interests are in multivariate analysis, numerical optimization, and more broadly, statistical and machine learning. My goal is to develop computationally efficient and model-based methods for classification, regression, clustering, and dimension reduction, with an emphasis on methods that are applicable in modern "omics" data analyses (transcriptomics, proteomics, etc). For a brief overview of my interests (as of 2023), see <a href="https://cla.umn.edu/statistics/news-events/profile/im-interested-how-life-works" style="text-decoration: underline;>this interview</a>. 
+My research interests are in multivariate analysis, numerical optimization, and more broadly, statistical and machine learning. My goal is to develop computationally efficient and model-based methods for classification, regression, clustering, and dimension reduction, with an emphasis on methods that are applicable in modern "omics" data analyses (transcriptomics, proteomics, etc). For a brief overview of my interests (as of 2023), see <a href="https://cla.umn.edu/statistics/news-events/profile/im-interested-how-life-works" style="text-decoration": underline;>this interview</a>. 
 
 
 <ul>
@@ -22,6 +22,3 @@ My research interests are in multivariate analysis, numerical optimization, and 
    Graduate Faculty (2025-), Data Science, University of Minnesota</strong> 
     <strong>Associate Professor (2025-), School of Statistics, University of Minnesota</strong> <br>
 </ul>
-
-
-Please feel free to contact me with any questions or comments about my work. 
