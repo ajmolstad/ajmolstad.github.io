@@ -41,41 +41,41 @@ permalink: /people/
 
 <ul>
   <li>
-    <strong>Mohammed Qaysi</strong> MS (2025), University of Minnesota <br>
+    <strong>Mohammed Qaysi</strong> MS, University of Minnesota <br>
     <em>First position. PhD student in Statistics at Florida State University </em>
   </li>
   <li>
-    <strong>Yiqiao Zhang</strong> PhD (2025), University of Florida (co-advised with Karl Oskar Ekvall)<br>
+    <strong>Yiqiao Zhang</strong> PhD, University of Florida (co-advised with Karl Oskar Ekvall)<br>
         <em>Thesis. Computationally efficient inference and learning in latent variable models</em>
     <em>First position. Data Scientist at Microsoft</em>
   </li>
   <li>
-    <strong>Karina Gelis-Cadena</strong> PhD (2025), University of Florida (co-advised with Michael Daniels)<br>
+    <strong>Karina Gelis-Cadena</strong> PhD, University of Florida (co-advised with Michael Daniels)<br>
             <em>Thesis. Nonparametric methods for complex survival analyses </em>
     <em>First position. Lecturer at University of Florida </em>
   </li>
   <li>
-    <strong>Yisen Jin</strong> PhD (2025), University of Florida<br>
+    <strong>Yisen Jin</strong> PhD, University of Florida<br>
                 <em>Thesis. Topics in structured statistical learning </em>
     <em>First position. Data Scientist at Microsoft</em>
   </li>
   <li>
-    <strong>Ting-Chien Huang</strong> MS (2025), University of Minnesota<br>
+    <strong>Ting-Chien Huang</strong> MS, University of Minnesota<br>
   </li>
   <li>
     <strong>Tingting Wang</strong> MS, University of Florida (co-advised with Joseph Antonelli)<br>
     <em>Current position. Senior Data Scientist at Fidelity Investments</em>
   </li>
   <li>
-    <strong>Christian Chase</strong> BS (2022), University of Florida<br>
+    <strong>Christian Chase</strong> BS, University of Florida<br>
     <em>First position. JD student at Vanderbilt University</em>
   </li>
   <li>
-    <strong>Piotr Suder</strong> BS (2022), University of Florida<br>
+    <strong>Piotr Suder</strong> BS, University of Florida<br>
     <em>First position. PhD student in Statistic at Duke University </em>
   </li>
   <li>
-    <strong>Keshav Motwani</strong> BS (2021), University of Florida<br>
+    <strong>Keshav Motwani</strong> BS, University of Florida<br>
     <em>First position. Software Product Manager at 10x Genomics</em>
     <em>Current position. PhD student in Biostatistics at University of Washington</em>
   </li>
