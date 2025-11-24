@@ -11,29 +11,29 @@ permalink: /people/
   }
 </style>
 
-<em> Current group </em>
+<em> Current group (University of Minnesota) </em>
 <ul>
   <li>
-    <strong>Hyun Jung Koo</strong> PhD, University of Minnesota <br>
+    <strong>Hyun Jung Koo</strong> PhD in Statistics <br>
         <em>Topic. Methods for spatial transcriptomic data analyses</em>
   </li>
   <li>
-    <strong>Taeyoung Chang</strong> PhD, University of Minnesota <br>
+    <strong>Taeyoung Chang</strong> PhD in Statistics <br>
         <em>Topic. Tensor decompositions and their applications </em>
   </li>
   <li>
-    <strong>Xieheng Wang</strong> PhD, University of Minnesota <br>
+    <strong>Xieheng Wang</strong> PhD in Statistics <br>
         <em> Topic. Transfer learning in high dimensions</em>
   </li>
   <li>
-    <strong>Jinwen Fu </strong> PhD, University of Minnesota (co-advised with Hui Zoi) <br>
+    <strong>Jinwen Fu </strong> PhD in Statistics (co-advised with Hui Zoi) <br>
             <em>Topic. Feature aggregation and applications of data compression </em>
   </li>
   <li>
-    <strong>Aidan Dunleavy</strong> MS, University of Minnesota
+    <strong>Aidan Dunleavy</strong> MS in Statistics
   </li>
    <li>
-    <strong>Ning-Shan Chang</strong> MS, University of Minnesota (supervised by Sithara Vivek)
+    <strong>Ning-Shan Chang</strong> MS in Statistics (supervised by Sithara Vivek)
   </li>
 </ul>
 
