@@ -2,9 +2,8 @@
 layout: page
 permalink: /people/
 ---
-<span style="font-size: 1.1em; text-decoration: underline;">
-<strong>Current group<strong>
-</span>
+
+<strong> Current group. <strong>
 <ul>
   <li>
     <strong>Hyun Jung Koo</strong><br>
@@ -32,28 +31,27 @@ permalink: /people/
   </li>
 </ul>
 
-<span style="font-size: 1.1em; text-decoration: underline;">
-<strong>Group alumni<strong>
-</span><ul>
+<h1>Group alumni.</h1>
+<ul>
   <li>
     <strong>Mohammed Qaysi</strong><br>
     MS, University of Minnesota<br>
-    <em>First Position. PhD student in Statistics at Florida State University </em>
+    <em>First position. PhD student in Statistics at Florida State University </em>
   </li>
   <li>
     <strong>Yiqiao Zhang</strong><br>
     PhD, University of Florida (co-advised with Karl Oskar Ekvall)<br>
-    <em>First Position. Data Scientist at Microsoft</em>
+    <em>First position. Data Scientist at Microsoft</em>
   </li>
   <li>
     <strong>Karina Gelis-Cadena</strong><br>
     PhD, University of Florida (co-advised with Michael Daniels)<br>
-    <em>First Position. Lecturer at University of Florida </em>
+    <em>First position. Lecturer at University of Florida </em>
   </li>
   <li>
     <strong>Yisen Jin</strong><br>
     PhD, University of Florida<br>
-    <em>First Position. Data Scientist at Microsoft</em>
+    <em>First position. Data Scientist at Microsoft</em>
   </li>
   <li>
     <strong>Ting-Chien Huang</strong><br>
@@ -62,23 +60,23 @@ permalink: /people/
   <li>
     <strong>Tingting Wang</strong><br>
     MS, University of Florida (co-advised with Joseph Antonelli)<br>
-    <em>Current Position. Senior Data Scientist, Fidelity Investments</em>
+    <em>Current position. Senior Data Scientist, Fidelity Investments</em>
   </li>
   <li>
     <strong>Christian Chase</strong><br>
     BS, University of Florida<br>
-    <em>First Position: JD student, Vanderbilt University</em>
+    <em>First position: JD student, Vanderbilt University</em>
   </li>
   <li>
     <strong>Piotr M. Suder</strong><br>
     BS, University of Florida<br>
-    <em>First Position: PhD student in Statistics, Duke University </em>
+    <em>First position: PhD student in Statistics, Duke University </em>
   </li>
   <li>
     <strong>Keshav Motwani</strong><br>
     BS, University of Florida<br>
     <em>First Position: Project Manager, 10x Genomics</em>
-        <em>Current Position: PhD student in Biostatistics, University of Washington</em>
+        <em>Current position: PhD student in Biostatistics, University of Washington</em>
 
   </li>
 </ul>
