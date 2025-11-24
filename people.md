@@ -2,6 +2,8 @@
 layout: page
 permalink: /people/
 ---
+{% include image.html url="/images/skagen.JPG" width=800 align="center" %}
+
 
 <em> Current group </em>
 <ul>
@@ -48,7 +50,7 @@ permalink: /people/
     <strong>Ting-Chien Huang</strong> MS (2025), University of Minnesota<br>
   </li>
   <li>
-    <strong>Tingting Wang</strong>bMS, University of Florida (co-advised with Joseph Antonelli)<br>
+    <strong>Tingting Wang</strong> MS, University of Florida (co-advised with Joseph Antonelli)<br>
     <em>Current position. Senior Data Scientist, Fidelity Investments</em>
   </li>
   <li>
