@@ -3,10 +3,7 @@ layout: page
 permalink: /people/
 ---
 
-{% include image.html url="/images/Norway1.jpg" width=800 align="center" %}
-
-
-<h2>Current Group Members</h2>
+<h1>Current Group Members</h1>
 <ul>
   <li>
     <strong>Hyun Jung Koo</strong><br>
@@ -34,7 +31,7 @@ permalink: /people/
   </li>
 </ul>
 
-<h2>Group Alumni</h2>
+<h1>Group Alumni</h1>
 <ul>
   <li>
     <strong>Mohammed Qaysi</strong><br>
