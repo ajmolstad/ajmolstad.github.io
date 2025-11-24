@@ -71,7 +71,7 @@ permalink: /people/
     <em>First position. JD student, Vanderbilt University</em>
   </li>
   <li>
-    <strong>Piotr M. Suder</strong> BS (2022), University of Florida<br>
+    <strong>Piotr Suder</strong> BS (2022), University of Florida<br>
     <em>First position. PhD student in Statistics, Duke University </em>
   </li>
   <li>
