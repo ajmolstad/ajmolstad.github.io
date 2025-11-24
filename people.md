@@ -46,14 +46,17 @@ permalink: /people/
   </li>
   <li>
     <strong>Yiqiao Zhang</strong> PhD (2025), University of Florida (co-advised with Karl Oskar Ekvall)<br>
+        <em>Thesis. Computationally efficient inference and learning in latent variable models</em>
     <em>First position. Data Scientist at Microsoft</em>
   </li>
   <li>
     <strong>Karina Gelis-Cadena</strong> PhD (2025), University of Florida (co-advised with Michael Daniels)<br>
+            <em>Thesis. Nonparametric methods for complex survival analyses </em>
     <em>First position. Lecturer at University of Florida </em>
   </li>
   <li>
     <strong>Yisen Jin</strong> PhD (2025), University of Florida<br>
+                <em>Thesis. Topics in structured statistical learning </em>
     <em>First position. Data Scientist at Microsoft</em>
   </li>
   <li>
