@@ -76,7 +76,7 @@ permalink: /people/
   </li>
   <li>
     <strong>Keshav Motwani</strong> BS (2021), University of Florida<br>
-    <em>First position. Project Manager, 10x Genomics</em>
+    <em>First position. Software Product Manager, 10x Genomics</em>
     <em>Current position. PhD student in Biostatistics, University of Washington</em>
   </li>
 </ul>
