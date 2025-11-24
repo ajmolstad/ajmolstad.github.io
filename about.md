@@ -26,5 +26,5 @@ My research interests are in multivariate analysis, numerical optimization, and 
      <em> Member (2020–2023), <a href="http://ufgi.ufl.edu/">University of Florida Genetics Institute</a></em>
     <strong>Assistant Professor (2023–2025), School of Statistics, University of Minnesota</strong> <br>
     <strong>Associate Professor (2025-), School of Statistics, University of Minnesota</strong> <br>
-    <em> Graduate Faculty (2025-), Data Science, University of Minnesota</strong> </em> 
+    <em> Graduate Faculty (2025-), Data Science, University of Minnesota </em> 
 </ul>
