@@ -27,7 +27,7 @@ permalink: /people/
   </li>
   <li>
     <strong>Jinwen Fu </strong> PhD, University of Minnesota (co-advised with Hui Zoi) <br>
-            <em>Topic. Feature aggregation, data compression </em>
+            <em>Topic. Feature aggregation and data compression </em>
   </li>
   <li>
     <strong>Aidan Dunleavy</strong> MS, University of Minnesota
