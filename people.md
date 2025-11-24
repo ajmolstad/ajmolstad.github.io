@@ -3,6 +3,7 @@ layout: page
 permalink: /people/
 ---
 
+<em> Current group </em>
 <ul>
   <li>
     <strong>Hyun Jung Koo</strong> PhD, University of Minnesota
@@ -24,7 +25,7 @@ permalink: /people/
   </li>
 </ul>
 
-<hr>
+<em> Group alumni </em>
 
 <ul>
   <li>
@@ -52,16 +53,16 @@ permalink: /people/
   </li>
   <li>
     <strong>Christian Chase</strong> BS (2022), University of Florida<br>
-    <em>First position: JD student, Vanderbilt University</em>
+    <em>First position. JD student, Vanderbilt University</em>
   </li>
   <li>
     <strong>Piotr M. Suder</strong> BS (2022), University of Florida<br>
-    <em>First position: PhD student in Statistics, Duke University </em>
+    <em>First position. PhD student in Statistics, Duke University </em>
   </li>
   <li>
     <strong>Keshav Motwani</strong> BS (2021), University of Florida<br>
-    <em>First Position: Project Manager, 10x Genomics</em>
-        <em>Current position: PhD student in Biostatistics, University of Washington</em>
+    <em>First position. Project Manager, 10x Genomics</em><br>
+        <em>Current position. PhD student in Biostatistics, University of Washington</em>
 
   </li>
 </ul>
