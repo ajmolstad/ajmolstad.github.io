@@ -21,7 +21,7 @@ My research interests are in multivariate analysis, numerical optimization, and 
     <strong>BA (2012), Mathematics, St. Olaf College</strong>, Northfield, MN <br>
     <strong>PhD (2017), School of Statistics, University of Minnesota</strong> <br>
    <em> Advisor. <a href="http://users.stat.umn.edu/~arothman" style="text-decoration: underline;">Adam J. Rothman</a> </em>
-    <strong>Postdoctoral Fellow (2017–2019), Biostatistics Program, Fred Hutchinson Cancer Center</strong>, Seattle, WA<br>
+    <strong>Postdoctoral Fellow (2017–2019), Fred Hutchinson Cancer Center</strong>, Seattle, WA<br>
     <em> Advisors. <a href="https://www.fredhutch.org/en/faculty-lab-directory/hsu-li.html" style="text-decoration: underline;">Li Hsu</a> and 
     <a href="https://www.fredhutch.org/en/faculty-lab-directory/sun-wei.html" style="text-decoration: underline;">Wei Sun</a></em>
     <strong>Assistant Professor (2019–2023), Department of Statistics, University of Florida</strong> <br>
