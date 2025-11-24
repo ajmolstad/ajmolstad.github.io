@@ -4,20 +4,30 @@ permalink: /people/
 ---
 {% include image.html url="/images/skagen.JPG" width=800 align="center" %}
 
+<style>
+  li em {
+    display: block;      /* Makes margin-left work nicely */
+    margin-left: 20px;   /* Adjust indentation as needed */
+  }
+</style>
 
 <em> Current group </em>
 <ul>
   <li>
-    <strong>Hyun Jung Koo</strong> PhD, University of Minnesota
+    <strong>Hyun Jung Koo</strong> PhD, University of Minnesota <br>
+        <em>Topic. Spatial transcriptomics </em>
   </li>
   <li>
-    <strong>Taeyoung Chang</strong> PhD, University of Minnesota
+    <strong>Taeyoung Chang</strong> PhD, University of Minnesota <br>
+        <em>Topic. Tensor decompositions and their applications </em>
   </li>
   <li>
-    <strong>Xieheng Wang</strong> PhD, University of Minnesota
+    <strong>Xieheng Wang</strong> PhD, University of Minnesota <br>
+        <em> Topic. Transfer learning </em>
   </li>
   <li>
-    <strong>Jinwen Fu </strong> PhD, University of Minnesota (co-advised with Hui Zoi)
+    <strong>Jinwen Fu </strong> PhD, University of Minnesota (co-advised with Hui Zoi) <br>
+            <em>Topic. Feature aggregation, data compression </em>
   </li>
   <li>
     <strong>Aidan Dunleavy</strong> MS, University of Minnesota
@@ -51,7 +61,7 @@ permalink: /people/
   </li>
   <li>
     <strong>Tingting Wang</strong> MS, University of Florida (co-advised with Joseph Antonelli)<br>
-    <em>Current position. Senior Data Scientist, Fidelity Investments</em>
+    <em>Current position. Senior Data Scientist at Fidelity Investments</em>
   </li>
   <li>
     <strong>Christian Chase</strong> BS (2022), University of Florida<br>
