@@ -24,6 +24,7 @@ permalink: /people/
   </li>
 </ul>
 
+<hr>
 
 <ul>
   <li>
