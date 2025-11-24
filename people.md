@@ -68,15 +68,15 @@ permalink: /people/
   </li>
   <li>
     <strong>Christian Chase</strong> BS (2022), University of Florida<br>
-    <em>First position. JD student, Vanderbilt University</em>
+    <em>First position. JD student at Vanderbilt University</em>
   </li>
   <li>
     <strong>Piotr Suder</strong> BS (2022), University of Florida<br>
-    <em>First position. PhD student in Statistics, Duke University </em>
+    <em>First position. PhD student in Statistic at Duke University </em>
   </li>
   <li>
     <strong>Keshav Motwani</strong> BS (2021), University of Florida<br>
-    <em>First position. Software Product Manager, 10x Genomics</em>
-    <em>Current position. PhD student in Biostatistics, University of Washington</em>
+    <em>First position. Software Product Manager at 10x Genomics</em>
+    <em>Current position. PhD student in Biostatistics at University of Washington</em>
   </li>
 </ul>
