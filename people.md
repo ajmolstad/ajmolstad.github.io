@@ -2,8 +2,9 @@
 layout: page
 permalink: /people/
 ---
-
-<h1>Current Group Members</h1>
+<span style="font-size: 1.1em; text-decoration: underline;">
+<strong>Current group<strong>
+</span>
 <ul>
   <li>
     <strong>Hyun Jung Koo</strong><br>
@@ -31,8 +32,9 @@ permalink: /people/
   </li>
 </ul>
 
-<h1>Group Alumni</h1>
-<ul>
+<span style="font-size: 1.1em; text-decoration: underline;">
+<strong>Group alumni<strong>
+</span><ul>
   <li>
     <strong>Mohammed Qaysi</strong><br>
     MS, University of Minnesota<br>
