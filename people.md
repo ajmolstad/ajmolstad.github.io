@@ -15,18 +15,18 @@ permalink: /people/
 <ul>
   <li>
     <strong>Hyun Jung Koo</strong> PhD student<br>
-        <em>Topic. Methods for spatial transcriptomic data analyses</em>
+        <em>Topic. Convex clustering and spatial transcriptomic data analyses</em>
   </li>
   <li>
     <strong>Taeyoung Chang</strong> PhD student <br>
-        <em>Topic. Tensor decompositions and their applications </em>
+        <em>Topic. Tensor decompositions and their applications in statistics</em>
   </li>
   <li>
     <strong>Xieheng Wang</strong> PhD student <br>
         <em> Topic. Transfer learning in high dimensions</em>
   </li>
   <li>
-    <strong>Jinwen Fu </strong> PhD student (co-advised with Hui Zoi) <br>
+    <strong>Jinwen Fu </strong> PhD student (co-advised with Hui Zou) <br>
             <em>Topic. Feature aggregation, data compression and representation learning </em>
   </li>
   <li>
