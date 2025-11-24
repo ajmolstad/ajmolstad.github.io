@@ -15,7 +15,7 @@ permalink: /people/
 <ul>
   <li>
     <strong>Hyun Jung Koo</strong> PhD, University of Minnesota <br>
-        <em>Topic. Spatial transcriptomics </em>
+        <em>Topic. Methods for spatial transcriptomic data analyses</em>
   </li>
   <li>
     <strong>Taeyoung Chang</strong> PhD, University of Minnesota <br>
@@ -23,11 +23,11 @@ permalink: /people/
   </li>
   <li>
     <strong>Xieheng Wang</strong> PhD, University of Minnesota <br>
-        <em> Topic. Transfer learning </em>
+        <em> Topic. Transfer learning in high dimensions</em>
   </li>
   <li>
     <strong>Jinwen Fu </strong> PhD, University of Minnesota (co-advised with Hui Zoi) <br>
-            <em>Topic. Feature aggregation and data compression </em>
+            <em>Topic. Feature aggregation and applications of data compression </em>
   </li>
   <li>
     <strong>Aidan Dunleavy</strong> MS, University of Minnesota
@@ -77,7 +77,6 @@ permalink: /people/
   <li>
     <strong>Keshav Motwani</strong> BS (2021), University of Florida<br>
     <em>First position. Project Manager, 10x Genomics</em><br>
-        <em>Current position. PhD student in Biostatistics, University of Washington</em>
-
+    <em>Current position. PhD student in Biostatistics, University of Washington</em>
   </li>
 </ul>
