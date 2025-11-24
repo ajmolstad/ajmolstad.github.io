@@ -14,26 +14,26 @@ permalink: /people/
 <em> Current group (University of Minnesota) </em>
 <ul>
   <li>
-    <strong>Hyun Jung Koo</strong> PhD in Statistics <br>
+    <strong>Hyun Jung Koo</strong> PhD student<br>
         <em>Topic. Methods for spatial transcriptomic data analyses</em>
   </li>
   <li>
-    <strong>Taeyoung Chang</strong> PhD in Statistics <br>
+    <strong>Taeyoung Chang</strong> PhD student <br>
         <em>Topic. Tensor decompositions and their applications </em>
   </li>
   <li>
-    <strong>Xieheng Wang</strong> PhD in Statistics <br>
+    <strong>Xieheng Wang</strong> PhD student <br>
         <em> Topic. Transfer learning in high dimensions</em>
   </li>
   <li>
-    <strong>Jinwen Fu </strong> PhD in Statistics (co-advised with Hui Zoi) <br>
+    <strong>Jinwen Fu </strong> PhD student (co-advised with Hui Zoi) <br>
             <em>Topic. Feature aggregation and applications of data compression </em>
   </li>
   <li>
-    <strong>Aidan Dunleavy</strong> MS in Statistics
+    <strong>Aidan Dunleavy</strong> MS student
   </li>
    <li>
-    <strong>Ning-Shan Chang</strong> MS in Statistics (supervised by Sithara Vivek)
+    <strong>Ning-Shan Chang</strong> MS student (supervised by Sithara Vivek)
   </li>
 </ul>
 
@@ -76,7 +76,7 @@ permalink: /people/
   </li>
   <li>
     <strong>Keshav Motwani</strong> BS (2021), University of Florida<br>
-    <em>First position. Project Manager, 10x Genomics</em><br>
+    <em>First position. Project Manager, 10x Genomics</em>
     <em>Current position. PhD student in Biostatistics, University of Washington</em>
   </li>
 </ul>
