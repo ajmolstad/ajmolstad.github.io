@@ -27,7 +27,7 @@ permalink: /people/
   </li>
   <li>
     <strong>Jinwen Fu </strong> PhD student (co-advised with Hui Zoi) <br>
-            <em>Topic. Feature aggregation and applications of data compression </em>
+            <em>Topic. Feature aggregation, data compression and representation learning </em>
   </li>
   <li>
     <strong>Aidan Dunleavy</strong> MS student
