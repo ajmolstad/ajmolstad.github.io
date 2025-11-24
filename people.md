@@ -3,7 +3,6 @@ layout: page
 permalink: /people/
 ---
 
-<strong> Current group. <strong>
 <ul>
   <li>
     <strong>Hyun Jung Koo</strong><br>
@@ -23,7 +22,7 @@ permalink: /people/
   </li>
   <li>
     <strong>Aidan Dunleavy</strong><br>
-            MS, University of Minnesota (co-advised with Hui Zoi)
+            MS, University of Minnesota
   </li>
    <li>
     <strong>Ning-Shan Chang</strong><br>
@@ -31,31 +30,31 @@ permalink: /people/
   </li>
 </ul>
 
-<h1>Group alumni.</h1>
+
 <ul>
   <li>
     <strong>Mohammed Qaysi</strong><br>
-    MS, University of Minnesota<br>
+    MS (2025), University of Minnesota <br>
     <em>First position. PhD student in Statistics at Florida State University </em>
   </li>
   <li>
     <strong>Yiqiao Zhang</strong><br>
-    PhD, University of Florida (co-advised with Karl Oskar Ekvall)<br>
+    PhD (2025), University of Florida (co-advised with Karl Oskar Ekvall)<br>
     <em>First position. Data Scientist at Microsoft</em>
   </li>
   <li>
     <strong>Karina Gelis-Cadena</strong><br>
-    PhD, University of Florida (co-advised with Michael Daniels)<br>
+    PhD (2025), University of Florida (co-advised with Michael Daniels)<br>
     <em>First position. Lecturer at University of Florida </em>
   </li>
   <li>
     <strong>Yisen Jin</strong><br>
-    PhD, University of Florida<br>
+    PhD (2025), University of Florida<br>
     <em>First position. Data Scientist at Microsoft</em>
   </li>
   <li>
     <strong>Ting-Chien Huang</strong><br>
-    MS, University of Minnesota<br>
+    MS (2025), University of Minnesota<br>
   </li>
   <li>
     <strong>Tingting Wang</strong><br>
@@ -64,17 +63,17 @@ permalink: /people/
   </li>
   <li>
     <strong>Christian Chase</strong><br>
-    BS, University of Florida<br>
+    BS (2022), University of Florida<br>
     <em>First position: JD student, Vanderbilt University</em>
   </li>
   <li>
     <strong>Piotr M. Suder</strong><br>
-    BS, University of Florida<br>
+    BS (2022), University of Florida<br>
     <em>First position: PhD student in Statistics, Duke University </em>
   </li>
   <li>
     <strong>Keshav Motwani</strong><br>
-    BS, University of Florida<br>
+    BS (2021), University of Florida<br>
     <em>First Position: Project Manager, 10x Genomics</em>
         <em>Current position: PhD student in Biostatistics, University of Washington</em>
 
