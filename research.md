@@ -11,9 +11,8 @@ permalink: /research/
 
 
 Simultaneous predictor and response dimension reduction for multivariate categorical response regression <br>
-Chang, T.<span style="vertical-align: super; font-size: 70%">*</span>, Jin, Y.<span style="vertical-align: super; font-size: 70%">*</span>, Chi, E. C., Zhang, X., and **Molstad, A. J.** (2025+) <br>
+Chang, T.^*^, Jin, Y., Chi, E. C., Zhang, X., and **Molstad, A. J.** (2025+) <br>
 *Submitted* <br>
-* Co–first authors
 
 A unified approach to spatial domain detection and cell-type deconvolution in spot-based spatial transcriptomics <br>
 Koo H. J. and **Molstad, A. J.** (2025+) <br>
@@ -54,7 +53,7 @@ Chi, E. C., **Molstad, A. J.**, Gao, Z., and Chi, J. T. (2025+) <br>
 
 Conditional probability tensor decompositions for
 multivariate categorical response regression <br>
-**Molstad, A. J.**.<span style="vertical-align: super; font-size: 70%">*</span> and Zhang, X.<span style="vertical-align: super; font-size: 70%">*</span>. (2025+)<br>
+**Molstad, A. J.**. and Zhang, X. (2025+)<br>
 *Journal of the American Statistical Association*. <br> 
 [[pdf](https://arxiv.org/pdf/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)] 
 * Co–first authors
