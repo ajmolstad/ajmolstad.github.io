@@ -8,12 +8,11 @@ permalink: /research/
 
 *Research supported in part by NIH R01-HL152439 (2021-2022, 2024), NSF DMS-2113589/2415067 (2021-2025), and NSF DMS-2413294 (2024-2027).* 
 
-
+† denotes equal contributions <br>
 
 Simultaneous predictor and response dimension reduction for multivariate categorical response regression <br>
 Chang, T.<sup>†</sup>, Jin, Y.<sup>†</sup>, Chi, E. C., Zhang, X., and **Molstad, A. J.** (2025+) <br>
 *Submitted* <br>
-† Contributed equally<br>
 
 A unified approach to spatial domain detection and cell-type deconvolution in spot-based spatial transcriptomics <br>
 Koo H. J. and **Molstad, A. J.** (2025+) <br>
@@ -57,7 +56,6 @@ multivariate categorical response regression <br>
 **Molstad, A. J.**<sup>†</sup>. and Zhang, X<sup>†</sup>. (2025+)<br>
 *Journal of the American Statistical Association*. <br> 
 [[pdf](https://arxiv.org/pdf/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)] 
-† Contributed equally<br>
  
 Protein quantitative trait locus analysis in African American and non-Hispanic White individuals <br>
 Cai, Y., Johnson, M., Haessler, J. W., **Molstad, A. J.**, Hwang, S., Joehanes, R., Murabito, J., Tahir, U. A.,  Franceschini, N., Gerszten, R., Sun, W., Levy, D., Raffield, L., Kooperberg, C., Hsu, L., and Reiner, A. (2025) <br>
