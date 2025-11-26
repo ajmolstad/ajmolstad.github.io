@@ -8,12 +8,12 @@ permalink: /research/
 
 *Research supported in part by NIH R01-HL152439 (2021-2022, 2024), NSF DMS-2113589/2415067 (2021-2025), and NSF DMS-2413294 (2024-2027).* 
 
-<sup>*</sup> Indicates co–first authors
+
 
 Simultaneous predictor and response dimension reduction for multivariate categorical response regression <br>
-Chang, T.<sup>*</sup>, Jin, Y.<sup>*</sup>, Chi, E. C., Zhang, X., and **Molstad, A. J.** (2025+) <br>
+Chang, T.<span style="vertical-align: super; font-size: 70%">*</span>, Jin, Y.<span style="vertical-align: super; font-size: 70%">*</span>, Chi, E. C., Zhang, X., and **Molstad, A. J.** (2025+) <br>
 *Submitted* <br>
-
+* Co–first authors
 
 A unified approach to spatial domain detection and cell-type deconvolution in spot-based spatial transcriptomics <br>
 Koo H. J. and **Molstad, A. J.** (2025+) <br>
@@ -54,10 +54,10 @@ Chi, E. C., **Molstad, A. J.**, Gao, Z., and Chi, J. T. (2025+) <br>
 
 Conditional probability tensor decompositions for
 multivariate categorical response regression <br>
-**Molstad, A. J.**.<sup>*</sup> and Zhang, X.<sup>*</sup>. (2025+)<br>
+**Molstad, A. J.**.<span style="vertical-align: super; font-size: 70%">*</span> and Zhang, X.<span style="vertical-align: super; font-size: 70%">*</span>. (2025+)<br>
 *Journal of the American Statistical Association*. <br> 
 [[pdf](https://arxiv.org/pdf/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)] 
-
+* Co–first authors
  
 Protein quantitative trait locus analysis in African American and non-Hispanic White individuals <br>
 Cai, Y., Johnson, M., Haessler, J. W., **Molstad, A. J.**, Hwang, S., Joehanes, R., Murabito, J., Tahir, U. A.,  Franceschini, N., Gerszten, R., Sun, W., Levy, D., Raffield, L., Kooperberg, C., Hsu, L., and Reiner, A. (2025) <br>
