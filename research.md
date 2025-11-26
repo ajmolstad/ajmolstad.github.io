@@ -11,7 +11,7 @@ permalink: /research/
 
 
 Simultaneous predictor and response dimension reduction for multivariate categorical response regression <br>
-Chang, T.^*^, Jin, Y., Chi, E. C., Zhang, X., and **Molstad, A. J.** (2025+) <br>
+Chang, T.^$^, Jin, Y., Chi, E. C., Zhang, X., and **Molstad, A. J.** (2025+) <br>
 *Submitted* <br>
 
 A unified approach to spatial domain detection and cell-type deconvolution in spot-based spatial transcriptomics <br>
