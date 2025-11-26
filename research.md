@@ -15,7 +15,7 @@ Chang, T.<sup>❈</sup>, Jin, Y.<sup>❈</sup>, Chi, E. C., Zhang, X., and **Mol
 *Submitted* <br>
 
 A unified approach to spatial domain detection and cell-type deconvolution in spot-based spatial transcriptomics <br>
-Koo H. J. and **Molstad, A. J.** (2025+) <br>
+Koo, H. J. and **Molstad, A. J.** (2025+) <br>
 [[pdf](https://arxiv.org/abs/2511.06204)]
 
 <!-- Detecting latent viral infection status in scRNA-seq data with scDEcrypter <br>
