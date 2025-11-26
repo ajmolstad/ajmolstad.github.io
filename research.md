@@ -8,10 +8,10 @@ permalink: /research/
 
 *Research supported in part by NIH R01-HL152439 (2021-2022, 2024), NSF DMS-2113589/2415067 (2021-2025), and NSF DMS-2413294 (2024-2027).* 
 
-† denotes equal contributions <br>
+❈ denotes equal contributions <br>
 
 Simultaneous predictor and response dimension reduction for multivariate categorical response regression <br>
-Chang, T.<sup>†</sup>, Jin, Y.<sup>†</sup>, Chi, E. C., Zhang, X., and **Molstad, A. J.** (2025+) <br>
+Chang, T.<sup>❈</sup>, Jin, Y.<sup>❈</sup>, Chi, E. C., Zhang, X., and **Molstad, A. J.** (2025+) <br>
 *Submitted* <br>
 
 A unified approach to spatial domain detection and cell-type deconvolution in spot-based spatial transcriptomics <br>
@@ -53,7 +53,7 @@ Chi, E. C., **Molstad, A. J.**, Gao, Z., and Chi, J. T. (2025+) <br>
 
 Conditional probability tensor decompositions for
 multivariate categorical response regression <br>
-**Molstad, A. J.**<sup>†</sup>. and Zhang, X<sup>†</sup>. (2025+)<br>
+**Molstad, A. J.**<sup>❈</sup>. and Zhang, X.<sup>❈</sup> (2025+)<br>
 *Journal of the American Statistical Association*. <br> 
 [[pdf](https://arxiv.org/pdf/2206.10676)][[software](https://github.com/ajmolstad/CondTensorDecomp)] 
  
