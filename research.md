@@ -79,7 +79,7 @@ Jin, Y., Zhang, X. and **Molstad, A. J.** (2025) <br>
 
 Fast and reliable confidence confidence intervals for a variance component <br>
 Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2025) <br>
-*Biometrika.*  
+*Biometrika*  
 [[pdf](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asaf010/8006714?redirectedFrom=fulltext)][[software](https://github.com/yqzhang5972/lmmvar/)][[example](http://koekvall.github.io/files/lmmvar-vignette.html)]
 
 Multi-response linear discriminant analysis in high dimensions <br>
