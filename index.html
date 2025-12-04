@@ -2,86 +2,62 @@
 layout: default
 ---
 
-<style>
-/* your styles here */
-.profile-container {
-  display: flex;
-  gap: 20px;
-  align-items: flex-start;
-  margin-bottom: 30px;
-  flex-wrap: nowrap;
-}
 
-.profile-photo img {
-  width: 150px;
-  height: auto;
-  border-radius: 4px;
-}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-55515506-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-.profile-content {
-  flex: 1;
-  font-size: 1.05rem;
-  line-height: 1.5em;
-}
-
-.profile-content h2 {
-  font-size: 1.6rem;
-  margin-top: 1.5em;
-}
-
-@media (max-width: 700px) {
-  .profile-container {
-    flex-direction: column;
-    align-items: center;
-    text-align: left;
-  }
-
-  .profile-photo img {
-    width: 60%;
-    max-width: 250px;
-  }
-
-  .profile-content {
-    width: 100%;
-  }
-}
-</style>
+  gtag('config', 'UA-55515506-1');
+</script>
 
 
-<div class="profile-container">
-  <div class="profile-photo">
-    <img src="/images/Molstad-4.jpg" alt="Profile photo" />
-  </div>
-
-  <div class="profile-content">
-    <p>
-      I am an Associate Professor in the
-      <a href="https://cla.umn.edu/statistics">School of Statistics</a> at the
-      University of Minnesota. I also hold a graduate faculty appointment in
-      <a href="https://cse.umn.edu/datascience">Data Science</a>.
-      My primary research interests are in multivariate analysis, numerical
-      optimization, statistical genetics and genomics, and more broadly,
-      statistical and machine learning. I serve as Associate Editor for
-      <a href="https://www.tandfonline.com/journals/udss20">Data Science in Science</a>
-      and
-      <a href="https://www.tandfonline.com/journals/ucgs20">Journal of Computational and Graphical Statistics</a>.
-    </p>
-
-    <h2>Recent and upcoming talks</h2>
-    <ul>
-      <li>(12/25) DSI Machine Learning Seminar in Minneapolis, MN</li>
-      <li>(7/25) ASA NSF@75 Virtual Conference</li>
-      <li>(5/25) STATGEN 2025 in Minneapolis, MN</li>
-      <li>(11/24) KU Probability and Statistics Conference in Lawrence, KS</li>
-      <li>(11/24) ASA SLDS Conference in Newport Beach, CA</li>
-      <li>(8/24) Joint Statistical Meeting in Portland, OR</li>
-      <li>(7/24) Model-based Clustering Working Group in Bertinoro, Italy</li>
-      <li>(5/24) SIAM Conference on Applied Linear Algebra in Paris</li>
-    </ul>
+<div class="default">
+ <dl class="wp-caption alignleft" style="max-width: 230px">
+<dt><a href=""><img class="" src="/images/Molstad-4.jpg" alt="" /></a>
+	<img padding: 6px;></dt>
+<dd></dd>
+</dl>
+<font size="3">
+	I am an Associate Professor in the <a href="https://cla.umn.edu/statistics"tyle="text-decoration: underline;">School of Statistics</a> at the University of Minnesota. I also hold a graduate faculty appointment in <a href="https://cse.umn.edu/datascience"s tyle="text-decoration: underline;">Data Science</a>. My primary research interests are in multivariate analysis, numerical optimization, statistical genetics and genomics, and more broadly, statistical and machine learning. Please see my research page for articles and funding information. I serve as Associate Editor for <a href="https://www.tandfonline.com/journals/udss20" style="text-decoration: underline;"> Data Science in Science</a> and <a href="https://www.tandfonline.com/journals/ucgs20" style="text-decoration: underline;"> Journal of Computational and Graphical Statistics</a>.
 
 
-    <h2>News and updates</h2>
-    <ul style="list-style-type:square;">
+
+
+<!-- <p style="font-family:courier;font-size:130%;">
+Assistant Professor  <br>
+Department of Statistics <br>
+University of Florida <br>
+<br>
+<i> email: </i> amolstad@ufl.edu <br>
+<i> office: </i> XXX Griffin-Floyd Hall<br>
+<i> dept: </i> 321 Griffin-Floyd Hall<br>
+ &nbsp &nbsp&nbsp &nbsp  &nbsp   University of Florida <br> 
+ &nbsp &nbsp&nbsp &nbsp  &nbsp   Gainesville, FL 32611 <br> 
+ </p>
+<br>
+<br> -->
+<!-- <br>
+<b> UF graduate students interested in statistical computing and optimization:</b>  please feel free to contact me by email or stop by my office to learn more about potential research opportunities.
+<br> -->
+<br>
+ <br>
+    <div style="clear: both;"></div>
+<font font-size: 3.5em><b>Recent and upcoming talks</b></font>
+<ul style="list-style-type:square;">
+  <li> (12/25) DSI Machine Learning Seminar in Minneapolis, MN </li>
+  <li> (7/25) ASA NSF@75 Virtual Conference</li>
+    <li> (5/25) STATGEN 2025 in Minneapolis, MN</li>
+  <li> (11/24) KU Probability and Statistics Conference in Lawrence, KS</li>
+    <li> (11/24) ASA SLDS Conference in Newport Beach, CA</li>
+  <li> (8/24) Joint Statistical Meeting in Portland, OR</li>
+   <li> (7/24) Model-based Clustering Working Group in Bertinoro, Italy</li>
+  <li> (5/24) SIAM Conference on Applied Linear Algebra in Paris</li>
+</ul>
+<font font-size: 3.5em><b>News and updates</b></font>
+<ul style="list-style-type:square;">
    <li> (11/25) <a href="https://arxiv.org/abs/2511.06204" style="text-decoration: underline;">A unified approach to spatial domain detection and cell-type
  deconvolution in spot-based spatial transcriptomics</a> available on arXiv</li>
  <li> (9/25) <a href="http://arxiv.org/abs/2507.09077" style="text-decoration: underline;">The why and how of convex clustering</a> accepted by Annual Review of Statistics and its Applications </li>
@@ -105,78 +81,5 @@ component</a> accepted at Biometrika
   <li> (7/24) <a href="https://arxiv.org/abs/2306.05571" style="text-decoration: underline;">Heterogeneity-aware integrative regression for ancestry-specific association studies</a> accepted at Biometrics
   <li> (7/24) <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2413294&HistoricalAwards=false" style="text-decoration: underline;"> Objective and reliable methods for inference with modern omics data</a> grant awarded by the National Science Foundation (DMS-2413294): this grant will fund our work on methods for analyzing spatially-resolved and single-cell transcriptomic data
 </ul>
-<!--   </div>
 </div>
- -->
-
-<!-- 
-
-
-<div class="default">
- <dl class="wp-caption alignleft" style="max-width: 225px">
-<dt><a href=""><img class="" src="/images/Molstad-4.jpg" alt="" /></a>
-	<img padding: 6px;></dt>
-<dd></dd>
-</dl>
-<font size="3">
-	I am an Associate Professor in the <a href="https://cla.umn.edu/statistics"tyle="text-decoration: underline;">School of Statistics</a> at the University of Minnesota. I also hold a graduate faculty appointment in <a href="https://cse.umn.edu/datascience"s tyle="text-decoration: underline;">Data Science</a>. My primary research interests are in multivariate analysis, numerical optimization, statistical genetics and genomics, and more broadly, statistical and machine learning. I serve as Associate Editor for <a href="https://www.tandfonline.com/journals/udss20" style="text-decoration: underline;"> Data Science in Science</a> and <a href="https://www.tandfonline.com/journals/ucgs20" style="text-decoration: underline;"> Journal of Computational and Graphical Statistics</a>.
-
-
-
-
- <p style="font-family:courier;font-size:130%;">
-Assistant Professor  <br>
-Department of Statistics <br>
-University of Florida <br>
-<br>
-<i> email: </i> amolstad@ufl.edu <br>
-<i> office: </i> XXX Griffin-Floyd Hall<br>
-<i> dept: </i> 321 Griffin-Floyd Hall<br>
- &nbsp &nbsp&nbsp &nbsp  &nbsp   University of Florida <br> 
- &nbsp &nbsp&nbsp &nbsp  &nbsp   Gainesville, FL 32611 <br> 
- </p>
-<br>
-<br> -->
-<!-- <br>
-<b> UF graduate students interested in statistical computing and optimization:</b>  please feel free to contact me by email or stop by my office to learn more about potential research opportunities.
-<br> -->
-<!-- <br>
- <br> -->
-<!--     <div style="clear: both;"></div>
-<font font-size: 3.5em><b>Recent and upcoming talks</b></font>
-<ul style="list-style-type:square;">
-  <li> (12/25) DSI Machine Learning Seminar in Minneapolis, MN </li>
-  <li> (7/25) ASA NSF@75 Virtual Conference</li>
-    <li> (5/25) STATGEN 2025 in Minneapolis, MN</li>
-  <li> (11/24) KU Probability and Statistics Conference in Lawrence, KS</li>
-    <li> (11/24) ASA SLDS Conference in Newport Beach, CA</li>
-  <li> (8/24) Joint Statistical Meeting in Portland, OR</li>
-   <li> (7/24) Model-based Clustering Working Group in Bertinoro, Italy</li>
-  <li> (5/24) SIAM Conference on Applied Linear Algebra in Paris</li>
-</ul> -->
-<!-- <font font-size: 3.5em><b>News and updates</b></font>
-<ul style="list-style-type:square;">
-   <li> (11/25) <a href="https://arxiv.org/abs/2511.06204" style="text-decoration: underline;">A unified approach to spatial domain detection and cell-type
- deconvolution in spot-based spatial transcriptomics</a> available on arXiv</li>
- <li> (9/25) <a href="http://arxiv.org/abs/2507.09077" style="text-decoration: underline;">The why and how of convex clustering</a> accepted by Annual Review of Statistics and its Applications </li>
-   <li> (9/25) <a href="https://koekvall.github.io/files/univ_vc.pdf" style="text-decoration: underline;">Universal inference for variance components</a> now available on arXiv </li>
-  <li> (9/25)  Promoted to Associate Professor with tenure </li>
-       <li> (8/25)  <a href="https://arxiv.org/abs/2206.10676" style="text-decoration: underline;">Conditional probability tensor decompositions for multivariate categorical response regression</a> accepted by JASA </li>
-     <li> (7/25) Jinwen Fu's paper, <a href="https://arxiv.org/abs/2507.19650" style="text-decoration: underline;">A direct approach to tree-guided feature
-aggregation for high-dimensional regression</a> now available on arXiv </li>
-      <li> (7/25) Dr. Yiqiao Zhang successfully defended her Ph.D. thesis. In a few weeks, she will join Microsoft in Seattle. Congratulations Dr. Zhang! 
-   <li> (7/25) <a href="https://arxiv.org/abs/2507.09077" style="text-decoration: underline;">Review paper on convex clustering</a> now available on arXiv </li>
-    <li> (7/25) Dr. Karina Gelis-Cadena <a href="/images/KarinaDefense.JPG" style="text-decoration: underline;">successfully defended</a> her Ph.D. thesis. She will start as Lecturer at University of Florida in the fall. Congratulations Dr. Gelis-Cadena!
-    <li> (6/25) Yisen Jin's papers, <a style="text-decoration: underline;">Smooth and shape-constrained quantile distributed lag models</a> and <a style="text-decoration: underline;">Kernelized discriminant analysis for joint modeling of
-multivariate categorical responses</a> accepted at Biometrics and JCGS, respectively 
-  <li> (3/25) Dr. Yisen Jin <a href="/images/YisenDefense.png" style="text-decoration: underline;">successfully defended</a> his Ph.D. thesis. In a few weeks, he will join Microsoft in Seattle. Congratulations Dr. Jin!
-  <li> (1/25) <a href="https://arxiv.org/abs/2404.15060" style="text-decoration: underline;">Fast and reliable confidence intervals for a variance
-component</a> accepted at Biometrika
-  <li> (1/25) Hyun Jung Koo received the <a href="https://mndrivebrainconditions.umn.edu/data-science-initiative-mndrive-phd-graduate-assistantship-program" style="text-decoration: underline;">DSI-MnDRIVE Graduate Assistantship Award</a>.  Congratulations HJ! 
-  <li> (11/24) <a style="text-decoration: underline;">Multi-response linear discriminant analysis in high dimensions</a> accepted at Journal of Machine Learning Research
-  <li> (10/24) Hongru Zhao's paper, <a href="https://arxiv.org/abs/2410.04356" style="text-decoration: underline;">Subspace decompositions for association structure learning in multivariate categorical response regression</a> now available on arXiv
-   <li> (8/24) Yisen Jin's paper, <a href="https://ajmolstad.github.io/docs/SmoothQDLM.pdf" style="text-decoration: underline;">Smooth and shape-constrained quantile distributed lag models</a> now available on arXiv
-  <li> (7/24) <a href="https://arxiv.org/abs/2306.05571" style="text-decoration: underline;">Heterogeneity-aware integrative regression for ancestry-specific association studies</a> accepted at Biometrics
-  <li> (7/24) <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2413294&HistoricalAwards=false" style="text-decoration: underline;"> Objective and reliable methods for inference with modern omics data</a> grant awarded by the National Science Foundation (DMS-2413294): this grant will fund our work on methods for analyzing spatially-resolved and single-cell transcriptomic data
-</ul> -->
 
