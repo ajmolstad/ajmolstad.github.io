@@ -71,8 +71,8 @@ permalink: /people/
     <em>First position. JD student at Vanderbilt University</em>
   </li>
   <li>
-    <strong>Piotr Suder</strong> BS, University of Florida<br>
-    <em>First position. PhD student in Statistic at Duke University </em>
+    <strong>Piotr M. Suder</strong> BS, University of Florida<br>
+    <em>First position. PhD student in Statistics at Duke University </em>
   </li>
   <li>
     <strong>Keshav Motwani</strong> BS, University of Florida<br>
