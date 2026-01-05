@@ -26,10 +26,6 @@ Convex clustering with generalized Moreau envelope penalty <br>
 Gao, G., Holtz, C., **Molstad, A. J.**, Mishne, G., and Chi, E. C. (2025+) <br>
 *Submitted* <br> 
 
-Universal inference for variance components <br>
-Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2025+) <br>
-*Submitted* <br>
-[[pdf](https://koekvall.github.io/files/univ_vc.pdf)][[software](https://github.com/koekvall/univ_vc_suppl)]
 
 A direct approach to tree-guided feature
 aggregation for high-dimensional regression <br>
@@ -43,6 +39,10 @@ Zhao, H., **Molstad, A. J.**, and Rothman, A. J. (2025+) <br>
 *Submitted* <br>
 [[pdf](https://arxiv.org/abs/2410.04356)]
 
+Universal inference for variance components <br>
+Zhang, Y., Ekvall, K. O., and **Molstad, A. J.** (2026) <br>
+*Stat* <br>
+[[pdf](https://koekvall.github.io/files/univ_vc.pdf)][[software](https://github.com/koekvall/univ_vc_suppl)]
 
 The why and how of convex clustering <br>
 Chi, E. C., **Molstad, A. J.**, Gao, Z., and Chi, J. T. (2025+) <br>
