@@ -11,7 +11,7 @@ permalink: /people/
   }
 </style>
 
-<em> Current group (University of Minnesota) </em>
+<em> Current group </em>
 <ul>
   <li>
     <strong>Hyun Jung Koo</strong> PhD student<br>
