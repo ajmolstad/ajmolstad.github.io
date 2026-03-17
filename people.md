@@ -22,7 +22,7 @@ permalink: /people/
         <em>Topic. Tensor decompositions and their applications in statistics</em>
   </li>
   <li>
-    <strong>[[Xieheng Wang](https://mariana2000.github.io/)]</strong> PhD student <br>
+   [[<strong>Xieheng Wang</strong>](https://mariana2000.github.io/)] PhD student <br>
         <em> Topic. Transfer learning in high dimensions</em>
   </li>
   <li>
