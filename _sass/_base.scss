@@ -95,12 +95,20 @@ a {
 
    &:visited {
     /*    color: darken($brand-color, 15%); */
-    } 
+    }
 
     &:hover {
         color: $text-color;
         text-decoration: underline;
     }
+}
+
+.page-content a {
+    text-decoration: underline;
+}
+
+.page-content a:hover {
+    color: $text-color;
 }
 
 /* .post-content a, .home a {
