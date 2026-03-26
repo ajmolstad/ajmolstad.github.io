@@ -212,9 +212,32 @@ a.tosu {
 color: #b00000;
 background: #f5f5f5;
 text-decoration: none;
- padding: 2px; 
- font-weight: 600; 
+ padding: 2px;
+ font-weight: 600;
 font-family: 'Capita', Georgia, serif;
+}
+
+/**
+ * BibTeX collapsible
+ */
+details summary {
+  cursor: pointer;
+  color: $brand-color;
+  list-style: none;
+  &::-webkit-details-marker {
+    display: none;
+  }
+  &::marker {
+    content: '';
+  }
+  &:hover {
+    color: $text-color;
+    text-decoration: underline;
+  }
+}
+details[open] pre {
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 
