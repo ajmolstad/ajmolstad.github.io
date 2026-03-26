@@ -13,16 +13,6 @@ permalink: /research/
 Simultaneous predictor and response dimension reduction for multivariate categorical response regression <br>
 Chang, T.<sup>❈</sup>, Jin, Y.<sup>❈</sup>, Chi, E. C., Zhang, X., and **Molstad, A. J.** (2025+) <br>
 *Submitted* <br>
-<details><summary>[bibtex]</summary>
-<pre>
-@misc{chang2025simultaneous,
-  title         = {Simultaneous predictor and response dimension reduction for multivariate categorical response regression},
-  author        = {Chang, T. and Jin, Y. and Chi, E. C. and Zhang, X. and Molstad, A. J.},
-  year          = {2025},
-  note          = {Submitted}
-}
-</pre>
-</details>
 
 A unified approach to spatial domain detection and cell-type deconvolution in spot-based spatial transcriptomics <br>
 Koo, H. J. and **Molstad, A. J.** (2025+) <br>
@@ -47,16 +37,7 @@ Zhong, L., **Molstad, A. J.**, and Bacher, R.(2025+) <br>
 Convex clustering with generalized Moreau envelope penalty <br>
 Gao, G., Holtz, C., **Molstad, A. J.**, Mishne, G., and Chi, E. C. (2025+) <br>
 *Submitted* <br>
-<details><summary>[bibtex]</summary>
-<pre>
-@misc{gao2025convex,
-  title         = {Convex clustering with generalized {M}oreau envelope penalty},
-  author        = {Gao, G. and Holtz, C. and Molstad, A. J. and Mishne, G. and Chi, E. C.},
-  year          = {2025},
-  note          = {Submitted}
-}
-</pre>
-</details>
+
 
 
 A direct approach to tree-guided feature
