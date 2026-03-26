@@ -220,32 +220,17 @@ font-family: 'Capita', Georgia, serif;
 /**
  * BibTeX collapsible
  */
-details {
-  display: inline;
-  summary {
-    display: inline;
-    cursor: pointer;
-    color: $brand-color;
-    list-style: none;
-    font-size: $base-font-size;
-    &::-webkit-details-marker {
-      display: none;
-    }
-    &::marker {
-      content: '';
-    }
-    &:hover {
-      color: $text-color;
-      text-decoration: underline;
-    }
+.bib-toggle {
+  cursor: pointer;
+  color: $brand-color;
+  &:hover {
+    color: $text-color;
+    text-decoration: underline;
   }
-  &[open] {
-    display: block;
-    pre {
-      margin-top: 5px;
-      margin-bottom: 5px;
-    }
-  }
+}
+.bib-content {
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 
