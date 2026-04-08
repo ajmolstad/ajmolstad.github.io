@@ -71,59 +71,37 @@ University of Florida <br>
  <br>
     <div style="clear: both;"></div>
 <font font-size: 3.5em><b>Recent and upcoming talks</b></font>
+{% assign sorted_talks = site.data.talks | sort: "date" | reverse %}
 <ul style="list-style-type:square;">
-    <li> (8/26) Joint Statistical Meeting in Boston, MA </li>
-    <li> (5/26) STATGEN 2026 in Atlanta, GA </li>
-    <li> (12/25) DSI Machine Learning Seminar in Minneapolis, MN </li>
-    <li> (7/25) ASA NSF@75 Virtual Conference</li>
-    <li> (5/25) STATGEN 2025 in Minneapolis, MN</li>
+  {% for talk in sorted_talks limit: 5 %}
+  <li> ({{ talk.date | date: "%-m/%y" }}) {{ talk.text }} </li>
+  {% endfor %}
 </ul>
 <details style="margin-top: -1.2em; margin-bottom: 1em;">
   <summary style="cursor: pointer; color: #555; font-size: 0.95em; list-style: none; display: inline-block; padding: 2px 0;">
     <span class="older-toggle" style="border-bottom: 1px dashed #999;">older talks</span>
   </summary>
   <ul style="list-style-type:square; margin-top: 0.5em;">
-    <li> (11/24) KU Probability and Statistics Conference in Lawrence, KS</li>
-    <li> (11/24) ASA SLDS Conference in Newport Beach, CA</li>
-    <li> (8/24) Joint Statistical Meeting in Portland, OR</li>
-    <li> (7/24) Model-based Clustering Working Group in Bertinoro, Italy</li>
-    <li> (5/24) SIAM Conference on Applied Linear Algebra in Paris</li>
+    {% for talk in sorted_talks offset: 5 %}
+    <li> ({{ talk.date | date: "%-m/%y" }}) {{ talk.text }} </li>
+    {% endfor %}
   </ul>
 </details>
 <font font-size: 3.5em><b>News and updates</b></font>
+{% assign sorted_news = site.data.news | sort: "date" | reverse %}
 <ul style="list-style-type:square;">
-     <li> (3/26) Luer Zhong's paper, <a href="https://www.biorxiv.org/content/10.64898/2026.03.09.710583v1.full.pdf" style="text-decoration: underline;">scDEcrypter: Uncertainty-aware differential
-expression analysis for viral infection in
-scRNA-seq"</a> now available on bioRxiv </li>
-   <li> (1/26) <a href="https://koekvall.github.io/files/univ_vc.pdf" style="text-decoration: underline;">Universal inference for variance components</a> accepted by Stat </li>
-   <li> (11/25) HJ Koo's paper, <a href="https://arxiv.org/abs/2511.06204" style="text-decoration: underline;">A unified approach to spatial domain detection and cell-type
- deconvolution in spot-based spatial transcriptomics</a> now available on arXiv</li>
-   <li> (9/25) <a href="http://arxiv.org/abs/2507.09077" style="text-decoration: underline;">The why and how of convex clustering</a> accepted by Annual Review of Statistics and its Applications </li>
-   <li> (9/25) <a href="https://koekvall.github.io/files/univ_vc.pdf" style="text-decoration: underline;">Universal inference for variance components</a> now available on arXiv </li>
-   <li> (9/25) Promoted to Associate Professor with tenure </li>
-   <li> (8/25) <a href="https://arxiv.org/abs/2206.10676" style="text-decoration: underline;">Conditional probability tensor decompositions for multivariate categorical response regression</a> accepted by JASA </li>
-   <li> (7/25) Jinwen Fu's paper, <a href="https://arxiv.org/abs/2507.19650" style="text-decoration: underline;">A direct approach to tree-guided feature
-aggregation for high-dimensional regression</a> now available on arXiv </li>
-   <li> (7/25) Dr. Yiqiao Zhang successfully defended her Ph.D. thesis. In a few weeks, she will join Microsoft in Seattle. Congratulations Dr. Zhang!</li>
-   <li> (7/25) <a href="https://arxiv.org/abs/2507.09077" style="text-decoration: underline;">Review paper on convex clustering</a> now available on arXiv </li>
-   <li> (7/25) Dr. Karina Gelis-Cadena <a href="/images/KarinaDefense.JPG" style="text-decoration: underline;">successfully defended</a> her Ph.D. thesis. She will start as Lecturer at University of Florida in the fall. Congratulations Dr. Gelis-Cadena!</li>
+  {% for item in sorted_news limit: 12 %}
+  <li> ({{ item.date | date: "%-m/%y" }}) {% if item.html %}{{ item.html }}{% elsif item.text %}{{ item.text }}{% else %}{% if item.pre %}{{ item.pre }} {% endif %}{% if item.url %}<a href="{{ item.url }}" style="text-decoration:underline;">{{ item.link_text }}</a>{% endif %}{% if item.post %} {{ item.post }}{% endif %}{% endif %} </li>
+  {% endfor %}
 </ul>
 <details style="margin-top: -1.2em; margin-bottom: 1em;">
   <summary style="cursor: pointer; color: #555; font-size: 0.95em; list-style: none; display: inline-block; padding: 2px 0;">
     <span class="older-toggle" style="border-bottom: 1px dashed #999;">older news</span>
   </summary>
   <ul style="list-style-type:square; margin-top: 0.5em;">
-    <li> (6/25) Yisen Jin's papers, <a style="text-decoration: underline;">Smooth and shape-constrained quantile distributed lag models</a> and <a style="text-decoration: underline;">Kernelized discriminant analysis for joint modeling of
-multivariate categorical responses</a> accepted at Biometrics and JCGS, respectively</li>
-    <li> (3/25) Dr. Yisen Jin <a href="/images/YisenDefense.png" style="text-decoration: underline;">successfully defended</a> his Ph.D. thesis. In a few weeks, he will join Microsoft in Seattle. Congratulations Dr. Jin!</li>
-    <li> (1/25) <a href="https://arxiv.org/abs/2404.15060" style="text-decoration: underline;">Fast and reliable confidence intervals for a variance
-component</a> accepted at Biometrika</li>
-    <li> (1/25) Hyun Jung Koo received the <a href="https://mndrivebrainconditions.umn.edu/data-science-initiative-mndrive-phd-graduate-assistantship-program" style="text-decoration: underline;">DSI-MnDRIVE Graduate Assistantship Award</a>. Congratulations HJ!</li>
-    <li> (11/24) <a style="text-decoration: underline;">Multi-response linear discriminant analysis in high dimensions</a> accepted at Journal of Machine Learning Research</li>
-    <li> (10/24) Hongru Zhao's paper, <a href="https://arxiv.org/abs/2410.04356" style="text-decoration: underline;">Subspace decompositions for association structure learning in multivariate categorical response regression</a> now available on arXiv</li>
-    <li> (8/24) Yisen Jin's paper, <a href="https://ajmolstad.github.io/docs/SmoothQDLM.pdf" style="text-decoration: underline;">Smooth and shape-constrained quantile distributed lag models</a> now available on arXiv</li>
-    <li> (7/24) <a href="https://arxiv.org/abs/2306.05571" style="text-decoration: underline;">Heterogeneity-aware integrative regression for ancestry-specific association studies</a> accepted at Biometrics</li>
-    <li> (7/24) <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2413294&HistoricalAwards=false" style="text-decoration: underline;">Objective and reliable methods for inference with modern omics data</a> grant awarded by the National Science Foundation (DMS-2413294): this grant will fund our work on methods for analyzing spatially-resolved and single-cell transcriptomic data</li>
+    {% for item in sorted_news offset: 12 %}
+    <li> ({{ item.date | date: "%-m/%y" }}) {% if item.html %}{{ item.html }}{% elsif item.text %}{{ item.text }}{% else %}{% if item.pre %}{{ item.pre }} {% endif %}{% if item.url %}<a href="{{ item.url }}" style="text-decoration:underline;">{{ item.link_text }}</a>{% endif %}{% if item.post %} {{ item.post }}{% endif %}{% endif %} </li>
+    {% endfor %}
   </ul>
 </details>
 </div>

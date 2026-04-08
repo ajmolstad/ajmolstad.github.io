@@ -1,0 +1,99 @@
+- date: "2026-03-01"
+  pre: "Luer Zhong's paper,"
+  url: "https://www.biorxiv.org/content/10.64898/2026.03.09.710583v1.full.pdf"
+  link_text: "scDEcrypter: Uncertainty-aware differential expression analysis for viral infection in scRNA-seq"
+  post: "now available on bioRxiv"
+
+- date: "2026-01-01"
+  url: "https://koekvall.github.io/files/univ_vc.pdf"
+  link_text: "Universal inference for variance components"
+  post: "accepted by Stat"
+
+- date: "2025-11-01"
+  pre: "HJ Koo's paper,"
+  url: "https://arxiv.org/abs/2511.06204"
+  link_text: "A unified approach to spatial domain detection and cell-type deconvolution in spot-based spatial transcriptomics"
+  post: "now available on arXiv"
+
+- date: "2025-09-03"
+  url: "http://arxiv.org/abs/2507.09077"
+  link_text: "The why and how of convex clustering"
+  post: "accepted by Annual Review of Statistics and its Applications"
+
+- date: "2025-09-02"
+  url: "https://koekvall.github.io/files/univ_vc.pdf"
+  link_text: "Universal inference for variance components"
+  post: "now available on arXiv"
+
+- date: "2025-09-01"
+  text: "Promoted to Associate Professor with tenure"
+
+- date: "2025-08-01"
+  url: "https://arxiv.org/abs/2206.10676"
+  link_text: "Conditional probability tensor decompositions for multivariate categorical response regression"
+  post: "accepted by JASA"
+
+- date: "2025-07-04"
+  pre: "Jinwen Fu's paper,"
+  url: "https://arxiv.org/abs/2507.19650"
+  link_text: "A direct approach to tree-guided feature aggregation for high-dimensional regression"
+  post: "now available on arXiv"
+
+- date: "2025-07-03"
+  text: "Dr. Yiqiao Zhang successfully defended her Ph.D. thesis. In a few weeks, she will join Microsoft in Seattle. Congratulations Dr. Zhang!"
+
+- date: "2025-07-02"
+  url: "https://arxiv.org/abs/2507.09077"
+  link_text: "Review paper on convex clustering"
+  post: "now available on arXiv"
+
+- date: "2025-07-01"
+  pre: "Dr. Karina Gelis-Cadena"
+  url: "/images/KarinaDefense.JPG"
+  link_text: "successfully defended"
+  post: "her Ph.D. thesis. She will start as Lecturer at University of Florida in the fall. Congratulations Dr. Gelis-Cadena!"
+
+- date: "2025-06-01"
+  html: "Yisen Jin's papers, <a style=\"text-decoration:underline;\">Smooth and shape-constrained quantile distributed lag models</a> and <a style=\"text-decoration:underline;\">Kernelized discriminant analysis for joint modeling of multivariate categorical responses</a> accepted at Biometrics and JCGS, respectively"
+
+- date: "2025-03-01"
+  pre: "Dr. Yisen Jin"
+  url: "/images/YisenDefense.png"
+  link_text: "successfully defended"
+  post: "his Ph.D. thesis. In a few weeks, he will join Microsoft in Seattle. Congratulations Dr. Jin!"
+
+- date: "2025-01-02"
+  url: "https://arxiv.org/abs/2404.15060"
+  link_text: "Fast and reliable confidence intervals for a variance component"
+  post: "accepted at Biometrika"
+
+- date: "2025-01-01"
+  pre: "Hyun Jung Koo received the"
+  url: "https://mndrivebrainconditions.umn.edu/data-science-initiative-mndrive-phd-graduate-assistantship-program"
+  link_text: "DSI-MnDRIVE Graduate Assistantship Award"
+  post: "Congratulations HJ!"
+
+- date: "2024-11-01"
+  html: "<a style=\"text-decoration:underline;\">Multi-response linear discriminant analysis in high dimensions</a> accepted at Journal of Machine Learning Research"
+
+- date: "2024-10-01"
+  pre: "Hongru Zhao's paper,"
+  url: "https://arxiv.org/abs/2410.04356"
+  link_text: "Subspace decompositions for association structure learning in multivariate categorical response regression"
+  post: "now available on arXiv"
+
+- date: "2024-08-01"
+  pre: "Yisen Jin's paper,"
+  url: "https://ajmolstad.github.io/docs/SmoothQDLM.pdf"
+  link_text: "Smooth and shape-constrained quantile distributed lag models"
+  post: "now available on arXiv"
+
+- date: "2024-07-02"
+  url: "https://arxiv.org/abs/2306.05571"
+  link_text: "Heterogeneity-aware integrative regression for ancestry-specific association studies"
+  post: "accepted at Biometrics"
+
+- date: "2024-07-01"
+  url: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2413294&HistoricalAwards=false"
+  link_text: "Objective and reliable methods for inference with modern omics data"
+  post: "grant awarded by the National Science Foundation (DMS-2413294): this grant will fund our work on methods for analyzing spatially-resolved and single-cell transcriptomic data"
