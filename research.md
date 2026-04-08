@@ -10,16 +10,17 @@ permalink: /research/
 ❈ denotes equal contributions <br>
 
 {% for paper in site.data.papers %}
+<div class="paper-entry">
 {{ paper.title }} <br>
 {{ paper.authors }} ({{ paper.year }}) <br>
 *{{ paper.venue }}* <br>
-{% for link in paper.links %}[[{{ link.label }}]({{ link.url }})]{% endfor %}{% if paper.bibtex %}<span class="bib-toggle" style="cursor:pointer;" data-target="bib-{{ paper.key }}">&#91;bibtex&#93;</span>{% endif %}
+{% for link in paper.links %}[{{ link.label }}]({{ link.url }}){% unless forloop.last %} | {% endunless %}{% endfor %}{% if paper.bibtex %}{% if paper.links %} | {% endif %}<span class="bib-toggle" style="cursor:pointer;color:#6688aa;" data-target="bib-{{ paper.key }}">bibtex</span>{% endif %}
 {% if paper.bibtex %}
 <div id="bib-{{ paper.key }}" class="bib-content" style="display:none">
 <pre>{{ paper.bibtex }}</pre>
 </div>
 {% endif %}
-
+</div>
 {% endfor %}
 
 <script>
