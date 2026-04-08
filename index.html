@@ -14,6 +14,11 @@ layout: default
 </script>
 
 
+<style>
+  details summary .older-toggle::before { content: '▸ '; }
+  details[open] summary .older-toggle::before { content: '▾ '; }
+</style>
+
 <div class="default">
  <dl class="wp-caption alignleft" style="max-width: 230px">
 <dt><a href=""><img class="" src="/images/Molstad-4.jpg" alt="" /></a>
@@ -55,7 +60,7 @@ University of Florida <br>
 </ul>
 <details style="margin-top: -1.2em; margin-bottom: 1em;">
   <summary style="cursor: pointer; color: #555; font-size: 0.95em; list-style: none; display: inline-block; padding: 2px 0;">
-    <span style="border-bottom: 1px dashed #999;">&#9656; older talks</span>
+    <span class="older-toggle" style="border-bottom: 1px dashed #999;">older talks</span>
   </summary>
   <ul style="list-style-type:square; margin-top: 0.5em;">
     <li> (11/24) KU Probability and Statistics Conference in Lawrence, KS</li>
