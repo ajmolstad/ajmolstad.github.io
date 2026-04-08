@@ -17,6 +17,26 @@ layout: default
 <style>
   details summary .older-toggle::before { content: '▸ '; }
   details[open] summary .older-toggle::before { content: '▾ '; }
+
+  /* Portrait mobile: full-width image, text below */
+  @media screen and (max-width: 600px) and (orientation: portrait) {
+    .wp-caption.alignleft {
+      float: none;
+      max-width: 100% !important;
+      margin-right: 0;
+      margin-bottom: 16px;
+    }
+    .wp-caption.alignleft img {
+      width: 100%;
+    }
+  }
+
+  /* Landscape mobile: side-by-side, larger image */
+  @media screen and (max-width: 900px) and (orientation: landscape) {
+    .wp-caption.alignleft {
+      max-width: 38% !important;
+    }
+  }
 </style>
 
 <div class="default">
