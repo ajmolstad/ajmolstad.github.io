@@ -46,7 +46,7 @@ layout: default
 <dd></dd>
 </dl>
 <font size="3">
-	I am an Associate Professor in the <a href="https://cla.umn.edu/statistics"tyle="text-decoration: underline;">School of Statistics</a> at the University of Minnesota. I also hold a graduate faculty appointment in <a href="https://cse.umn.edu/datascience"s tyle="text-decoration: underline;">Data Science</a>. My primary research interests are in multivariate analysis, numerical optimization, statistical genetics and genomics, and more broadly, statistical and machine learning. Please see my research page for articles and funding information. I serve as Associate Editor for <a href="https://www.tandfonline.com/journals/udss20" style="text-decoration: underline;"> Data Science in Science</a> and <a href="https://www.tandfonline.com/journals/ucgs20" style="text-decoration: underline;"> Journal of Computational and Graphical Statistics</a>.
+	I am an Associate Professor in the <a href="https://cla.umn.edu/statistics">School of Statistics</a> at the University of Minnesota. I also hold a graduate faculty appointment in <a href="https://cse.umn.edu/datascience">Data Science</a>. My primary research interests are in multivariate analysis, numerical optimization, statistical genetics and genomics, and more broadly, statistical and machine learning. Please see my research page for articles and funding information. I serve as Associate Editor for <a href="https://www.tandfonline.com/journals/udss20">Data Science in Science</a> and <a href="https://www.tandfonline.com/journals/ucgs20">Journal of Computational and Graphical Statistics</a>.
 
 
 
@@ -91,7 +91,7 @@ University of Florida <br>
 {% assign sorted_news = site.data.news | sort: "date" | reverse %}
 <ul style="list-style-type:square;">
   {% for item in sorted_news limit: 12 %}
-  <li> ({{ item.date | date: "%-m/%y" }}) {% if item.html %}{{ item.html }}{% elsif item.text %}{{ item.text }}{% else %}{% if item.pre %}{{ item.pre }} {% endif %}{% if item.url %}<a href="{{ item.url }}" style="text-decoration:underline;">{{ item.link_text }}</a>{% endif %}{% if item.post %} {{ item.post }}{% endif %}{% endif %} </li>
+  <li> ({{ item.date | date: "%-m/%y" }}) {% if item.html %}{{ item.html }}{% elsif item.text %}{{ item.text }}{% else %}{% if item.pre %}{{ item.pre }} {% endif %}{% if item.url %}<a href="{{ item.url }}" >{{ item.link_text }}</a>{% endif %}{% if item.post %} {{ item.post }}{% endif %}{% endif %} </li>
   {% endfor %}
 </ul>
 <details style="margin-top: -1.2em; margin-bottom: 1em;">
@@ -100,7 +100,7 @@ University of Florida <br>
   </summary>
   <ul style="list-style-type:square; margin-top: 0.5em;">
     {% for item in sorted_news offset: 12 %}
-    <li> ({{ item.date | date: "%-m/%y" }}) {% if item.html %}{{ item.html }}{% elsif item.text %}{{ item.text }}{% else %}{% if item.pre %}{{ item.pre }} {% endif %}{% if item.url %}<a href="{{ item.url }}" style="text-decoration:underline;">{{ item.link_text }}</a>{% endif %}{% if item.post %} {{ item.post }}{% endif %}{% endif %} </li>
+    <li> ({{ item.date | date: "%-m/%y" }}) {% if item.html %}{{ item.html }}{% elsif item.text %}{{ item.text }}{% else %}{% if item.pre %}{{ item.pre }} {% endif %}{% if item.url %}<a href="{{ item.url }}" >{{ item.link_text }}</a>{% endif %}{% if item.post %} {{ item.post }}{% endif %}{% endif %} </li>
     {% endfor %}
   </ul>
 </details>
