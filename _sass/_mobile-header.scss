@@ -37,13 +37,18 @@
 .site-nav .menu li {
 		display: block;
 		margin: 0;
+		margin-bottom: 0;
 		color: #522d80;
 	}
 
-.site-nav ul.menu a {
-	background: #fff;
-	color: #522d80;
+.site-nav .menu,
+.site-nav .sub-menu {
+	margin-bottom: 0;
+}
 
+.site-nav ul.menu a {
+	background: $background-color;
+	color: #522d80;
 }
 
 .site-nav a,
@@ -62,7 +67,7 @@
 		-webkit-box-shadow: none; /* Saf3+, Chrome */
 		box-shadow: none; /* Standard. Opera 10.5, IE9 */
 		display: block;
-		font-family: 'Titillium Web', Helvetica, Arial, Verdana, sans-serif;
+		font-family: $base-font-family;
 		position: relative;
 		min-width: 215px;
 		max-width: 215px;
