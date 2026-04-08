@@ -11,10 +11,12 @@ permalink: /research/
 
 {% for paper in site.data.papers %}
 <div class="paper-entry">
+<p>
 {{ paper.title }} <br>
 {{ paper.authors }} ({{ paper.year }}) <br>
-*{{ paper.venue }}* <br>
-{% for link in paper.links %}[{{ link.label }}]({{ link.url }}){% unless forloop.last %} | {% endunless %}{% endfor %}{% if paper.bibtex %}{% if paper.links %} | {% endif %}<span class="bib-toggle" style="cursor:pointer;color:#6688aa;" data-target="bib-{{ paper.key }}">bibtex</span>{% endif %}
+<em>{{ paper.venue }}</em> <br>
+{% for link in paper.links %}<a href="{{ link.url }}">{{ link.label }}</a>{% unless forloop.last %} | {% endunless %}{% endfor %}{% if paper.bibtex %}{% if paper.links %} | {% endif %}<span class="bib-toggle" style="cursor:pointer;color:#6688aa;" data-target="bib-{{ paper.key }}">bibtex</span>{% endif %}
+</p>
 {% if paper.bibtex %}
 <div id="bib-{{ paper.key }}" class="bib-content" style="display:none">
 <pre>{{ paper.bibtex }}</pre>
