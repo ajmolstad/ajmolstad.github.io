@@ -42,8 +42,18 @@
 	}
 
 .site-nav .menu,
-.site-nav .sub-menu {
-	margin-bottom: 0;
+.site-nav .sub-menu,
+.site-nav .menu li,
+.site-nav .menu a {
+	margin: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	line-height: normal;
+}
+
+.site-nav .menu a {
+	padding: 6px 10px;
+	display: block;
 }
 
 .site-nav ul.menu a {
