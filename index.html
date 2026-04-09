@@ -17,60 +17,19 @@ layout: default
 <style>
   details summary .older-toggle::before { content: '▸ '; }
   details[open] summary .older-toggle::before { content: '▾ '; }
-
-  /* Portrait mobile: full-width image, text below */
-  @media screen and (max-width: 600px) and (orientation: portrait) {
-    .wp-caption.alignleft {
-      float: none;
-      max-width: 100% !important;
-      margin-right: 0;
-      margin-bottom: 16px;
-    }
-    .wp-caption.alignleft img {
-      width: 100%;
-    }
-  }
-
-  /* Landscape mobile: side-by-side, larger image */
-  @media screen and (max-width: 900px) and (orientation: landscape) {
-    .wp-caption.alignleft {
-      max-width: 38% !important;
-    }
-  }
 </style>
 
 <div class="default">
- <dl class="wp-caption alignleft" style="max-width: 230px">
-<dt><a href=""><img class="" src="/images/Molstad-4.jpg" alt="" /></a>
-	<img padding: 6px;></dt>
-<dd></dd>
-</dl>
-<font size="3">
-	I am an Associate Professor in the <a href="https://cla.umn.edu/statistics">School of Statistics</a> at the University of Minnesota. I also hold a graduate faculty appointment in <a href="https://cse.umn.edu/datascience">Data Science</a>. My primary research interests are in multivariate analysis, numerical optimization, statistical genetics and genomics, and more broadly, statistical and machine learning. Please see my research page for articles and funding information. I serve as Associate Editor for <a href="https://www.tandfonline.com/journals/udss20">Data Science in Science</a> and <a href="https://www.tandfonline.com/journals/ucgs20">Journal of Computational and Graphical Statistics</a>.
+<div class="home-intro">
+  <div class="home-photo">
+    <img src="/images/Molstad-4.jpg" alt="Aaron J. Molstad" />
+  </div>
+  <div class="home-bio">
+    I am an Associate Professor in the <a href="https://cla.umn.edu/statistics">School of Statistics</a> at the University of Minnesota. I also hold a graduate faculty appointment in <a href="https://cse.umn.edu/datascience">Data Science</a>. My primary research interests are in multivariate analysis, numerical optimization, statistical genetics and genomics, and more broadly, statistical and machine learning. Please see my research page for articles and funding information. I serve as Associate Editor for <a href="https://www.tandfonline.com/journals/udss20">Data Science in Science</a> and <a href="https://www.tandfonline.com/journals/ucgs20">Journal of Computational and Graphical Statistics</a>.
+  </div>
+</div>
 
-
-
-
-<!-- <p style="font-family:courier;font-size:130%;">
-Assistant Professor  <br>
-Department of Statistics <br>
-University of Florida <br>
-<br>
-<i> email: </i> amolstad@ufl.edu <br>
-<i> office: </i> XXX Griffin-Floyd Hall<br>
-<i> dept: </i> 321 Griffin-Floyd Hall<br>
- &nbsp &nbsp&nbsp &nbsp  &nbsp   University of Florida <br> 
- &nbsp &nbsp&nbsp &nbsp  &nbsp   Gainesville, FL 32611 <br> 
- </p>
-<br>
-<br> -->
-<!-- <br>
-<b> UF graduate students interested in statistical computing and optimization:</b>  please feel free to contact me by email or stop by my office to learn more about potential research opportunities.
-<br> -->
-<br>
- <br>
-    <div style="clear: both;"></div>
-<font font-size: 3.5em><b>Recent and upcoming talks</b></font>
+<h2 class="home-section-heading">Recent and upcoming talks</h2>
 {% assign sorted_talks = site.data.talks | sort: "date" | reverse %}
 <ul style="list-style-type:square;">
   {% for talk in sorted_talks limit: 5 %}
@@ -87,7 +46,7 @@ University of Florida <br>
     {% endfor %}
   </ul>
 </details>
-<font font-size: 3.5em><b>News and updates</b></font>
+<h2 class="home-section-heading">News and updates</h2>
 {% assign sorted_news = site.data.news | sort: "date" | reverse %}
 <ul style="list-style-type:square;">
   {% for item in sorted_news limit: 12 %}

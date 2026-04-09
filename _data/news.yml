@@ -54,7 +54,7 @@
   post: "her Ph.D. thesis. She will start as Lecturer at University of Florida in the fall. Congratulations Dr. Gelis-Cadena!"
 
 - date: "2025-06-01"
-  html: "Yisen Jin's papers, <a>Smooth and shape-constrained quantile distributed lag models</a> and <a>Kernelized discriminant analysis for joint modeling of multivariate categorical responses</a> accepted at Biometrics and JCGS, respectively"
+  html: "Yisen Jin's papers, <a href='https://arxiv.org/abs/2408.08450'>Smooth and shape-constrained quantile distributed lag models</a> and <a href='https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2526412'>Kernelized discriminant analysis for joint modeling of multivariate categorical responses</a> accepted at Biometrics and JCGS, respectively"
 
 - date: "2025-03-01"
   pre: "Dr. Yisen Jin"
@@ -74,7 +74,7 @@
   post: "Congratulations HJ!"
 
 - date: "2024-11-01"
-  html: "<a>Multi-response linear discriminant analysis in high dimensions</a> accepted at Journal of Machine Learning Research"
+  html: "<a href='http://jmlr.org/papers/v25/23-0961.html'>Multi-response linear discriminant analysis in high dimensions</a> accepted at Journal of Machine Learning Research"
 
 - date: "2024-10-01"
   pre: "Hongru Zhao's paper,"
