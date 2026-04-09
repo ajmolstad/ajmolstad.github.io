@@ -6,7 +6,7 @@ permalink: /about/
 {% include image.html url="/images/Norway3.jpg" width=800 align="center" %}
 
 
-My research interests are in multivariate analysis, numerical optimization, and more broadly, statistical and machine learning. My goal is to develop computationally efficient and model-based methods for classification, regression, clustering, and dimension reduction, with an emphasis on applications in modern "omics" data analyses (transcriptomics, proteomics, etc). An abbreviated biography can be found below. For a more elaborate biography, see <a href="https://cla.umn.edu/statistics/news-events/profile/im-interested-how-life-works">this interview from 2023</a>.
+My research interests are in multivariate analysis, numerical optimization, and more broadly, statistical and machine learning. My goal is to develop computationally efficient and model-based methods for classification, regression, clustering, and dimension reduction, with an emphasis on applications in modern "omics" data analyses (transcriptomics, proteomics, etc). An abbreviated biography can be found below. 
 
 
  <style>

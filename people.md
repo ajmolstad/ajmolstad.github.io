@@ -8,7 +8,6 @@ permalink: /people/
     margin-left: 20px;   /* Adjust indentation as needed */
   }
 </style>
-
 <em> Current group </em>
 <ul>
   <li>
@@ -29,6 +28,9 @@ permalink: /people/
   </li>
   <li>
     <strong>Aidan Dunleavy</strong> MS student
+  </li>
+    <li>
+    <strong>Henry Chukwuma</strong> MS student
   </li>
    <li>
     <strong>Ning-Shan Chang</strong> MS student (supervised by Sithara Vivek)
