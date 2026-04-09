@@ -14,11 +14,6 @@ layout: default
 </script>
 
 
-<style>
-  details summary .older-toggle::before { content: '▸ '; }
-  details[open] summary .older-toggle::before { content: '▾ '; }
-</style>
-
 <div class="default">
 <div class="home-intro">
   <div class="home-photo">
@@ -36,7 +31,7 @@ layout: default
   <li> ({{ talk.date | date: "%-m/%y" }}) {{ talk.text }} </li>
   {% endfor %}
 </ul>
-<details style="margin-top: -1.2em; margin-bottom: 1em;">
+<details style="margin-top: -0.6em; margin-bottom: 1em;">
   <summary style="cursor: pointer; color: #555; font-size: 0.95em; list-style: none; display: inline-block; padding: 2px 0;">
     <span class="older-toggle" style="border-bottom: 1px dashed #999;">older talks</span>
   </summary>
@@ -53,7 +48,7 @@ layout: default
   <li> ({{ item.date | date: "%-m/%y" }}) {% if item.html %}{{ item.html }}{% elsif item.text %}{{ item.text }}{% else %}{% if item.pre %}{{ item.pre }} {% endif %}{% if item.url %}<a href="{{ item.url }}" >{{ item.link_text }}</a>{% endif %}{% if item.post %} {{ item.post }}{% endif %}{% endif %} </li>
   {% endfor %}
 </ul>
-<details style="margin-top: -1.2em; margin-bottom: 1em;">
+<details style="margin-top: -0.6em; margin-bottom: 1em;">
   <summary style="cursor: pointer; color: #555; font-size: 0.95em; list-style: none; display: inline-block; padding: 2px 0;">
     <span class="older-toggle" style="border-bottom: 1px dashed #999;">older news</span>
   </summary>

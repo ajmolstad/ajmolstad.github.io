@@ -236,6 +236,12 @@ font-family: 'Capita', Georgia, serif;
 
 
 /**
+ * Collapsible toggle arrows
+ */
+details summary .older-toggle::before { content: '▸ '; }
+details[open] summary .older-toggle::before { content: '▾ '; }
+
+/**
  * Homepage intro layout
  */
 .home-intro {
