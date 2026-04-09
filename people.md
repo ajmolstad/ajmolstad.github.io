@@ -2,8 +2,6 @@
 layout: page
 permalink: /people/
 ---
-{% include image.html url="/images/skagen.JPG" width=800 align="center" %}
-
 <style>
   li em {
     display: block;      /* Makes margin-left work nicely */

@@ -3,8 +3,6 @@ layout: page
 permalink: /research/
 ---
 
-{% include image.html url="/images/Norway1.jpg" width=800 align="center" %}
-
 *Research supported in part by NIH R01-HL152439 (2021-2022, 2024), NSF DMS-2113589/2415067 (2021-2025), and NSF DMS-2413294 (2024-2027).*
 
 ❈ denotes equal contributions <br>
