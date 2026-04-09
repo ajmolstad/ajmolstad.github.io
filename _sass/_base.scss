@@ -282,7 +282,7 @@ font-family: 'Capita', Georgia, serif;
  */
 .paper-entry {
   margin-bottom: $spacing-unit * 0.6;
-  padding-bottom: $spacing-unit * 0.6;
+  padding-bottom: 0;
   border-bottom: 1px solid $grey-color-light;
 
   &:last-child {

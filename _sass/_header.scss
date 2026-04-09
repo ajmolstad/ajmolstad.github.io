@@ -3,7 +3,7 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-	border-bottom: 2px solid #6688aa;
+	border-bottom: none;
     min-height: 56px;
     background: $clemson-orange;
     // Positioning context for the mobile navigation icon
@@ -35,6 +35,7 @@
 .site-header .wrapper {
 	padding-top: 20px;
 	position: relative;
+	border-bottom: 2px solid #6688aa;
 }
 
 .site-nav ul li a {
