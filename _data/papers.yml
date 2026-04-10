@@ -11,6 +11,24 @@
 #   links     - list of {label, url} pairs (optional)
 #   bibtex    - full BibTeX entry as a literal block (optional)
 
+- key: "zhong2026scdecrypter"
+  title: "scDEcrypter: Uncertainty-aware differential expression analysis for viral infection in scRNA-seq"
+  authors: "Zhong, L., Ensberg, K., Tibbetts, S., <strong>Molstad, A. J.</strong>, and Bacher, R."
+  year: "2026+"
+  venue: "Submitted"
+  links:
+    - label: "pdf"
+      url: "https://www.biorxiv.org/content/10.64898/2026.03.09.710583v1"
+  bibtex: |
+    @misc{zhong2026scdecrypter,
+      title         = {sc{DE}crypter: Uncertainty-aware differential expression analysis for viral infection in {scRNA}-seq},
+      author        = {Zhong, Luer and Ensberg, Karl and Tibbetts, Scott and Molstad, Aaron J. and Bacher, Rhonda},
+      year          = {2026},
+      eprint        = {2026.03.09.710583},
+      archivePrefix = {bioRxiv},
+      primaryClass  = {q-bio.GN}
+    }
+
 - key: "chang2025simultaneous"
   title: "Simultaneous predictor and response dimension reduction for multivariate categorical response regression"
   authors: "Chang, T.<sup>❈</sup>, Jin, Y.<sup>❈</sup>, Chi, E. C., Zhang, X., and <strong>Molstad, A. J.</strong>"
