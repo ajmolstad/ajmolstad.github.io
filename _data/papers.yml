@@ -13,24 +13,24 @@
 
 
 
-- key: "koo2025unified"
-  title: "A unified approach to spatial domain detection and cell-type deconvolution in spot-based spatial transcriptomics"
-  authors: "Koo, H. J. and <strong>Molstad, A. J.</strong>"
-  year: "2025+"
+- key: "zhong2026scDEcrypter"
+  title: "scDEcrypter: Uncertainty-aware differential expression analysis for viral infection in scRNA-seq"
+  authors: "Zhong, L., Ensberg, K., Tibbets, S., <strong>Molstad, A. J.</strong>, and Bacher, R."
+  Koo, H. J. and <strong>Molstad, A. J.</strong>"
+  year: "2026+"
   venue: "Submitted"
   links:
     - label: "pdf"
-      url: "https://arxiv.org/abs/2511.06204"
+      url: "https://www.biorxiv.org/content/10.64898/2026.03.09.710583v1"
   bibtex: |
-    @misc{koo2025unified,
-      title         = {A unified approach to spatial domain detection and cell-type deconvolution in spot-based spatial transcriptomics},
-      author        = {Koo, Hyun Jung and Molstad, Aaron J.},
-      year          = {2025},
-      eprint        = {2511.06204},
-      archivePrefix = {arXiv},
-      primaryClass  = {stat.AP}
-    }
-
+   @article{zhong2026scdecrypter,
+    title={scDEcrypter: Uncertainty-aware differential expression analysis for viral infection in scRNA-seq},
+    author={Zhong, Luer and Ensberg, Karl and Tibbetts, Scott and Molstad, Aaron J and Bacher, Rhonda},
+    journal={bioRxiv},
+    pages={2026--03},
+    year={2026},
+    publisher={Cold Spring Harbor Laboratory}
+  }
 
 
 - key: "chang2025simultaneous"
