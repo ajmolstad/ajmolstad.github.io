@@ -11,23 +11,27 @@
 #   links     - list of {label, url} pairs (optional)
 #   bibtex    - full BibTeX entry as a literal block (optional)
 
-- key: "zhong2026scdecrypter"
-  title: "scDEcrypter: Uncertainty-aware differential expression analysis for viral infection in scRNA-seq"
-  authors: "Zhong, L., Ensberg, K., Tibbetts, S., <strong>Molstad, A. J.</strong>, and Bacher, R."
-  year: "2026+"
+
+
+- key: "koo2025unified"
+  title: "A unified approach to spatial domain detection and cell-type deconvolution in spot-based spatial transcriptomics"
+  authors: "Koo, H. J. and <strong>Molstad, A. J.</strong>"
+  year: "2025+"
   venue: "Submitted"
   links:
     - label: "pdf"
-      url: "https://www.biorxiv.org/content/10.64898/2026.03.09.710583v1"
+      url: "https://arxiv.org/abs/2511.06204"
   bibtex: |
-    @misc{zhong2026scdecrypter,
-      title         = {sc{DE}crypter: Uncertainty-aware differential expression analysis for viral infection in {scRNA}-seq},
-      author        = {Zhong, Luer and Ensberg, Karl and Tibbetts, Scott and Molstad, Aaron J. and Bacher, Rhonda},
-      year          = {2026},
-      eprint        = {2026.03.09.710583},
-      archivePrefix = {bioRxiv},
-      primaryClass  = {q-bio.GN}
+    @misc{koo2025unified,
+      title         = {A unified approach to spatial domain detection and cell-type deconvolution in spot-based spatial transcriptomics},
+      author        = {Koo, Hyun Jung and Molstad, Aaron J.},
+      year          = {2025},
+      eprint        = {2511.06204},
+      archivePrefix = {arXiv},
+      primaryClass  = {stat.AP}
     }
+
+
 
 - key: "chang2025simultaneous"
   title: "Simultaneous predictor and response dimension reduction for multivariate categorical response regression"
