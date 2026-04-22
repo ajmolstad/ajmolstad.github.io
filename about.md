@@ -6,7 +6,7 @@ permalink: /about/
 {% include image.html url="/images/Norway3.jpg" width=800 align="center" %}
 
 
-My research interests are in multivariate analysis, numerical optimization, and more broadly, statistical and machine learning. My goal is to develop computationally efficient and model-based methods for classification, regression, clustering, and dimension reduction, with an emphasis on applications in modern "omic" data analyses (transcriptomics, proteomics, etc). An abbreviated biography can be found below. 
+My research interests are in multivariate analysis, numerical optimization, and more broadly, statistical and machine learning. My goal is to develop computationally efficient and model-based methods for classification, regression, clustering, and dimension reduction, with an emphasis on applications in modern "omic" data analyses (transcriptomics, proteomics, etc) and microbiome research. An abbreviated biography can be found below. 
 
 
  <style>
