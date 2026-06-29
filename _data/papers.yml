@@ -12,6 +12,24 @@
 #   bibtex    - full BibTeX entry as a literal block (optional)
 
 
+- key: "Kwon2026fast"
+  title: "Fast algorithms for semi-supervised multiple quantile regression in high dimensions"
+  authors: "Kwon, Y., Sherwood, B., and <strong>Molstad, A. J.</strong>."
+  year: "2026+"
+  venue: "Submitted"
+  links:
+    - label: "pdf"
+      url: "https://ajmolstad.github.io/docs/FastMQR.pdf"
+
+- key: "Yan2026conditional"
+  title: "Conditional Probability Tensor Estimation via Neural Networks"
+  authors: "Yan, L., Zhang, X., and <strong>Molstad, A. J.</strong>."
+  year: "2026+"
+  venue: "Submitted"
+  # links:
+  #   - label: "pdf"
+  #     url: "/docs/FastMQR.pdf"
+
 
 - key: "zhong2026scDEcrypter"
   title: "scDEcrypter: Uncertainty-aware differential expression analysis for viral infection in scRNA-seq"
@@ -39,7 +57,7 @@
   venue: "Submitted"
 
 - key: "koo2025unified"
-  title: "A unified approach to spatial domain detection and cell-type deconvolution in spot-based spatial transcriptomics"
+  title: "Constrained convex clustering for interpretable spatial domain detection in spot-based spatial transcriptomics"
   authors: "Koo, H. J. and <strong>Molstad, A. J.</strong>"
   year: "2025+"
   venue: "Submitted"
@@ -48,7 +66,7 @@
       url: "https://arxiv.org/abs/2511.06204"
   bibtex: |
     @misc{koo2025unified,
-      title         = {A unified approach to spatial domain detection and cell-type deconvolution in spot-based spatial transcriptomics},
+      title         = {Constrained convex clustering for interpretable spatial domain detection in spot-based spatial transcriptomics},
       author        = {Koo, Hyun Jung and Molstad, Aaron J.},
       year          = {2025},
       eprint        = {2511.06204},
