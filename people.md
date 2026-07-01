@@ -23,10 +23,6 @@ permalink: /people/
         <em> Topic. Transfer learning in high dimensions</em>
   </li>
   <li>
-    <strong>Jinwen Fu </strong> PhD student (co-advised with Hui Zou) <br>
-            <em>Topic. Feature aggregation, data compression and representation learning </em>
-  </li>
-  <li>
     <strong>Aidan Dunleavy</strong> MS student
   </li>
     <li>
@@ -40,6 +36,10 @@ permalink: /people/
 <em> Group alumni </em>
 
 <ul>
+  <li>
+    <strong>Jinwen Fu </strong> PhD, University of Minnesota (co-advised with Hui Zou) <br>
+            <em>First Position. Postdoctoral Fellow, University of Southern California  </em>
+  </li>
   <li>
     <strong>Mohammed Qaysi</strong> MS, University of Minnesota <br>
     <em>First position. PhD student in Statistics at Florida State University </em>
