@@ -28,9 +28,6 @@ permalink: /people/
     <li>
     <strong>Henry Chukwuma</strong> MS student
   </li>
-   <li>
-    <strong>Ning-Shan Chang</strong> MS student (supervised by Sithara Vivek)
-  </li>
 </ul>
 
 <em> Group alumni </em>
