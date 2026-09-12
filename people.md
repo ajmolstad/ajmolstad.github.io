@@ -32,6 +32,7 @@ permalink: /people/
 <ul>
   <li>
     <strong>Jinwen Fu </strong> PhD, University of Minnesota (co-advised with Hui Zou) <br>
+     <em>Thesis. Data-adaptive statistical methods for high-dimensional regression and composite likelihood inference </em>
             <em>First Position. Postdoctoral Fellow, University of Southern California  </em>
   </li>
   <li>
