@@ -25,9 +25,6 @@ permalink: /people/
   <li>
     <strong>Aidan Dunleavy</strong> MS student
   </li>
-    <li>
-    <strong>Henry Chukwuma</strong> MS student
-  </li>
 </ul>
 
 <em> Group alumni </em>
@@ -36,6 +33,9 @@ permalink: /people/
   <li>
     <strong>Jinwen Fu </strong> PhD, University of Minnesota (co-advised with Hui Zou) <br>
             <em>First Position. Postdoctoral Fellow, University of Southern California  </em>
+  </li>
+  <li>
+    <strong>Henry Chukwuma</strong> MS student, University of Minnesota
   </li>
   <li>
     <strong>Mohammed Qaysi</strong> MS, University of Minnesota <br>
