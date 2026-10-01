@@ -29,7 +29,7 @@
 - date: "2025-11-01"
   pre: "HJ Koo's paper,"
   url: "https://arxiv.org/abs/2511.06204"
-  link_text: "A unified approach to spatial domain detection and cell-type deconvolution in spot-based spatial transcriptomics"
+  link_text: "Constrained convex clustering for interpretable spatial domain detection in spot-based spatial transcriptomics"
   post: "now available on arXiv"
 
 - date: "2025-09-03"
