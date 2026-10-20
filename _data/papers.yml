@@ -44,8 +44,8 @@
     title={scDEcrypter: Uncertainty-aware differential expression analysis for viral infection in scRNA-seq},
     author={Zhong, Luer and Ensberg, Karl and Tibbetts, Scott and Molstad, Aaron J and Bacher, Rhonda},
     journal={bioRxiv},
-    pages={2026--03},
     year={2026},
+    doi={10.64898/2026.03.09.710583},
     publisher={Cold Spring Harbor Laboratory}
    }
 
@@ -107,13 +107,12 @@
     - label: "pdf"
       url: "https://arxiv.org/abs/2410.04356"
   bibtex: |
-    @misc{zhao2024subspace,
-      title         = {Subspace decompositions for association structure learning in multivariate categorical response regression},
-      author        = {Zhao, Hongru and Molstad, Aaron J. and Rothman, Adam J.},
-      year          = {2024},
-      eprint        = {2410.04356},
-      archivePrefix = {arXiv},
-      primaryClass  = {stat.ME}
+    @article{zhao2026subspace,
+      title   = {Subspace decompositions for association structure learning in multivariate categorical response regression},
+      author  = {Zhao, Hongru and Molstad, Aaron J. and Rothman, Adam J.},
+      journal = {Electronic Journal of Statistics},
+      year    = {2026},
+      note    = {To appear. arXiv:2410.04356}
     }
 
 - key: "zhang2026universal"
@@ -124,6 +123,8 @@
   links:
     - label: "pdf"
       url: "https://koekvall.github.io/files/univ_vc.pdf"
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2509.00255"
     - label: "software"
       url: "https://github.com/koekvall/univ_vc_suppl"
   bibtex: |
@@ -134,6 +135,7 @@
       year    = {2026},
       volume  = {15},
       number  = {1},
+      pages   = {e70141},
       doi     = {10.1002/sta4.70141}
     }
 
@@ -152,6 +154,7 @@
       journal = {Annual Review of Statistics and Its Application},
       year    = {2026},
       volume  = {13},
+      number  = {1},
       pages   = {175--199},
       doi     = {10.1146/annurev-statistics-112723-034107}
     }
@@ -159,11 +162,13 @@
 - key: "molstad2025conditional"
   title: "Conditional probability tensor decompositions for multivariate categorical response regression"
   authors: "<strong>Molstad, A. J.</strong><sup>❈</sup> and Zhang, X.<sup>❈</sup>"
-  year: "2025+"
+  year: "2026"
   venue: "Journal of the American Statistical Association"
   links:
     - label: "pdf"
-      url: "https://arxiv.org/pdf/2206.10676"
+      url: "https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2567045"
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2206.10676"
     - label: "software"
       url: "https://github.com/ajmolstad/CondTensorDecomp"
   bibtex: |
@@ -171,7 +176,10 @@
       title   = {Conditional probability tensor decompositions for multivariate categorical response regression},
       author  = {Molstad, Aaron J. and Zhang, Xin},
       journal = {Journal of the American Statistical Association},
-      year    = {2025},
+      year    = {2026},
+      volume  = {121},
+      number  = {554},
+      pages   = {1310--1323},
       doi     = {10.1080/01621459.2025.2567045}
     }
 
@@ -190,6 +198,8 @@
       journal = {Genome Biology},
       year    = {2025},
       volume  = {26},
+      number  = {1},
+      pages   = {200},
       doi     = {10.1186/s13059-025-03671-x}
     }
 
@@ -211,13 +221,14 @@
       year    = {2025},
       volume  = {81},
       number  = {3},
+      pages   = {ujaf101},
       doi     = {10.1093/biomtc/ujaf101}
     }
 
 - key: "jin2025kernelized"
   title: "Kernelized discriminant analysis for joint modeling of multivariate categorical responses"
   authors: "Jin, Y., Zhang, X. and <strong>Molstad, A. J.</strong>"
-  year: "2025"
+  year: "2026"
   venue: "Journal of Computational and Graphical Statistics"
   links:
     - label: "pdf"
@@ -229,7 +240,7 @@
       title   = {Kernelized discriminant analysis for joint modeling of multivariate categorical responses},
       author  = {Jin, Yisen and Zhang, Xin and Molstad, Aaron J.},
       journal = {Journal of Computational and Graphical Statistics},
-      year    = {2025},
+      year    = {2026},
       volume  = {35},
       number  = {1},
       pages   = {251--262},
@@ -263,7 +274,7 @@
 - key: "deng2024multi"
   title: "Multi-response linear discriminant analysis in high dimensions"
   authors: "Deng, K., Zhang, X., and <strong>Molstad, A. J.</strong>"
-  year: "2025"
+  year: "2024"
   venue: "Journal of Machine Learning Research"
   links:
     - label: "pdf"
