@@ -12,6 +12,12 @@
 #   bibtex    - full BibTeX entry as a literal block (optional)
 
 
+- key: "Cadena2026npAFT"
+  title: "Nonparametric accelerated failure time models with application to multiview survival analysis"
+  authors: "Gelis-Cadena, K., Ekvall, K.O., and <strong>Molstad, A. J.</strong>"
+  year: "2026+"
+  venue: "Submitted"
+
 - key: "Yan2026conditional"
   title: "Conditional probability tensor estimation via neural networks"
   authors: "Yan, L., Zhang, X., and <strong>Molstad, A. J.</strong>"
